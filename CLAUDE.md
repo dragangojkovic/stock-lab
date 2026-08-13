@@ -3,6 +3,13 @@
 Operativna specifikacija za analizu pojedinačnih akcija. Ovaj fajl čitaš pre svake
 analize i pratiš ga bez improvizacije.
 
+@docs/05-sektorska-kalibracija.md
+
+> `docs/05` je operativan i potreban pri svakoj analizi van softvera — importovan je
+> gore da se ne zaboravi. `docs/04-sta-ovo-moze-da-dokaze.md` je filozofski/statistički
+> i treba ga pročitati jednom, ne pri svakoj analizi — ostaje referenca u tekstu, nije
+> import.
+
 ---
 
 ## 0. Kontekst i granice
@@ -413,3 +420,66 @@ sadržaj. Ako je oko 50%, tvoj okvir ne razlikuje ništa i cena ti neće pomoći
 2. Konkretan iznos satelita i potvrda da je to ≤ 10% ukupnog portfolija.
 3. Odluka: samo paper, ili paper + mali realan iznos? (Paper ne testira ponašanje —
    emotivni pritisak realnog novca je ono što razbija disciplinu.)
+
+---
+
+## 9. Komande
+
+Sve skripte koriste samo standardnu Python biblioteku. Windows: `python`, ne
+`python3`. Ako Unicode karakteri (≥, →) pucaju sa `UnicodeEncodeError` na Windows
+konzoli, postavi `PYTHONIOENCODING=utf-8` pre pozivanja skripte.
+
+```
+# 1. Popuni market blok (cena, EV, P/E, PEG...) iz jedne cene zatvaranja
+python scripts/fill_price.py data/<ticker>.json <CENA> --growth <konsenzus_EPS_rast> --dry
+python scripts/fill_price.py data/<ticker>.json <CENA> --growth <konsenzus_EPS_rast>
+
+# 2. Generiši scorecard (5 kriterijuma + kapije) iz popunjenog JSON-a
+python scripts/scorecard.py data/<ticker>.json --md > analize/<ticker>-scorecard.md
+
+# 3. Mesečni pregled portfolija vs VUAA benchmark
+python scripts/tracker.py
+```
+
+Cena za `fill_price.py` ide isključivo iz IBKR-a (zaključna cena, ne intraday, ne
+agregatori sa weba — vidi §0 pravilo 3 i `docs/05`). Uz nju se uvek uzima i VUAA
+zaključna cena istog dana.
+
+---
+
+## 10. Definicija završene analize
+
+Analiza jedne kompanije **nije završena** dok nije provereno sve sledeće:
+
+1. Svaki broj u `data/<ticker>.json` ima izvor (dokument + datum) — bez izvora broj
+   ne ulazi u scorecard, ide kao `N/A — treba proveriti`.
+2. `scripts/scorecard.py` je pokrenut i izlaz je sačuvan u `analize/<ticker>-scorecard.md`.
+3. Sekcije koje popunjava Claude (podaci, izračuni, poređenje sa konkurencijom,
+   otvorena pitanja) su u `analize/<ticker>.md` — vidi podelu rada §6 u `HANDOFF.md`.
+4. Sekcije koje popunjava vlasnik (moat, tri stvari koje bi opovrgle tezu, pet
+   predviđanja sa nivoom uverenosti, odluka) su **ostavljene prazne ili kao predlog
+   jasno obeležen kao predlog** — Claude ih ne popunjava u ime vlasnika.
+5. Ako pozicija ulazi u paper portfolio: upis u `data/positions.csv` je sa
+   neretroaktivnim datumom i cenom zatvaranja tog dana, plus VUAA cena istog dana.
+6. Sve gorenavedeno je komitovano istog dana (vidi Z1 u `HANDOFF.md` — metodološka
+   zaštita od hindsight bias-a, ne higijena).
+
+Ako nešto od 1–6 ne može da se verifikuje (npr. izvor nedostupan), to se kaže
+eksplicitno — ne tretira se kao završeno.
+
+---
+
+## 11. Šta da ne radim
+
+- Ne izmišljam brojeve ni kada je "očigledno" koliki bi trebalo da budu — `N/A`.
+- Ne uzimam cenu ili finansijske brojeve sa agregatora (stockanalysis, GuruFocus,
+  Yahoo, TipRanks) — samo SEC EDGAR / 8-K / 10-K / IBKR za cenu.
+- Ne biram "bolju" cenu ili datum iz prošlosti kad je dostupna novija informacija —
+  datum i cena ulaza se zaključavaju pre nego što se ishod zna.
+- Ne pišem moat, tri opovrgavajuće tačke, predviđanja ili odluku u ime vlasnika —
+  mogu da ponudim predlog, jasno obeležen kao predlog.
+- Ne prilagođavam metriku ili prag da bi analiza "prošla" kad kompanija pada u
+  isključeni sektor ili kapiju.
+- Ne preporučujem buy/sell, ni pomeranje kapitala iz Mission 1M u satelit.
+- Ne amenduj-ujem stare git komite ni prepravljam stare zapise u `positions.csv` /
+  `predvidjanja.csv` — ispravke idu kao novi datirani zapis.
