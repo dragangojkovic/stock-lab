@@ -91,7 +91,7 @@ K1-ALT (kapitalno-laka firma): FCF marža 34,6% | FCF marža nakon SBC 24,3%
 K2 (marže): Bruto 56,3% | Operativna 25,9% (RASTE, 20,2%→25,9% kroz 5g) | Neto 20,3%
 K3 (zaduženost): ND/EBITDA -0,95x | D/E 0,18 | nema finansijskog duga (samo operativni lease)
 K4 (FCF): FCF $374,0M (2025) | FCF konverzija prosek 1,47 | SBC/prihod 10,3% ⚠ | rast akcija CAGR -1,3%
-K5 (valuacija @ 192,63): P/E 53,51 | PEG_trailing 2,64 | PEG_forward 9,07 | FCF yield na EV 3,3% (2,3% nakon SBC)
+K5 (valuacija @ 192,63): P/E 53,51 (GAAP) | PEG_trailing 2,64 | PEG_forward 107,02 (GAAP, vidi napomenu §5) | FCF yield na EV 3,3% (2,3% nakon SBC)
 ```
 
 **Kapije:** prošlo 5/6 | palo 0 | nije primenljivo 1 (G1 → zamenjeno FCF maržom, ne
@@ -148,24 +148,43 @@ znatno iznad praga 0,70 — nije diferencijator u ovom uzorku.
 
 ## 5. Valuacija — dve nezavisne provere
 
+**Ispravka (2026-08-13):** raniji broj `consensus_eps_growth_3y = 5,9%` je uklonjen
+— nije imao naveden izvor u `data/MANH.json` (kršenje pravila "bez izvora ne ulazi
+u scorecard"). Istraživanjem je potvrđeno da nije postojao imenovan primarni ni
+agregatorski izvor za taj konkretan broj. Zamenjen je verifikovanim, sourced brojem
+— vidi napomena ispod.
+
 | Metod | Rezultat | Šta pretpostavlja |
 |---|---|---|
-| PEG_trailing | **2,64** (P/E 53,51 / EPS CAGR 20,3%) | prošli rast (buyback + operativni leverage) se nastavlja |
-| PEG_forward | **9,07** (P/E 53,51 / konsenzus rast 5,9%) | konsenzus analitičara je tačan |
+| PEG_trailing | **2,64** (P/E 53,51 GAAP / EPS CAGR 20,3% GAAP) | prošli rast (buyback + operativni leverage) se nastavlja |
+| PEG_forward (GAAP, iz scorecard-a) | **107,02** (P/E 53,51 GAAP / FY2026 GAAP EPS guidance rast 0,5%) | GAAP EPS guidance za FY2026 je realan — a on je gotovo ravan |
+| PEG_forward (Adjusted, ručni kontrolni izračun — NIJE iz scorecard.py) | **4,48** (Adjusted P/E 38,07 / FY2026 Adjusted EPS guidance rast 8,5%) | Adjusted (non-GAAP) EPS je relevantnija baza za rast |
 | FCF yield na EV | **3,3%** | ništa — samo tekući cash flow |
 | FCF yield nakon SBC | **2,3%** | dilacija (SBC) je realan trošak akcionara |
 
-**Razlika između PEG_trailing (2,64) i PEG_forward (9,07) je ogromna** — konsenzus
-implicira dramatično usporenje rasta EPS-a u odnosu na istorijski CAGR.
+**Šta se stvarno desilo (potvrđeno iz 8-K Exhibit 99.1, 27.01.2026 i 28.07.2026):**
+MANH ima veliki, konzistentan gap između GAAP i Adjusted (non-GAAP) EPS-a, gonjen
+uglavnom stock-based compensation-om (~$1,71/akciju razlike):
 
-⚠ **Materijalna nekonzistentnost pronađena u podacima (iz `data/MANH.json`,
-napomena `_guidance_fy2026`):** prvobitni guidance kompanije za FY2026 (jan. 2026)
-implicira **GAAP EPS pad od −6% do −2%** (guidance $3,37–$3,53 vs FY2025 actual
-$3,60) — ne rast. Konsenzus rast od 5,9% korišćen za PEG_forward je **verovatno
-non-GAAP/adjusted EPS** rast, ne GAAP. Ovo mora da se razjasni pre nego što se PEG
-tumači — GAAP i non-GAAP EPS kreću se u suprotnim smerovima za FY2026, i sam broj
-5,9% treba provajati da li je forward konsenzus adjusted EPS ili nešto drugo.
-**Otvoreno pitanje, ne rešeno u ovoj analizi.**
+| | GAAP diluted EPS | Adjusted (non-GAAP) diluted EPS |
+|---|---|---|
+| FY2025 actual | $3,60 | **$5,06** |
+| FY2024 actual | $3,51 | $4,72 |
+| FY2026 guidance (posle Q2, 28.07.2026) | $3,59–$3,65 (+0–1%) | **$5,44–$5,50 (+8–9%)** |
+
+GAAP EPS je guidovan da **gotovo stagnira** u FY2026 (SBC i restructuring troškovi
+jedu rast), dok Adjusted EPS raste solidno (+8–9%). Naš P/E (53,51) je računat na
+GAAP EPS-u, pa je interno konzistentno da PEG_forward na GAAP osnovi ispadne
+ekstremno visok (107,02) — to je **istinit nalaz**, ne greška: govori da akcija na
+GAAP osnovi praktično nema merljiv forward rast na koji PEG može da se osloni.
+
+Adjusted-osnova (P/E 38,07 / rast 8,5% = PEG 4,48) daje umerenije, ali i dalje
+iznad praga od 2,0, sliku. **Koja osnova je relevantnija zavisi od toga koliko SBC
+tretiraš kao realan trošak akcionara** — CLAUDE.md K4 stav je da SBC JESTE realan
+trošak kroz dilaciju, što ide u prilog GAAP tumačenju (i time bliže PEG 107, ne 4,48).
+FCF yield na EV (3,3%, ne zavisi od projekcija) ostaje najpouzdanija kontrola i slaže
+se sa "PEG je ovde slomljen" zaključkom — cena implicira mnogo veći rast nego što ga
+FCF trenutno pokazuje.
 
 ---
 

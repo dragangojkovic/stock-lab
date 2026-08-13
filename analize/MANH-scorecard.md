@@ -73,7 +73,7 @@ Prošlo: 5 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 1
 ## K5 — Valuacija
 - P/E: 53.51
 - EPS CAGR (istorijski 4g): 20.3% → **PEG_trailing = 2.64**
-- Konsenzus EPS rast (3g): 5.9% → **PEG_forward = 9.07**
+- Konsenzus EPS rast (3g): 0.5% → **PEG_forward = 107.02**
 - FCF yield na EV: **3.3%** (nakon SBC: 2.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
