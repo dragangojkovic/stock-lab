@@ -3,9 +3,9 @@
 **Datum:** 2026-08-13 | **Analitičar:** Dragan | **Cena na dan analize:** 192.63 USD (zaključna cena 2026-08-12, IBKR)
 **U krugu kompetencije:** DELIMIČNO — enterprise softver DA (proizvod, arhitektura, cloud migracija su procenjivi), ali supply chain/WMS domen NE (ne mogu proceniti da li je Manhattan Active bolji od Blue Yonder ili SAP EWM bez domenskog znanja u logistici).
 
-> Sekcije 1, 3, 4, 5 i 9 popunio Claude — činjenično, sa izvorima. Sekcije 2, 6, 7, 8
-> ostavljene za Dragana (vidi podelu rada, `HANDOFF.md` §6) — gde postoji kandidat
-> formulacija, jasno je obeležena kao PREDLOG, ne kao gotova analiza.
+> Sekcije 1, 3, 4, 5 i 9 popunio Claude — činjenično, sa izvorima. Sekcija 2 (moat)
+> je Draganova finalna formulacija. Sekcije 6, 7, 8 ostaju za Dragana (vidi podelu
+> rada, `HANDOFF.md` §6).
 
 ---
 
@@ -55,17 +55,16 @@ accession 0001193125-26-037138, Item 1 i Item 7; i 8-K Exhibit 99.1 press releas
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (kandidat iz `data/MANH.json` meta, NE finalna formulacija — prepiši svojim
-rečima ili odbaci):**
+> MANH je multi-tenant platforma gde svaki novi klijent pojačava ekonomiju obima,
+> dok istovremeno pravi izlazak klijenta skupim. Cloud prihod raste dok
+> license-model opada — platforma pobeđuje.
 
-> Sistem je integrisan u fulfillment, WMS i POS tok klijenta, pa migracija znači
-> ponovnu implementaciju uz rizik zastoja u lancu snabdevanja.
-> RPO je porastao sa $699M (dec. 2021) na $2.232M (dec. 2025) uz neotkazive
-> ugovore duže od godine, što potvrđuje da klijenti zaključavaju višegodišnje obaveze.
-
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: ekonomija obima + switching costs
+- **Šta bi ubilo ovaj moat u 5 godina:** veliki klijenti razviju svoja in-house
+  rešenja umesto da koriste MANH.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** godine
+  operativnih procesa kod hiljada postojećih klijenata zadovoljnih uslugom se ne
+  mogu tek tako izgubiti/preuzeti kapitalom.
 
 ---
 
