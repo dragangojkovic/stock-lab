@@ -17,15 +17,16 @@
     "no_financial_debt": true
   },
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
-    "consensus_eps_growth_3y": null,
+    "price": 192.63,
+    "market_cap": 11760832.0,
+    "enterprise_value": 11488265.0,
+    "pe_ratio": 53.51,
+    "consensus_eps_growth_3y": 0.059,
     "wacc": 0.1068,
     "_wacc_napomena": "0.1068 je procena GuruFocus-a (mart 2026), NIJE moj izracun. Treca strana. Ako zelis sam: rf ~4.2% na 10Y UST, ERP ~4.5%, beta ~1.03, bez duga pa je WACC ~ cost of equity.",
     "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Nasao sam kontradiktorne cene kod razlicitih izvora (213.11 posle Q2 skoka 29.07.2026, ali drugi izvori impliciraju ~142). NE UNOSIM BROJ KOJI NISAM VERIFIKOVAO. Uzmi cenu zatvaranja iz IBKR-a na dan ulaza i popuni: price, market_cap = price * 59.845 (hiljade akcija izdatih 31.12.2025), enterprise_value = market_cap + 56180 - 328747, pe_ratio = price / 3.60.",
-    "_guidance_fy2026": "Prvobitni guidance (jan 2026): prihod 1,133-1,153M, GAAP EPS 3.37-3.53 (PAD od -6% do -2% vs 3.60). Posle Q2 2026 podignut na prihod 1,160-1,166M. Kljucno za PEG: GAAP EPS je guidovan da PADA u 2026."
+    "_guidance_fy2026": "Prvobitni guidance (jan 2026): prihod 1,133-1,153M, GAAP EPS 3.37-3.53 (PAD od -6% do -2% vs 3.60). Posle Q2 2026 podignut na prihod 1,160-1,166M. Kljucno za PEG: GAAP EPS je guidovan da PADA u 2026.",
+    "_shares_used": 61054
   },
   "years": [
     {
