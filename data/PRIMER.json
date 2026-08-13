@@ -1,0 +1,76 @@
+{
+  "_UPOZORENJE": "OVO SU IZMIŠLJENI BROJEVI ZA IZMIŠLJENU KOMPANIJU. Služe samo da pokažu format i da se testira skript. Nikad ne koristi ove brojeve kao referencu.",
+  "_jedinica": "Svi finansijski iznosi u milionima izvorne valute. Marže/stope kao decimale (0.21 = 21%).",
+  "_izvori": "Za pravu kompaniju: uz svaki broj navedi izvor (10-K/godišnji izveštaj, strana) i datum u polju 'meta.izvori'.",
+
+  "meta": {
+    "name": "Primer Corp (IZMIŠLJENA)",
+    "ticker": "PRIMER",
+    "sector": "Software / Enterprise SaaS",
+    "currency": "USD",
+    "excluded_sector": false,
+    "nd_ebitda_threshold": 3.0,
+    "moat_two_sentences": "Proizvod je integrisan u računovodstveni i ERP sloj klijenta, pa migracija zahteva ponovnu implementaciju i obuku — troškovi prelaska su visoki i merljivi. Retencija prihoda po klijentu je iznad 115% pet godina zaredom, što potvrđuje da klijenti ostaju i troše više, a ne da se održavaju popustima.",
+    "krug_kompetencije": "DA — enterprise softver, .NET/Microsoft ekosistem",
+    "izvori": "IZMIŠLJENO — nema izvora",
+    "datum_podataka": "N/A"
+  },
+
+  "market": {
+    "price": 104.0,
+    "market_cap": 9880,
+    "enterprise_value": 9830,
+    "pe_ratio": 32.0,
+    "consensus_eps_growth_3y": 0.16,
+    "wacc": 0.08,
+    "_wacc_napomena": "Ako WACC nije dostupan iz izvora, unesi konzervativnu procenu I ovde napiši pretpostavke (rf, ERP, beta, cost of debt, D/E). Ako je ostavljeno prazno, kapija G1 se ne može potpuno proveriti."
+  },
+
+  "years": [
+    {
+      "fy": "FY2021", "revenue": 1000, "cogs": 400, "ebit": 200, "net_income": 150,
+      "effective_tax_rate": 0.21, "interest_expense": 15,
+      "depreciation_amortization": 60, "stock_based_comp": 40,
+      "operating_cash_flow": 220, "capex": 60,
+      "total_debt": 300, "cash_and_equivalents": 200, "total_equity": 800,
+      "diluted_shares": 100.0, "diluted_eps": 1.50,
+      "receivables": 150, "inventory": 80
+    },
+    {
+      "fy": "FY2022", "revenue": 1150, "cogs": 450, "ebit": 240, "net_income": 180,
+      "effective_tax_rate": 0.21, "interest_expense": 16,
+      "depreciation_amortization": 68, "stock_based_comp": 48,
+      "operating_cash_flow": 260, "capex": 70,
+      "total_debt": 320, "cash_and_equivalents": 230, "total_equity": 880,
+      "diluted_shares": 99.0, "diluted_eps": 1.82,
+      "receivables": 170, "inventory": 88
+    },
+    {
+      "fy": "FY2023", "revenue": 1330, "cogs": 515, "ebit": 285, "net_income": 215,
+      "effective_tax_rate": 0.21, "interest_expense": 18,
+      "depreciation_amortization": 78, "stock_based_comp": 58,
+      "operating_cash_flow": 305, "capex": 82,
+      "total_debt": 350, "cash_and_equivalents": 280, "total_equity": 960,
+      "diluted_shares": 98.0, "diluted_eps": 2.19,
+      "receivables": 195, "inventory": 95
+    },
+    {
+      "fy": "FY2024", "revenue": 1540, "cogs": 590, "ebit": 340, "net_income": 258,
+      "effective_tax_rate": 0.21, "interest_expense": 19,
+      "depreciation_amortization": 90, "stock_based_comp": 70,
+      "operating_cash_flow": 365, "capex": 95,
+      "total_debt": 360, "cash_and_equivalents": 340, "total_equity": 1060,
+      "diluted_shares": 96.5, "diluted_eps": 2.67,
+      "receivables": 222, "inventory": 103
+    },
+    {
+      "fy": "FY2025", "revenue": 1780, "cogs": 675, "ebit": 405, "net_income": 310,
+      "effective_tax_rate": 0.21, "interest_expense": 20,
+      "depreciation_amortization": 104, "stock_based_comp": 95,
+      "operating_cash_flow": 435, "capex": 110,
+      "total_debt": 370, "cash_and_equivalents": 420, "total_equity": 1180,
+      "diluted_shares": 95.0, "diluted_eps": 3.26,
+      "receivables": 252, "inventory": 112
+    }
+  ]
+}
