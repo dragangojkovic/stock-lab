@@ -143,6 +143,7 @@ def compute(data):
             "roic": div(nopat, invested),
             "nopat": nopat,
             "invested_capital": invested,
+            "equity": equity,
             "ebit": ebit,
             "ebitda": ebitda,
             "net_debt": (debt - (cash or 0)) if debt is not None else None,
@@ -186,6 +187,15 @@ def compute(data):
         ic_last is not None and rev_last is not None
         and (ic_last <= 0 or ic_last < 0.10 * rev_last)
     )
+
+    # negativan equity (npr. spinoff finansiran dugom + agresivan buyback, tip OTIS):
+    # dug i equity se skoro poniste u imeniocu ROIC-a, pa investirani kapital moze
+    # ispasti mali ali POZITIVAN (promasi capital_light prag) dok je i dalje
+    # ekonomski besmislen - artefakt strukture kapitala, ne mera ulozenog kapitala.
+    equity_last = per_year[-1]["equity"]
+    out["equity_last"] = equity_last
+    out["negative_equity"] = equity_last is not None and equity_last < 0
+
     out["fcf_margin_last"] = div(per_year[-1]["fcf"], rev_last)
     out["fcf_after_sbc_margin_last"] = div(per_year[-1]["fcf_after_sbc"], rev_last)
 
@@ -261,6 +271,19 @@ def compute(data):
             "note": "Investirani kapital je nula/negativan — ROIC divergira i prag od 12% "
                     "ne nosi informaciju. Zameni ga FCF maržom (vidi K1-ALT). Poslovanje "
                     "se finansira iz avansa kupaca (deferred revenue), ne iz kapitala.",
+        })
+    elif out["negative_equity"]:
+        gates.append({
+            "id": "G1", "name": "ROIC ≥ 12% i spread nad WACC ≥ 3pp",
+            "value": f"NIJE PRIMENLJIVO (equity {num(equity_last, 0)} je negativan)",
+            "pass": "NP",
+            "note": "Equity je negativan (tipično: spinoff finansiran dugom + agresivan "
+                    "buyback, vidi OTIS/docs/05 §4) — dug i equity se skoro poništavaju u "
+                    "imeniocu ROIC-a, pa investirani kapital može ispasti mali ali POZITIVAN "
+                    "(promaši capital_light prag) dok je i dalje besmislen kao mera uloženog "
+                    "kapitala. Ne veruj apsolutnoj vrednosti ROIC-a ovde, ma koliko stabilna "
+                    "izgledala. Koristi Neto dug/EBITDA, pokrivenost kamata i FCF konverziju "
+                    "kao primarne signale K1/K3 umesto ROIC-a i D/E.",
         })
     else:
         gates.append({
@@ -420,6 +443,11 @@ def render(r, markdown=False):
     L.append("| Pokrivenost kamata | " + " | ".join(num(p["interest_cover"], 1, "x") for p in r["per_year"]) + " |")
     L.append("| D/E | " + " | ".join(num(p["de"]) for p in r["per_year"]) + " |")
     L.append("")
+    if r.get("negative_equity"):
+        L.append(f"⚠ **D/E je besmislen** — equity je negativan ({num(r['equity_last'], 0)}), "
+                 "imenilac je negativan pa je i sam odnos negativan/beznačajan. Ignoriši D/E, "
+                 "koristi samo Neto dug/EBITDA i pokrivenost kamata (vidi `docs/05` §3).")
+        L.append("")
     L.append("**Test produktivnosti duga** (dug ne sme rasti brže od EBIT/FCF):")
     L.append(f"- Dug CAGR: {pct(r['cagr_debt'])} | EBIT CAGR: {pct(r['cagr_ebit'])} "
              f"| FCF CAGR: {pct(r['cagr_fcf'])} | Prihod CAGR: {pct(r['cagr_revenue'])}")

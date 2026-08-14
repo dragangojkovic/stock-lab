@@ -77,6 +77,18 @@ avansno (deferred revenue > kapital) — vidi MANH (`data/MANH.json`,
 i scorecard se prebacuje na **FCF maržu** kao zamenu. `N/P` se ne računa kao prošla
 kapija (vidi §3). Ovo je već implementirano u `scripts/scorecard.py`.
 
+**K1-ALT2 za firme sa negativnim equity-jem (suprotan slučaj od kapitalno-lakih).**
+Ako je equity (zadnja godina) negativan — tipično posle spinoff-a finansiranog dugom
+i/ili godina agresivnog buyback-a, vidi OTIS (`data/OTIS.json`, `docs/05` §4) — dug i
+equity se skoro poništavaju u imeniocu ROIC-a. Investirani kapital tada može ispasti
+mali ali **pozitivan** (promaši K1-ALT prag od 10% prihoda), pa se prvi sigurnosni
+mehanizam ne aktivira, a ROIC je i dalje ekonomski besmislen (artefakt strukture
+kapitala, ne mera uloženog kapitala) — kod OTIS-a medijana 145% uz raspon 73%–230%
+po godinama, nestabilno i neinformativno. U tom slučaju: G1 vraća **`N/P`**, D/E se
+takođe prikazuje sa upozorenjem (negativan imenilac = besmislen odnos), i K1/K3 se
+oslanjaju na **Neto dug/EBITDA + pokrivenost kamata + FCF konverziju** umesto na ROIC
+i D/E. Ovo je već implementirano u `scripts/scorecard.py` (polje `negative_equity`).
+
 ---
 
 ### K2 — Marže (ispravljena verzija)
