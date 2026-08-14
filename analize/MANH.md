@@ -202,11 +202,26 @@ FCF trenutno pokazuje.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Ako cloud rast padne ispod 15% dva kvartala zaredom.
+2. Ako se u earnings call transkriptu ili 10-K otkrije da je prosečno trajanje
+   novih ugovora produženo (npr. sa 3 na 5 godina) — RPO rast od 25% bi bio
+   optička iluzija, ne stvaran signal budućeg prihoda.
+3. Ako usluge (Services) nastave da opadaju brže od −5% god/god dva kvartala
+   zaredom BEZ odgovarajuće akceleracije cloud rasta iznad 20% — znak da MANH
+   gubi ukupan posao, ne da se transformiše ka cloud-u.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+Rast prihoda je kolabirao sa 21% (2023) na 3,7% (2025), a najveća linija prihoda
+(Services, 46,5%) opada 4,3% god/god — kompanija maskira usporavanje rastućom
+operativnom maržom koja delom dolazi od smanjenja troškova, ne od jačanja
+poslovanja. Cena implicira rast koji brojevi ne podržavaju: FCF yield na EV je
+samo 3,3% (2,3% nakon SBC), a na GAAP osnovi EPS praktično stagnira u 2026
+guidance-u — plaćaš 53x zarade za posao koji raste ispod 1% na osnovi koja
+stvarno stiže akcionaru. RPO rast od 25% je jedini "dokaz" budućeg rasta, ali
+niko nije potvrdio da to nije samo produženje trajanja ugovora — ako se pokaže
+da jeste, cela teza o zaključavanju klijenata gubi merljivu podlogu i ostaje
+samo skupa akcija sa usporenim rastom.
 
 ---
 
