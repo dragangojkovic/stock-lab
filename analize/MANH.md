@@ -136,6 +136,18 @@ pretplate/softvera koji dominira kod DSGX/KXS/SPSC. **Ovo nije pad marže god/go
 crvena zastavica, ali objašnjava zašto MANH "izgleda" manje profitabilno na bruto
 nivou uz uporedivu ili bolju operativnu maržu.**
 
+**Provera hipoteze (istraživanje 2026-08-14):** udeo usluga/implementacije u
+prihodu kod konkurencije — DSGX 7% (Professional services, izvor: 8-K Ex-99.1
+11.03.2026), SPSC 4,5% (One-time revenues, izvor: 10-K FY2025, Note C — Revenue),
+KXS ~28–34% (Professional services + license + maintenance zbirno, izvor: press
+release 04.03.2026, FY split po stavkama nije objavljen). Redosled udela usluga
+(DSGX 7% < SPSC 4,5%... KXS ~30% < MANH 46,5%) generalno prati inverzni redosled
+bruto marže (DSGX 77% > SPSC 69% > KXS 65% > MANH 56%), sa izuzetkom što SPSC ima
+manji udeo usluga od DSGX ali i nižu maržu — **mix objašnjava deo gap-a, ne sav.**
+Nijedna od četiri firme ne objavljuje bruto maržu po kategoriji prihoda (samo
+blendovanu), pa se ne može razdvojiti "MANH ima više usluga" od "MANH ima nižu
+maržu i unutar cloud/softver dela samog po sebi" — **N/A, otvoreno pitanje.**
+
 **Operativna marža:** MANH (25,9%) je iznad KXS (14,5%) i SPSC (15,7%), ispod DSGX
 (28,8%). Nije generalni pad u grani — svaka firma ima svoju trajektoriju
 (KXS operativna marža je skočila sa 2,6%→14,5% god/god, jednokratni skok koji treba
