@@ -17,11 +17,19 @@ Prošlo: 5 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 1
 
 ## K1 — ROIC
 - Medijana (5g): **145.1%** | Trend: **stabilan**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.2% | Spread: **137.9%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
 | ROIC | 73.3% | 207.9% | 230.5% | 145.1% | 109.3% |
+
+## K1-ALT2 — negativan equity, ROIC i D/E nisu upotrebljivi
+- Equity (zadnja god.): **-5392**
+- Investirani kapital (zadnja god.): **1468** (10.2% prihoda) — mali ali pozitivan, promašuje K1-ALT prag
+- **Neto dug/EBITDA: 2.97x** ← primarna metrika K3
+- **Pokrivenost kamata: 9.8x** ← sigurnosna metrika
+
+> Dug i negativan equity se skoro poništavaju u imeniocu ROIC-a — investirani kapital je artefakt strukture kapitala (spinoff/buyback), ne mera stvarno uloženog kapitala. Ne veruj ROIC medijani iznad ma koliko izgledala stabilna. Teret dokazivanja prelazi na Neto dug/EBITDA, pokrivenost kamata i FCF konverziju.
 
 ## K2 — Marže (razlaganje)
 | Marža | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Trend |
@@ -66,10 +74,10 @@ Prošlo: 5 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 1
 - Zalihe CAGR: -0.4% vs Prihod CAGR: 0.2%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 4.9% → **PEG_trailing = N/A**
+- P/E: 20.87
+- EPS CAGR (istorijski 4g): 4.9% → **PEG_trailing = 4.26**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **4.0%** (nakon SBC: 3.8%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 0.2% | EPS CAGR: 4.9% | FCF/akcija CAGR: -0.3%

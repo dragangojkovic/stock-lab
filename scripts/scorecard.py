@@ -420,6 +420,20 @@ def render(r, markdown=False):
                  "operativnu maržu i trajnost moat-a.")
         L.append("")
 
+    if r.get("negative_equity"):
+        L.append(f"{h}K1-ALT2 — negativan equity, ROIC i D/E nisu upotrebljivi")
+        L.append(f"- Equity (zadnja god.): **{num(r['equity_last'], 0)}**")
+        L.append(f"- Investirani kapital (zadnja god.): **{num(r['invested_capital_last'], 0)}** "
+                 f"({pct(r['ic_to_revenue'])} prihoda) — mali ali pozitivan, promašuje K1-ALT prag")
+        L.append(f"- **Neto dug/EBITDA: {num(r['nd_ebitda_last'], 2, 'x')}** ← primarna metrika K3")
+        L.append(f"- **Pokrivenost kamata: {num(r['interest_cover_last'], 1, 'x')}** ← sigurnosna metrika")
+        L.append("")
+        L.append("> Dug i negativan equity se skoro poništavaju u imeniocu ROIC-a — investirani "
+                 "kapital je artefakt strukture kapitala (spinoff/buyback), ne mera stvarno "
+                 "uloženog kapitala. Ne veruj ROIC medijani iznad ma koliko izgledala stabilna. "
+                 "Teret dokazivanja prelazi na Neto dug/EBITDA, pokrivenost kamata i FCF konverziju.")
+        L.append("")
+
     # K2
     L.append(f"{h}K2 — Marže (razlaganje)")
     L.append("| Marža | " + " | ".join(p["fy"] for p in r["per_year"]) + " | Trend |")
