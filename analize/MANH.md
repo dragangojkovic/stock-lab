@@ -239,19 +239,21 @@ samo skupa akcija sa usporenim rastom.
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio
+- [x] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** *(ako se odluči za ulazak — datum unosa, NE retroaktivan)*
-**Cena ulaza:** *(cena zatvaranja tog dana)*
-**VUAA cena istog dana:** *(obavezno za benchmark)*
-**Veličina pozicije:** *(1/N satelita)*
+**Datum ulaza:** 2026-08-13
+**Cena ulaza:** 200,92 USD (zaključna cena, IBKR, 2026-08-13)
+**VUAA cena istog dana:** 150,40 USD (zaključna cena, IBKR, 2026-08-13)
+**Veličina pozicije:** 1/10 satelita
 
 **Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Cloud rast padne ispod 15% dva kvartala zaredom (kill-switch iz §6).
+2. Potvrđeno (iz earnings call transkripta ili 10-K) da je RPO rast objašnjen
+   produženjem trajanja ugovora, ne stvarnim nakupljanjem budućeg posla.
+3. Services prihod opada brže od −5% god/god dva kvartala zaredom BEZ
+   akceleracije cloud rasta iznad 20%.
 
 ---
 
@@ -262,8 +264,10 @@ samo skupa akcija sa usporenim rastom.
 | MANH FY2021–FY2025 finansijski podaci | 8-K Exhibit 99.1 press release-i (Q4 2022, Q4 2023, Q4 2025) | vidi `data/MANH.json` `_izvori` | 02.02.2023 / 30.01.2024 / 27.01.2026 |
 | MANH revenue mix po kategoriji (cloud/license/maint./services/hw) | 8-K Exhibit 99.1, "Manhattan Associates Reports Fourth Quarter Results" | sec.gov, accession 0001193125-26-024382 | 27.01.2026 |
 | MANH poslovni opis, kupci, koncentracija | Form 10-K FY2025, Item 1 i Item 7 (MD&A), Notes (Significant Customers) | sec.gov/Archives/edgar/data/1056696/000119312526037138/manh-20251231.htm | podnet 04.02.2026 |
-| MANH cena zatvaranja (entry price) | IBKR TWS, sveća 1D | — | 2026-08-12, close 192.63 |
-| VUAA cena zatvaranja (benchmark) | IBKR TWS, sveća 1D | — | 2026-08-12, close 149.56 |
+| MANH cena za valuaciju (§5, K5 scorecard) | IBKR TWS, sveća 1D | — | 2026-08-12, close 192.63 |
+| VUAA cena istog dana (za valuaciju) | IBKR TWS, sveća 1D | — | 2026-08-12, close 149.56 |
+| MANH cena ulaza u paper portfolio (§8, positions.csv) | IBKR TWS, sveća 1D | — | 2026-08-13, close 200.92 |
+| VUAA cena istog dana (benchmark ulaza, positions.csv) | IBKR TWS, sveća 1D | — | 2026-08-13, close 150.40 |
 | MANH WACC procena (10,68%) | GuruFocus, treća strana, NIJE Claude-ov izračun | — | mart 2026 (procena) |
 | MANH guidance FY2026 GAAP EPS | `data/MANH.json` napomena `_guidance_fy2026` (izvor: jan. 2026 guidance, nije dalje verifikovan u ovoj sesiji) | — | jan. 2026 |
 | DSGX FY26 finansijski podaci | 8-K Exhibit 99.1, "Descartes Announces Fiscal 2026 Fourth Quarter and Annual Financial Results" | sec.gov/Archives/edgar/data/1050140/000092963826000965/exhibit99-1.htm | 11.03.2026 |
