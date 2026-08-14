@@ -229,11 +229,11 @@ samo skupa akcija sa usporenim rastom.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Cloud subscriptions rast ostaje ≥15% god/god | ≥15%, trenutno 21% | 70% |
+| 2 | Operativna marža ostaje u opsegu | ≥24% (±1pp), trenutno 25,9% | 70% |
+| 3 | FCF marža nakon SBC ostaje | ≥20%, trenutno 24,3% | 70% |
+| 4 | SBC/Prihod ne prelazi prag | ≤12%, trenutno 10,3% | 70% |
+| 5 | Ukupan prihod raste | ≥5% god/god, trenutno 3,7% | 70% |
 
 ---
 
