@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Browser__get_page_text",
+      "mcp__Claude_Browser__navigate",
+
+      "Bash(git add *)",
+      "Bash(git commit *)",
+
+      "Bash(python scripts/scorecard.py *)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/scorecard.py *)",
+      "Bash(python scripts/fill_price.py *)",
+      "Bash(python scripts/tracker.py*)",
+      "Bash(python scripts/validate_json.py *)",
+      "Bash(mkdir -p analize)",
+
+      "Bash(curl -s -A \"StockLab Research dragan.gojkovic@profitoptics.com\" \"https://www.sec.gov/*)",
+      "Bash(curl -s -A \"StockLab Research dragan.gojkovic@profitoptics.com\" \"https://data.sec.gov/*)",
+      "Bash(curl -s -A \"StockLabResearch dragan.gojkovic@profitoptics.com\" \"https://www.sec.gov/*)",
+      "Bash(curl -s -A \"StockLabResearch dragan.gojkovic@profitoptics.com\" \"https://data.sec.gov/*)",
+
+      "WebFetch(domain:www.sec.gov)",
+      "WebFetch(domain:data.sec.gov)",
+      "WebFetch(domain:home.treasury.gov)",
+      "WebFetch(domain:stockanalysis.com)",
+      "WebFetch(domain:www.gurufocus.com)",
+      "WebFetch(domain:www.globenewswire.com)",
+      "WebFetch(domain:www.businesswire.com)",
+      "WebFetch(domain:www.nasdaq.com)",
+      "WebFetch(domain:www.marketscreener.com)",
+      "WebSearch"
+    ]
+  }
+}
