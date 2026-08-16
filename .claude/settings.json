@@ -18,6 +18,10 @@
       "Bash(curl -s -A \"StockLab Research dragan.gojkovic@profitoptics.com\" \"https://data.sec.gov/*)",
       "Bash(curl -s -A \"StockLabResearch dragan.gojkovic@profitoptics.com\" \"https://www.sec.gov/*)",
       "Bash(curl -s -A \"StockLabResearch dragan.gojkovic@profitoptics.com\" \"https://data.sec.gov/*)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(research; dragan.gojkovic@profitoptics.com\\)\" \"https://www.sec.gov/*)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(research; dragan.gojkovic@profitoptics.com\\)\" \"https://data.sec.gov/*)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(StockLabResearch; contact dragan.gojkovic@profitoptics.com\\)\" \"https://www.sec.gov/*)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(StockLabResearch; contact dragan.gojkovic@profitoptics.com\\)\" \"https://data.sec.gov/*)",
 
       "WebFetch(domain:www.sec.gov)",
       "WebFetch(domain:data.sec.gov)",
