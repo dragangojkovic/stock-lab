@@ -53,11 +53,20 @@ CIK 0000900075, accession 0001628280-25-042946, Item 1, Item 2, Item 7 Note 14.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+> CPRT ima dvostrani mrežni efekat (osiguravači ↔ kupci vozila preko VB3 platforme)
+> plus 281 lokacije na zemljištu koje je regulatorno teško dobiti (zoning, dozvole za
+> skladištenje vozila). RB Global sam u svom 10-K priznaje da su CPRT i IAA praktično
+> duopol na tržištu SAD — 69,8% prodatih vozila ide kupcima van matične
+> države/zemlje, što potvrđuje širinu mreže.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: mrežni efekat (dvostran) + ekonomija obima/regulatorna barijera (zemljište)
+- **Šta bi ubilo ovaj moat u 5 godina:** novi igrač (npr. ACV Auctions) postigne
+  uporedivu gustinu kupaca kroz čisto digitalni/bez-fizičkog-skladišta model, ili
+  osiguravači počnu sami da prodaju vozila direktno, zaobilazeći CPRT/IAA.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** dobijanje
+  dozvola za stotine velikih parkinga za vozila u različitim jurisdikcijama traje
+  godinama (zoning, otpor lokalne zajednice), a gustina kupaca (dismantleri,
+  exporteri) se gradi decenijama poverenja u platformu.
 
 ---
 
@@ -171,11 +180,20 @@ granični slučaj vredan praćenja u predviđanjima (§7).
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operativna marža nastavi da pada ispod 30% dva kvartala zaredom (trenutno 36,5%,
+   već opada 5 godina).
+2. FCF konverzija padne ispod 0,70 (već je tačno na pragu) dva kvartala zaredom.
+3. Veliki osiguravač (ili grupa) počne da zaobilazi CPRT/IAA kroz sopstveni digitalni
+   kanal prodaje havarisanih vozila.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+Iako scorecard prolazi čisto, operativna marža je na petogodišnjem silaznom trendu
+(42,2%→36,5%), a FCF konverzija je tačno na minimalno prihvatljivom pragu — teški
+kontinuirani CapEx (kupovina zemljišta) mogao bi da signalizira opadajući prinos na
+dodatni kapital. Plaćaš premiju (P/E ~20x) za "čist" duopol čiju maržu ne možemo
+potvrditi da li opada zbog konkurencije ili je samo zrelost tržišta — jer IAA brojevi
+ne postoje odvojeno da bi se uporedilo.
 
 ---
 
@@ -183,29 +201,29 @@ granični slučaj vredan praćenja u predviđanjima (§7).
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje u opsegu | ≥35%, trenutno 36,5% | 70% |
+| 2 | FCF konverzija ostaje | ≥0,70, trenutno tačno 0,70 | 70% |
+| 3 | ROIC medijana ostaje | ≥20%, trenutno 23,5% | 70% |
+| 4 | Prihod raste | ≥10% god/god, trenutno CAGR 14,6% | 70% |
+| 5 | Broj akcija ne raste više od praga | ≤1% god/god, trenutno CAGR +0,4% | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio
+- [x] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Datum ulaza:** 2026-08-14
+**Cena ulaza:** 31,61 USD (zaključna cena, IBKR, 2026-08-14)
+**VUAA cena istog dana:** 150,40 USD (zaključna cena, IBKR, 2026-08-14)
+**Veličina pozicije:** 1/10 satelita
 
 **Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+1. Operativna marža nastavi da pada ispod 30% dva kvartala zaredom.
+2. FCF konverzija padne ispod 0,70 dva kvartala zaredom.
+3. Veliki osiguravač počne da zaobilazi CPRT/IAA kroz sopstveni digitalni kanal.
 
 ---
 
