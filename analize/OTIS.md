@@ -71,11 +71,17 @@ CIK 0001781335, accession 0001781335-26-000011.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+> OTIS ima prednost kroz servisnu mrežu na instaliranoj bazi (2,5 miliona liftova,
+> 37.000 mehaničara, 1.400+ ogranaka) — teško je brzo izgraditi tu gustinu mreže
+> samo novcem, treba decenije.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: switching costs (instalirana baza) + ekonomija obima (gustina servisne mreže)
+- **Šta bi ubilo ovaj moat u 5 godina:** nezavisni serviseri (već drže ~50% jedinica
+  po broju) nastave da preuzimaju i skuplje ugovore, ili se pad tržišta iz Kine
+  proširi na ostatak sveta.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** kapital
+  kupuje opremu i ogranke, ali ne kupuje obučene tehničare i pola veka instaliranih
+  jedinica po geografiji — to zahteva decenije, ne novac.
 
 ---
 
@@ -206,11 +212,18 @@ sugeriše** — rast koji ga generiše nije poslovni rast.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Neto dug/EBITDA pređe 3,0x dva kvartala zaredom.
+2. Test produktivnosti duga ostane negativan I dug nastavi da raste brže od
+   EBIT-a/FCF-a.
+3. Prihod iz Kine nastavi da opada preko 15% god/god dva kvartala zaredom BEZ
+   kompenzacije rastom drugde.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+Najbolja operativna marža u grupi, ali "rast" EPS-a dolazi od otkupa akcija
+finansiranog dugom, ne od realnog poslovnog rasta — FCF po akciji zapravo opada.
+KONE dokazuje (posluje bez duga) da to nije nužno za ovaj posao — OTIS je to sam
+izabrao.
 
 ---
 
@@ -218,29 +231,37 @@ sugeriše** — rast koji ga generiše nije poslovni rast.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Neto dug/EBITDA ostaje u pragu | ≤3,0x, trenutno 2,97x | 70% |
+| 2 | Operativna marža ostaje u opsegu | ≥14%, trenutno 14,8% | 70% |
+| 3 | FCF konverzija ostaje | ≥1,0, trenutno 1,08 | 70% |
+| 4 | Kina prihod ne opada više od praga | ≤−10% god/god | 70% |
+| 5 | Broj akcija ne opada više od praga | ≤−3% god/god, trenutno CAGR −2,2% | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam konkretan trigger (vidi ispod)
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Trigger za ponovni pogled:** Neto dug/EBITDA padne ispod 2,0x, ILI FCF po akciji
+počne realno da raste dva kvartala zaredom. Razlog za watchlist, ne odmah pozicija:
+cena je jeftinija od konkurencije (P/E 20,87 vs 26–30x kod KONE/Schindler), ali to
+"jeftino" je zasenjeno finansijskim inženjeringom (dug-finansiran buyback, vidi §5).
 
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Datum ulaza:** N/A — nije ušlo u portfolio, samo watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu) — primenjuju se AKO
+watchlist trigger aktivira ulazak:**
+1. Neto dug/EBITDA pređe 3,0x dva kvartala zaredom.
+2. Test produktivnosti duga ostane negativan I dug nastavi da raste brže od
+   EBIT-a/FCF-a.
+3. Kina prihod nastavi da opada preko 15% god/god dva kvartala zaredom bez
+   kompenzacije rastom drugde.
 
 ---
 
