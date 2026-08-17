@@ -6,7 +6,6 @@
   "_napomena_dug": "Total debt = Credit Facility + current portion LTD + LTD net of current. FY2025: 398,000+74,995+374,842=847,837. Real finansijski dug (revolving credit facility + term loan/senior notes), ne lizing.",
   "_napomena_kamata": "interest_expense = BRUTO 'Interest expense' linija iz Income Statement-a (38,852/31,205/41,581 za FY2025/24/23), NE neto nakon interest income (3,010/12,699/5,629) - isti tretman kao OTIS, izoluje stvaran trosak duga.",
   "_napomena_buyback": "IDXX nikad nije placao dividende. Agresivan buyback: 71,920 (FY2023, nizak) -> 837,034 (FY2024) -> 1,216,964 (FY2025, najvisi u 5g). Broj akcija opada CAGR vidi K5 u scorecard-u.",
-
   "meta": {
     "name": "IDEXX Laboratories, Inc.",
     "ticker": "IDXX",
@@ -20,18 +19,17 @@
     "datum_podataka": "2026-08-17",
     "no_financial_debt": false
   },
-
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 550.96,
+    "market_cap": 44641534.0,
+    "enterprise_value": 45309301.0,
+    "pe_ratio": 42.12,
     "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "N/A - nije prikupljen treci-strani broj u ovoj sesiji. Treba bottom-up CAPM (rf + beta*ERP) + weighted cost of debt kad se doda cena, ili treca strana sa jasnom napomenom.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py."
+    "wacc": 0.1146,
+    "_wacc_napomena": "Bottom-up procena (moj izracun, 2026-08-17): Cost of equity = rf (4.68%, 10Y UST, treasury.gov, 14.08.2026) + beta (1.54, 5Y, stockanalysis.com, treca strana, pristupljeno 17.08.2026) x ERP (4.5%, standardna pretpostavka) = 11.61%. Cost of debt = implicitna stopa iz interest_expense/prosecan total_debt FY2025 (~4.53% pre-tax) x (1-0.1999 efektivna poreska stopa) = 3.62% posle poreza. E/V=98.1% (market cap 44,641,534 / (44,641,534+847,837)), D/V=1.9% (dug zanemarljiv naspram market cap-a). WACC = 0.981*11.61% + 0.019*3.62% = 11.46%. Kontrolna provera: stockanalysis.com nezavisno navodi WACC 12.49% i ROIC 47.23% (blizu nasih 44.2%) - dodatna sigurnost. Spread (44.2%-11.46%=32.7pp) je toliko veliki da tacan WACC ne menja ishod G1.",
+    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
+    "_shares_used": 81025
   },
-
   "years": [
     {
       "fy": "FY2021",
@@ -49,7 +47,7 @@
       "cash_and_equivalents": 144454,
       "total_equity": 689992,
       "diluted_shares": 86572,
-      "diluted_eps": 8.60,
+      "diluted_eps": 8.6,
       "receivables": 368348,
       "inventory": 269030
     },
@@ -99,7 +97,7 @@
       "cogs": 1518577,
       "ebit": 1128337,
       "net_income": 887867,
-      "effective_tax_rate": 0.2000,
+      "effective_tax_rate": 0.2,
       "interest_expense": 31205,
       "depreciation_amortization": 129936,
       "stock_based_comp": 60295,
