@@ -226,19 +226,19 @@ zanemaruju.
 
 - [ ] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
-- [ ] Odbijeno — razlog: {…}
+- [x] Odbijeno — razlog: **Kapije G1 (ROIC 9,2% medijana, ispod praga 12%) i G2
+  (Neto dug/EBITDA 4,28x, iznad praga 2,0x za softver; pokrivenost kamata 2,2x,
+  ispod praga 4x) su pale. Bez pisanog override obrazloženja — odluka je da se
+  hard kapije poštuju kao takve.**
 
-**Override obrazloženje (OBAVEZNO ako se ne bira "Odbijeno"):** {…}
+**Override obrazloženje:** Nema — override nije napisan, kapije stoje kao pad.
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Datum ulaza:** N/A — odbijeno, nema ulaska
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
 
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Izlazna pravila:** N/A — nema pozicije za koju bi važila.
 
 ---
 
