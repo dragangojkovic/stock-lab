@@ -66,11 +66,22 @@ Kanada+Lat.Amerika 6,0%).
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+> IDXX plasira instrumente kroz višegodišnje ugovore o obavezujućoj kupovini
+> vlasničkog potrošnog materijala (rapid assay), što pravi prelazak skupim — klinika
+> mora da zameni instrument i rekvalifikuje radni tok. Instalirana baza raste
+> stabilno (Catalyst 69k→78k jedinica u 2 godine), a 94% CAG dijagnostika prihoda je
+> recurring — potvrđuje zaključavanje.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: switching costs (instalirana baza + ugovori) + vlasnička/regulatorna
+  barijera (odobreni testovi)
+- **Šta bi ubilo ovaj moat u 5 godina:** komoditizacija point-of-care dijagnostike
+  (otvoreni analizatori koji prihvataju tuđe reagense), ili Mars/Antech vertikalno
+  integriše svoje klinike (Banfield, VCA, BluePearl) i istisne IDXX iz velikog dela
+  tržišta koje kontroliše.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja
+  uporedive instalirane baze + regulatorno odobren portfolio vlasničkih testova kroz
+  više vrsta životinja traži godine R&D-a i kliničkog poverenja; Mars već kontroliše
+  i distribuciju i sopstveni dijagnostički brend.
 
 ---
 
@@ -182,11 +193,20 @@ kvalitet rasta — problem je cena koju treba platiti za taj kvalitet.**
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Rast instalirane baze (Catalyst) padne ispod 5% god/god dva uzastopna godišnja
+   izveštaja.
+2. Recurring % CAG dijagnostika padne ispod 90% dva kvartala zaredom (signal
+   komoditizacije ili promene kanala).
+3. Mars/Antech-kontrolisane klinike (Banfield/VCA/BluePearl) materijalno smanje
+   kupovinu od IDXX-a.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+Plaćaš 42x zarade za samo 2,3% FCF yield-a na EV — najskuplje od svih pet
+analiziranih kompanija. Čak i blago usporavanje rasta (trenutno 7,6% CAGR) bi moglo
+da izazove ozbiljnu kompresiju multiple-a. Dodatni rizik: Mars istovremeno kontroliše
+i konkurentski dijagnostički brend (Antech/Heska) I veliki deo kupovne baze
+(Banfield/VCA/BluePearl) — koncentrisan rizik van IDXX-ove kontrole.
 
 ---
 
@@ -194,29 +214,37 @@ kvalitet rasta — problem je cena koju treba platiti za taj kvalitet.**
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje u opsegu | ≥30%, trenutno 31,6% | 70% |
+| 2 | ROIC medijana ostaje | ≥35%, trenutno 44,2% | 70% |
+| 3 | FCF konverzija ostaje | ≥0,85, trenutno tačno 0,85 | 70% |
+| 4 | Prihod raste | ≥7% god/god, trenutno CAGR 7,6% | 70% |
+| 5 | Instalirana baza (Catalyst) raste | ≥5% god/god | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam konkretan trigger (vidi ispod)
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Trigger za ponovni pogled:** FCF yield na EV pređe 3,5% (korekcija cene) ILI rast
+prihoda ubrza iznad 10% god/god dva kvartala zaredom (opravdava premiju). Razlog za
+watchlist, ne odmah pozicija: sve kapije prolaze čisto i fundamenti su izuzetni, ali
+je cena (P/E 42,12, FCF yield 2,3%) najveća premija od svih pet analiziranih
+kompanija — isti obrazac kao MANH, samo izraženiji.
 
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Datum ulaza:** N/A — nije ušlo u portfolio, samo watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu) — primenjuju se AKO
+watchlist trigger aktivira ulazak:**
+1. Rast instalirane baze (Catalyst) padne ispod 5% god/god dva uzastopna godišnja
+   izveštaja.
+2. Recurring % CAG dijagnostika padne ispod 90% dva kvartala zaredom.
+3. Mars/Antech-kontrolisane klinike materijalno smanje kupovinu od IDXX-a.
 
 ---
 
