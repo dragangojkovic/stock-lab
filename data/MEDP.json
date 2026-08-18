@@ -7,7 +7,6 @@
   "_napomena_kamata": "interest_expense: FY2021/2022/2023 = stvaran neto trosak (105/2905/488, dug je postojao ili bio minimalan). FY2024/2025 = 0 (postavljeno na nulu, ne na neto PRIHOD od 24996/12780 - ta pozitivna linija je kamatni prihod na gotovinu, ne trosak duga kojeg prakticno nema tih godina). Posledica: pokrivenost kamata za FY2024/2025 bice N/A (deljenje sa 0) - ispravno, nema duga da se pokriva.",
   "_napomena_backlog_koncentracija": "Backlog (net new business awards jos neprihodovan) = $3,027.2M na 31.12.2025 (+4.3% god/god). Top 10 kupaca = 35.1% prihoda FY2025, nijedan pojedinacan kupac >10%. Terapeutske oblasti FY2025: Oncology $747.6M, Metabolic $745.0M, CNS $254.8M, Cardiology $239.4M.",
   "_napomena_buyback": "Nikad dividende. Buyback: FY2023 $144.0M, FY2024 $174.2M, FY2025 $917.4M (2,961,924 akcija) - drasticno ubrzan. Preostala autorizacija na 31.12.2025: $821.7M - ocekuj nastavak agresivnog otkupa.",
-
   "meta": {
     "name": "Medpace Holdings, Inc.",
     "ticker": "MEDP",
@@ -21,18 +20,17 @@
     "datum_podataka": "2026-08-18",
     "no_financial_debt": false
   },
-
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 578.5,
+    "market_cap": 17081369.5,
+    "enterprise_value": 16584320.5,
+    "pe_ratio": 37.86,
     "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "N/A - nije prikupljen treci-strani broj u ovoj sesiji (SEC filing ne sadrzi WACC). Treba bottom-up CAPM (rf + beta*ERP) kad se doda cena - MEDP je prakticno bez duga pa je WACC ~ cost of equity.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py."
+    "wacc": 0.0986,
+    "_wacc_napomena": "Bottom-up procena (moj izracun, 2026-08-18): Cost of equity = rf (4.68%, 10Y UST, treasury.gov, 14.08.2026) + beta (1.15, 5Y, stockanalysis.com, treca strana, pristupljeno 18.08.2026) x ERP (4.5%, standardna pretpostavka) = 9.86%. MEDP nema finansijskog duga (total_debt FY2025=0) pa je WACC = Cost of equity = 9.86%. Kontrolna provera: stockanalysis.com nezavisno navodi WACC 10.49% - blizu. Napomena: G1 je vec N/P zbog K1-ALT (kapitalno-laka firma), pa WACC ne menja ishod te kapije - njihov sopstveni ROIC izracun (573.33%!) potvrdjuje da je standardni ROIC ovde potpuno besmislen bez obzira na metodologiju.",
+    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
+    "_shares_used": 29527
   },
-
   "years": [
     {
       "fy": "FY2021",
