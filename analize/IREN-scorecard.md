@@ -1,5 +1,5 @@
 # SCORECARD — IREN Ltd (IREN)
-Sektor: Bitcoin mining / AI-HPC data centri (hibridni, prelazni poslovni model) | Valuta: USD (hiljade) | Podaci: 4 god. | Generisano: 2026-08-18
+Sektor: Bitcoin mining / AI-HPC data centri (hibridni, prelazni poslovni model) | Valuta: USD (hiljade) | Podaci: 4 god. | Generisano: 2026-08-19
 
 ## ⚠ Upozorenja
 - Samo 4 godina podataka — kapije koje traže 5 godina nisu validne.
@@ -8,7 +8,7 @@ Sektor: Bitcoin mining / AI-HPC data centri (hibridni, prelazni poslovni model) 
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana -2.2%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana -2.2%, WACC 22.1%, spread -24.3% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 3.0x i pokrivenost kamata ≥ 4x | ND/EBITDA 2.01x, kamate 1.6x | **PAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 0 od 4 poznatih | **PAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.78 | **PROŠAO** |
@@ -16,13 +16,12 @@ Sektor: Bitcoin mining / AI-HPC data centri (hibridni, prelazni poslovni model) 
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 3 | Palo: 3 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **-2.2%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 22.1% | Spread: **-24.3%**
 
 | Godina | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|
@@ -69,10 +68,10 @@ Prošlo: 3 | Palo: 3 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 104.0%
 
 ## K5 — Valuacija
-- P/E: N/A
+- P/E: 115.13
 - EPS CAGR (istorijski 3g): N/A → **PEG_trailing = N/A**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **-10.8%** (nakon SBC: -11.2%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 104.0% | EPS CAGR: N/A | FCF/akcija CAGR: N/A

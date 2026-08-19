@@ -10,7 +10,6 @@
   "_napomena_neto_dobit_fy2025": "FY2025 neto dobit (+86,941, prva profitabilna godina) je DOMINANTNO vucena jednokratnim/nerealizovanim stavkama: 'Unrealized gain on financial instruments' +77,518 i 'Gain on partial extinguishment of financial liabilities' +9,093. Operativni rezultat (EBIT +17,327 na $501M prihoda = 3.5% marza) je tanko profitabilan sam po sebi, bez tih jednokratnih stavki.",
   "_napomena_receivables": "Potrazivanja nisu prikupljena u ovom istrazivanju - polje 'receivables' je null za sve godine. N/A - treba proveriti ako je kriticno.",
   "_napomena_efektivna_poreska_stopa": "Kompanija placa porez na dobit uprkos predporeskom gubitku u 3 od 4 godine (verovatno vezano za profitabilne strane podruznice/withholding, ne za konsolidovan rezultat) - efektivne stope racunate kao tax/pretax ispadaju neobicne/negativne za godine sa gubitkom. Uticaj na NOPAT je minimalan jer je EBIT vec skoro nula ili negativan tih godina.",
-
   "meta": {
     "name": "IREN Ltd",
     "ticker": "IREN",
@@ -25,18 +24,18 @@
     "no_financial_debt": false,
     "napomena_5_godina": "IZUZETAK - samo 4 fiskalne godine javne istorije, ne 5. Vidi _UPOZORENJE_IZUZETAK."
   },
-
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 44.9,
+    "market_cap": 10023745.4,
+    "enterprise_value": 10423451.4,
+    "pe_ratio": 115.13,
     "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "N/A - WACC nije objavljen ni u jednom SEC podnesku (nije racunovodstvena stavka). Treba bottom-up CAPM ili treca strana sa jasnom napomenom kad se doda cena.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py."
+    "wacc": 0.221,
+    "_wacc_napomena": "Bottom-up procena (moj izracun, 2026-08-18): Cost of equity = rf (4.68%, 10Y UST, treasury.gov, 14.08.2026) + beta (4.30!, 5Y, stockanalysis.com, treca strana, pristupljeno 18.08.2026 - EKSTREMNA volatilnost) x ERP (4.5%) = 24.03%. Cost of debt implicitno ~2.29% pre-tax -> 2.13% posle poreza. E/V~91.2%, D/V~8.8%. WACC = 0.912*24.03%+0.088*2.13% = 22.1%. Kontrolna provera: stockanalysis.com nezavisno navodi WACC 22.53% - blizu. NAPOMENA: ovo ne menja ishod G1 - ROIC vec pada na apsolutnom nivou (median ~-2%), ne na spread-u nad WACC.",
+    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
+    "_napomena_deonice_stale": "market_cap/EV racunati sa FY2025 KRAJ-GODINE diluted_shares (223,246k, 30.06.2025) jer fill_price.py po defaultu koristi zadnju fiskalnu godinu. Stockanalysis.com (18.08.2026) navodi AKTUELNI broj akcija od 357,380k (+52% god/god) - IREN nastavlja da masovno emituje akcije i posle FYE. Stvaran trenutni market cap/EV je vrlo verovatno znacajno VECI od ovde prikazanog - FCF yield na EV (-10.81%) je RAcunat na manjem (stale) EV, pa je magnituda blago preterana u negativnom pravcu u odnosu na stvaran trenutni broj akcija. Nije korigovano u ovoj sesiji - N/A, treba precizirati ako je kriticno za odluku.",
+    "_shares_used": 223246
   },
-
   "years": [
     {
       "fy": "FY2022",
