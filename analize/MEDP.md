@@ -53,11 +53,21 @@ FY2024 $174,2M → **FY2025 $917,4M** (2.961.924 akcija). Preostala autorizacija
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+> Prelazak na drugi CRO usred aktivne kliničke studije je skup i rizičan
+> (kontinuitet regulatorne dokumentacije, integritet podataka, kašnjenja) —
+> klijenti ostaju za celu višegodišnju studiju. Backlog od $3,0 mlrd (veći od
+> godišnjeg prihoda), rastuć +4,3% god/god, uz diversifikovanu bazu klijenata
+> (top 10 = 35,1%, nijedan >10%) potvrđuje široku posvećenost, ne zavisnost od
+> par velikih ugovora.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: switching costs (regulatorni kontinuitet tokom aktivne studije)
+- **Šta bi ubilo ovaj moat u 5 godina:** AI-vođena automatizacija dizajna studija
+  smanji potrebu za specijalizovanim CRO posrednikom, ili konsolidacija velike
+  farme smanji broj malih/srednjih biotech klijenata (MEDP-ov osnovni segment).
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja
+  poverenja i track record-a za FDA-facing regulatorne podneske kroz više
+  terapeutskih oblasti traje godinama; MEDP-ova sopstvena infrastruktura (ClinTrak,
+  integrisane laboratorije) je godine investicija.
 
 ---
 
@@ -185,11 +195,19 @@ finansijski inženjering.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Backlog rast padne ispod 0% (počne da se smanjuje) dva kvartala zaredom.
+2. Operativna marža padne ispod 18% dva kvartala zaredom.
+3. Koncentracija top 10 kupaca poraste značajno iznad 35,1% (npr. >45%) — signal
+   da se biotech finansiranje sužava i baza klijenata skuplja na manji broj.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+MEDP-ovi klijenti su mali/srednji biotech, izloženi ciklusima biotech finansiranja
+(VC, kapital tržišta) — ako se to finansiranje osuši, MEDP-ov backlog i novi
+ugovori mogu brzo stati, jer mali klijenti imaju manje kapitalne rezerve od velike
+farme. Dodatno, buyback od $917M u samoj FY2025 je ogroman u odnosu na FCF — ako se
+taj tempo nastavi uz usporavanje rasta, to bi mogao biti signal da menadžment
+prioritizuje EPS optiku nad reinvestiranjem.
 
 ---
 
@@ -197,29 +215,29 @@ finansijski inženjering.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Backlog raste | ≥3% god/god, trenutno +4,3% | 70% |
+| 2 | Operativna marža ostaje u opsegu | ≥18%, trenutno 21,1% | 70% |
+| 3 | FCF konverzija ostaje | ≥1,0, trenutno prosek 1,41 | 70% |
+| 4 | Prihod raste | ≥15% god/god, trenutno CAGR 22,0% | 70% |
+| 5 | Top 10 koncentracija ne prelazi prag | ≤40%, trenutno 35,1% | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio
+- [x] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Datum ulaza:** 2026-08-14
+**Cena ulaza:** 578,50 USD (zaključna cena, IBKR, 2026-08-14)
+**VUAA cena istog dana:** 150,40 USD (zaključna cena, IBKR, 2026-08-14)
+**Veličina pozicije:** 1/10 satelita
 
 **Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+1. Backlog rast padne ispod 0% (počne da se smanjuje) dva kvartala zaredom.
+2. Operativna marža padne ispod 18% dva kvartala zaredom.
+3. Koncentracija top 10 kupaca poraste iznad 45%.
 
 ---
 
