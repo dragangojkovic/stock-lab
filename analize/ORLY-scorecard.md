@@ -17,7 +17,7 @@ Prošlo: 5 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 1
 
 ## K1 — ROIC
 - Medijana (5g): **41.7%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 6.8% | Spread: **35.0%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -74,10 +74,10 @@ Prošlo: 5 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 1
 - Zalihe CAGR: 11.7% vs Prihod CAGR: 7.5%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 9.4% → **PEG_trailing = N/A**
+- P/E: 30.56
+- EPS CAGR (istorijski 4g): 9.4% → **PEG_trailing = 3.25**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **1.9%** (nakon SBC: 1.8%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 7.5% | EPS CAGR: 9.4% | FCF/akcija CAGR: -8.4%

@@ -10,7 +10,6 @@
   "_napomena_poslovni_model": "Dual market strategy: DIY (do-it-yourself) i Professional (servisni provajderi). FY2025: DIY $8,765,647K (49.3%), Professional $8,651,746K (48.7%), Other 2.0%. Professional segment raste udeo brze od DIY (strukturni pomak).",
   "_napomena_prodavnice": "6,585 prodavnica na 31.12.2025 (6,447 SAD, 112 Meksiko, 26 Kanada). +207 net novih u 2025, plan +225-235 u 2026.",
   "_napomena_dividenda": "ORLY NIKAD nije platio dividendu (od IPO 22.04.1993). Kapital se vraca iskljucivo kroz buyback (~$13.08 mlrd ukupno FY2021-2025).",
-
   "meta": {
     "name": "O'Reilly Automotive, Inc.",
     "ticker": "ORLY",
@@ -24,18 +23,17 @@
     "datum_podataka": "2026-08-19",
     "no_financial_debt": false
   },
-
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 90.76,
+    "market_cap": 77683208.4,
+    "enterprise_value": 85980914.4,
+    "pe_ratio": 30.56,
     "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "N/A - nije prikupljen treci-strani broj u ovoj sesiji. Treba bottom-up CAPM (rf + beta*ERP) + weighted cost of debt kad se doda cena.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py. NAPOMENA: koristiti POST-SPLIT cenu (ORLY je 15-za-1 split 10.06.2025, sve cene od tog datuma su vec post-split)."
+    "wacc": 0.0677,
+    "_wacc_napomena": "Bottom-up procena (moj izracun, 2026-08-19): Cost of equity = rf (4.71%, 10Y UST, treasury.gov, 18.08.2026) + beta (0.52, 5Y, stockanalysis.com, treca strana, pristupljeno 19.08.2026 - defanzivan retailer) x ERP (4.5%) = 7.05%. Cost of debt implicitno (SAMO finansijski dug, bez lizinga) ~4.08% pre-tax -> 3.20% posle poreza (21.66% efektivna stopa). E/V=92.8% (market cap 77,683,208 / (77,683,208+6,016,904 finansijski dug bez lizinga)), D/V=7.2%. WACC = 0.928*7.05% + 0.072*3.20% = 6.77%. NAPOMENA: za WACC ponderisanje koriscen je SAMO finansijski dug (6,016,904), NE total_debt sa lizingom (8,491,499) - standardna korporativno-finansijska praksa (operativni lizing nije izvor kapitala po trzisnoj cenovnoj logici). Kontrolna provera: stockanalysis.com nezavisno navodi WACC 6.52% i ROIC 36.48% (skoro identicno nasih 36.0% za FY2025) - dodatna sigurnost. Ne menja ishod G1 (vec N/P zbog negativnog equity-ja).",
+    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py. NAPOMENA: koristiti POST-SPLIT cenu (ORLY je 15-za-1 split 10.06.2025, sve cene od tog datuma su vec post-split).",
+    "_shares_used": 855919
   },
-
   "years": [
     {
       "fy": "FY2021",
