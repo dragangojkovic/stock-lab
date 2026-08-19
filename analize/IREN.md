@@ -207,16 +207,20 @@ dosledna odluka je "Odbijeno".
 
 - [ ] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
-- [ ] Odbijeno — razlog: {…}
+- [x] Odbijeno — razlog: **Kapije G1 (ROIC −2,2% medijana, spread −24,3pp), G2
+  (pokrivenost kamata 1,6x, ispod praga 4x) i G3 (FCF negativan sve 4 godine) su
+  pale. Bez pisanog override obrazloženja — odluka je da se hard kapije poštuju kao
+  takve, uz dodatni metodološki izuzetak (< 5 godina istorije) koji je već bio
+  odstupanje od standardnog procesa.**
 
-**Override obrazloženje (OBAVEZNO ako se ne bira "Odbijeno"):** {…}
+**Override obrazloženje:** Nema — override nije napisan, kapije stoje kao pad.
 
-**Datum ulaza:** {datum unosa, NE retroaktivan, ako override}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…}
-**Veličina pozicije:** {1/N satelita}
+**Datum ulaza:** N/A — odbijeno, nema ulaska
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
 
-**Izlazna pravila:** {…}
+**Izlazna pravila:** N/A — nema pozicije za koju bi važila.
 
 ---
 
