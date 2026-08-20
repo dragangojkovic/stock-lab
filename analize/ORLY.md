@@ -50,11 +50,22 @@ konverzija, ne procena — vidi `data/ORLY.json` napomena).
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+> Gusta, slojevita distributivna mreža (32 distribucionih centara + 399 hub
+> prodavnica, 156.000 SKU) omogućava dostavu profesionalnim mehaničarima istog
+> dana — prelazak na konkurenta bez uporedive gustine rizikuje nestašice delova i
+> gubitak prihoda servisera. Preko 95% prodavnica prima višestruke isporuke istog
+> dana; profesionalni segment (48,7% prihoda) raste brže od DIY, potvrđujući da
+> zavisnost profesionalaca od te gustine raste.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: ekonomija obima/gustine (logistika) + switching costs (zavisnost
+  profesionalnih kupaca od pouzdane isporuke)
+- **Šta bi ubilo ovaj moat u 5 godina:** Amazon/veliki e-commerce postigne
+  uporedivu gustinu isporuke delova istog dana kroz svoju širu logističku mrežu,
+  ili prelazak na EV smanji potražnju za tradicionalnim rezervnim delovima.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja
+  32 distribucionih centara + 399 hub prodavnica sa 60-150K SKU svaki je trajala
+  decenijama kapitalnih ulaganja i akvizicije nekretnina — uporediva gustina traži
+  godine, ne samo kapital.
 
 ---
 
@@ -176,11 +187,19 @@ konverzija su i dalje u zdravom rasponu, ali trend je negativan).
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operativna marža nastavi da pada ispod 18% dva kvartala zaredom.
+2. FCF konverzija padne ispod 0,7 dva kvartala zaredom (približavanje AAP
+   obrascu).
+3. Neto dug/EBITDA (sa lizingom) pređe 2,5x dva kvartala zaredom, ili pokrivenost
+   kamata padne ispod 10x.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?**
+
+Ovo je najgori "EPS vs FCF/akcija" obrazac u celom portfoliju — FCF po akciji
+opada (−8,4% CAGR) dok EPS raste (9,4%) isključivo kroz buyback. Plaćaš PEG 3,25
+za posao čija stvarna gotovinska generacija po akciji opada, uz već vidljivu
+kompresiju marže (21,9%→19,5%). AAP je upozorenje šta se desi kad ovaj model
+klizne u izvršenju.
 
 ---
 
@@ -188,29 +207,36 @@ konverzija su i dalje u zdravom rasponu, ali trend je negativan).
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje u opsegu | ≥19%, trenutno 19,5% | 70% |
+| 2 | FCF konverzija ostaje | ≥0,85, trenutno prosek 0,96 (FY2025 samo 0,63) | 70% |
+| 3 | Neto dug/EBITDA (sa lizingom) ostaje | ≤2,2x, trenutno 2,09x | 70% |
+| 4 | Pokrivenost kamata ostaje | ≥12x, trenutno 14,7x | 70% |
+| 5 | FCF po akciji prestaje da opada | CAGR postaje pozitivan (trailing 2g) | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam konkretan trigger (vidi ispod)
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Trigger za ponovni pogled:** FCF po akciji prestane da opada I operativna marža
+se stabilizuje ≥19,5% dva kvartala zaredom. Razlog za watchlist, ne odmah pozicija:
+kapije formalno prolaze, ali akumulacija negativnih signala (najgori EPS/FCF
+divergencija u portfoliju, opadajuća marža, skup PEG 3,25, nizak FCF yield 1,9%)
+traži pauzu.
 
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Datum ulaza:** N/A — nije ušlo u portfolio, samo watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu) — primenjuju se AKO
+watchlist trigger aktivira ulazak:**
+1. Operativna marža nastavi da pada ispod 18% dva kvartala zaredom.
+2. FCF konverzija padne ispod 0,7 dva kvartala zaredom.
+3. Neto dug/EBITDA (sa lizingom) pređe 2,5x dva kvartala zaredom.
 
 ---
 
