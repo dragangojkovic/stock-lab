@@ -8,7 +8,6 @@
   "_napomena_dividenda_buyback": "MA placa I dividende I radi buyback (redak slucaj u ovom projektu - IDXX/CPRT/MEDP/ORLY/OTIS su iskljucivo buyback bez dividende). Dividende (cash, rastuce): 1,741/1,903/2,158/2,448/2,756 FY2021-2025. Buyback (cash): 5,904/8,753/9,032/10,954/11,727 - agresivan i rastuci, ali equity ostaje pozitivan (nije destruktivan kao kod OTIS/ORLY) jer je profitabilnost dovoljno visoka da nadmasi otkup.",
   "_napomena_koncentracija": "10-K navodi da je 'znacajan deo prihoda koncentrisan medju pet najvecih kupaca' (issuing/acquiring banke) ali KONKRETAN PROCENAT NIJE OBJAVLJEN numericki - N/A, otvoreno pitanje.",
   "_napomena_roic_ocekivano_ekstreman": "OCEKUJEMO da standardni ROIC bude EKSTREMNO visok (docs/05 §4 hipoteza: 'ROIC je toliko visok da prag ne razlikuje nista'). Ovo NIJE K1-ALT/ALT2 slucaj (equity je pozitivan ~$7-8B, investirani kapital nije blizu nule) - ROIC ce biti visok jer je posao GENUINSKI izuzetno profitabilan na skromnom kapitalu, ne artefakt K1-ALT/ALT2 mehanizama. Teret dokazivanja treba da prelazi na FCF maržu i operativnu maržu kao primarne signale kvaliteta, po docs/05 uputstvu - ne modifikovati scorecard.py, samo naglasiti u analizi.",
-
   "meta": {
     "name": "Mastercard Incorporated",
     "ticker": "MA",
@@ -22,18 +21,17 @@
     "datum_podataka": "2026-08-20",
     "no_financial_debt": false
   },
-
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 573.85,
+    "market_cap": 519908.1,
+    "enterprise_value": 528342.1,
+    "pe_ratio": 34.74,
     "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "N/A - nije prikupljen treci-strani broj u ovoj sesiji. Treba bottom-up CAPM (rf + beta*ERP) + weighted cost of debt kad se doda cena.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py."
+    "wacc": 0.0781,
+    "_wacc_napomena": "Bottom-up procena (moj izracun, 2026-08-21): Cost of equity = rf (4.69%, 10Y UST, treasury.gov, 20.08.2026) + beta (0.73, 5Y, stockanalysis.com, treca strana, pristupljeno 21.08.2026) x ERP (4.5%) = 7.98%. Cost of debt implicitno ~3.88% pre-tax -> 3.13% posle poreza (19.43% efektivna stopa). E/V=96.5% (market cap 519,908 / (519,908+19,000)), D/V=3.5%. WACC = 0.965*7.98% + 0.035*3.13% = 7.81%. Kontrolna provera: stockanalysis.com nezavisno navodi WACC 8.02% i ROIC 93.78% (skoro identicno nasih 94.2% za FY2025) - dodatna sigurnost.",
+    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
+    "_shares_used": 906
   },
-
   "years": [
     {
       "fy": "FY2021",
@@ -101,7 +99,7 @@
       "cogs": null,
       "ebit": 15582,
       "net_income": 12874,
-      "effective_tax_rate": 0.1560,
+      "effective_tax_rate": 0.156,
       "interest_expense": 646,
       "depreciation_amortization": 897,
       "stock_based_comp": 526,

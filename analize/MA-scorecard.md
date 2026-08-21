@@ -5,7 +5,7 @@ Sektor: Infrastruktura trzista - platni sistemi | Valuta: USD (miliони) | Pod
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 80.8%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 80.8%, WACC 7.8%, spread 73.0% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.0x i pokrivenost kamata ≥ 4x | ND/EBITDA 0.42x, kamate 26.2x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 1.03 | **PROŠAO** |
@@ -13,11 +13,10 @@ Sektor: Infrastruktura trzista - platni sistemi | Valuta: USD (miliони) | Pod
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **80.8%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.8% | Spread: **73.0%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -64,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 14.8%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 17.2% → **PEG_trailing = N/A**
+- P/E: 34.74
+- EPS CAGR (istorijski 4g): 17.2% → **PEG_trailing = 2.02**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **3.1%** (nakon SBC: 3.0%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 14.8% | EPS CAGR: 17.2% | FCF/akcija CAGR: 20.1%
