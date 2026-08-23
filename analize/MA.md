@@ -59,11 +59,23 @@ OTIS/ORLY) jer je profitabilnost dovoljno visoka da nadmaši otkup.
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Dvostrani mrežni efekat između banaka izdavalaca i merchant/acquirer mreže izgrađen
+decenijama, plus regulatorna barijera (status "systemically important payment
+system" u svakoj jurisdikciji) — novi igrač treba i poverenje banaka i regulatorno
+odobrenje istovremeno. GDV od $10,6 triliona sa 175,5 milijardi transakcija (+10%
+god/god), i Visa (jedini pravi peer) pokazuje skoro identičnu ekstremnu
+profitabilnost — potvrđuje trajnu duopol strukturu, ne cenovnu konkurenciju koja
+jede prinose.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: mrežni efekat (dvostran) + regulatorna/licencna barijera
+- **Šta bi ubilo ovaj moat u 5 godina:** državno-podržani real-time payment sistemi
+  (FedNow, PIX, UPI) postignu dovoljno usvajanje da zaobiđu kartične mreže za
+  domaće transakcije, ili stablecoin/kripto rails postignu prihvatanje merchant-a u
+  obimu za prekogranična plaćanja.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja
+  poverenja sa hiljadama banaka u 90+ zemalja I regulatorno odobrenje u svakoj
+  velikoj jurisdikciji istovremeno je trajalo decenijama — samo državno-podržane
+  alternative (PIX, UPI) su to postigle, i to samo domaće, ne prekogranično.
 
 ---
 
@@ -177,11 +189,19 @@ ali manju nego za IDXX.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Rast switched transactions padne ispod 5% god/god dva kvartala zaredom.
+2. Operativna marža padne ispod 50% dva kvartala zaredom.
+3. DOJ antitrust slučaj rezultira strukturnom merom (npr. prisilne izmene pristupa
+   mreži) koja merljivo utiče na US debit prihod.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Uprkos skoro savršenim
+brojevima, MA je u regulatornom nišanu — DOJ antitrust CID, više aktivnih
+interchange tužbi (SAD/UK/EU/Australija) sa obavezama koje rastu godišnje
+($559M→$637M samo US MDL). Državno-podržani real-time payment sistemi (PIX, UPI,
+FedNow) su namenski dizajnirani da smanje zavisnost od kartičnih mreža i dobijaju
+usvajanje na velikim tržištima — strukturan dugoročan rizik koji se još ne vidi u
+trailing brojevima. Plaćaš PEG ~2,0 uz pretpostavku da se trenutni rast/marža
+nastavlja, ali regulatorni rizik je asimetričan (samo naniže).
 
 ---
 
@@ -189,29 +209,37 @@ ali manju nego za IDXX.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 55% | 70% |
+| 2 | Rast switched transactions se nastavlja | ≥ 8% god/god | 70% |
+| 3 | FCF konverzija ostaje solidna | ≥ 1,0 | 70% |
+| 4 | Zaduženost ostaje niska | Neto dug/EBITDA ≤ 1,0x | 70% |
+| 5 | Litigation accrual (US MDL) ne eskalira naglo | rast ≤ 20% god/god | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio
+- [x] Ulazi u paper portfolio
 - [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Razlog:** kvalitet je vrhunski (6/6 kapija čisto, FCF konverzija 1,03, dug
+produktivan, obrazac rasta zdrav — FCF/akcija CAGR 20,1% > EPS CAGR 17,2% > Prihod
+CAGR 14,8%), valuacija umerenija od IDXX-a (PEG 2,02 vs 3,81, FCF yield 3,1% vs
+2,3%) uz sličan nivo kvaliteta. Regulatorni rizik (DOJ antitrust, interchange
+litigacija) je realan ali dugoročan i deljen sa celom granom (Visa nosi istu
+izloženost).
+
+**Datum ulaza:** 2026-08-22
+**Cena ulaza:** 573,85 USD (zaključna cena 2026-08-20, IBKR)
+**VUAA cena istog dana:** 148,54 USD (2026-08-20, IBKR)
+**Veličina pozicije:** 1/10 satelita
 
 **Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+1. Neto dug/EBITDA prelazi 2,0x (sektorski prag) dva kvartala zaredom.
+2. Operativna marža padne ispod 50% dva kvartala zaredom.
+3. DOJ antitrust slučaj rezultira strukturnom merom koja merljivo utiče na US
+   debit prihod.
 
 ---
 
