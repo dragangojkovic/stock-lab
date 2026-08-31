@@ -46,11 +46,22 @@ Item 1, Item 1A.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Regulatorna barijera (NRSRO status, reputacija izgrađena kroz vek postojanja)
++ duopol sa S&P Global (Fitch kao manji treći igrač). MCO je jedva prošao
+ROIC kapiju na granici sektorskog praga (25,5% vs 25%) dok je direktan
+duopol par (SPGI) **pao** na istoj kapiji zbog goodwill-a od IHS Markit
+akvizicije — pokazuje da reputacija/moat sama po sebi ne garantuje kapitalnu
+efikasnost kad se kapital pogrešno alocira kroz M&A.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: regulatorna/licencna barijera (NRSRO) + duopol/oligopol
+- **Šta bi ubilo ovaj moat u 5 godina:** AI-vođeni alati za procenu kreditnog
+  rizika postanu "dovoljno dobri" da izdavaoci duga ili investitori zaobiđu
+  tradicionalni NRSRO rejting, ili regulatorna reforma ukine oslanjanje na
+  NRSRO rejtinge za institucionalne investicione mandate.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  reputacija/track record izgrađen kroz vek postojanja + NRSRO registracija
+  ugrađena u institucionalne/regulatorne mandate — čak ni dobro finansirani
+  fintech izazivači nisu razbili duopol decenijama.
 
 ---
 
@@ -154,11 +165,21 @@ operativnog posla.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Globalni obim izdavanja obveznica padne >15% god/god dva kvartala zaredom
+   (ciklični kolaps prihoda, pogađa MIS segment).
+2. Operativna marža padne ispod 38% dva kvartala zaredom (litigacija/troškovi
+   rastu brže od prihoda).
+3. Neto dug/EBITDA pređe 2,0x dva kvartala zaredom (poluga se približava
+   sektorskom plafonu od 3,0x).
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** MCO-ov prolazak ROIC
+kapije (25,5%) je TAČNO na sektorskom pragu — jedna slabija ciklična godina
+bi mogla gurnuti 5-godišnju medijanu ispod 25%, za razliku od MA/V gde je
+margina sigurnosti ogromna. Uz PEG_trailing od 9,94 (čak i ako je delom
+artefakt cikličnog dna) i sektorski cap već popunjen sa MA, ovo je najslabiji
+prolazak kapije od sve četiri infrastrukturne kompanije analizirane u ovoj
+seriji — razumno je sačekati pun kreditni ciklus da se proceni "pravi" ROIC
+nivo.
 
 ---
 
@@ -166,29 +187,28 @@ operativnog posla.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 40% | 70% |
+| 2 | ROIC (godišnji) ostaje iznad sektorskog praga | ≥ 25% | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA ≤ 1,5x | 70% |
+| 4 | FCF konverzija ostaje solidna | ≥ 0,9 | 70% |
+| 5 | MIS segment prihod ne padne naglo | pad ≤ 10% god/god | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam da ROIC održi ≥28% kroz pun ciklus ILI se sektorski
+      cap oslobodi (MA teza pukne) ILI PEG_forward postane dostupan i pokaže
+      razumnu vrednost
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog:** Granični prolazak kapije (ROIC 25,5% baš na sektorskom pragu od
+25%, najslabija margina sigurnosti od sve četiri infrastrukturne kompanije u
+seriji) + PEG_trailing alarmantno visok (9,94, delom ciklični artefakt) +
+sektorski cap već popunjen sa MA (`docs/05` §6 grupiše MA/V/MCO pod istim
+limitom od 1 pozicije). Watchlist do punog kreditnog ciklusa ili oslobađanja
+sektorskog capa.
 
 ---
 
