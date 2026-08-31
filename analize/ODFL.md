@@ -50,11 +50,23 @@ Item 1, MD&A.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Gustina servisne mreže (260 centara) + decenijska reputacija za
+pouzdanost/doslednost isporuke u LTL industriji — klijentima je skupo da
+rizikuju pouzdanost menjajući prevoznika, pogotovo kad alternativa nema
+uporediv track record. Bilans bez finansijskog rizika (praktično neto
+gotovina) i stabilne marže kroz cikluse potvrđuju disciplinu, ali Operating
+Ratio se pogoršava poslednje 3 godine (70,6%→75,2%) — moat ublažava ciklus,
+ne štiti od njega potpuno.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: gustina distribucione/servisne mreže + reputacija za pouzdanost
+- **Šta bi ubilo ovaj moat u 5 godina:** produžena "freight recession" koja
+  natera ODFL na cenovnu konkurenciju da zadrži obim, ili strukturna promena
+  u e-commerce/last-mile logistici (npr. Amazon-ova sopstvena freight mreža)
+  koja zaobiđe tradicionalne LTL prevoznike.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  izgradnja 260 servisnih centara + reputacija za pouzdanost izgrađena
+  decenijama ne kupuje se kapitalom — LTL je posao gustine mreže gde novi
+  igrač godinama posluje ispod ciljne iskorišćenosti dok gradi tu gustinu.
 
 ---
 
@@ -139,11 +151,20 @@ kapija.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operating Ratio pređe 76% dva kvartala zaredom (nastavak pogoršanja iznad
+   trenutnog nivoa).
+2. Prihod padne (ne samo stagnira) dva kvartala zaredom bez oporavka obima.
+3. ROIC (godišnji) padne ispod 20% dva kvartala zaredom (približavanje
+   pragu, ne samo trend).
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Ovo je verovatno
+najskuplja/najslabije rastuća pozicija analizirana u projektu do sada uprkos
+čistom prolasku kapija — PEG 19, prihod CAGR svega 1,1%, ROIC opada 4 od 5
+godina. Buyback maskira stagnaciju: EPS raste samo zato što broj akcija
+opada, ne zato što posao raste. Ako se tempo otkupa uspori (npr. CapEx
+ponovo poraste), EPS rast nestaje u potpunosti. Plaćanje premijskog multipla
+za ciklčan posao baš u trenutku kad sopstveni trend metrike slabe je
+klasičan value trap rizik.
 
 ---
 
@@ -151,29 +172,26 @@ kapija.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operating Ratio ostaje pod kontrolom | ≤ 76% | 70% |
+| 2 | ROIC (godišnji) ostaje solidan | ≥ 22% | 70% |
+| 3 | Zaduženost ostaje minimalna | Neto dug/EBITDA ≤ 0,3x | 70% |
+| 4 | FCF konverzija ostaje iznad praga | ≥ 0,70 | 70% |
+| 5 | Prihod ne padne naglo | pad ≤ 3% god/god | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam da PEG padne na razumniji nivo kroz korekciju cene
+      ILI Operating Ratio se vrati ka ~72% pokazujući da se ciklus okreće
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog:** Kvalitet bilansa je izuzetan (praktično bez duga, pokrivenost
+kamata u hiljadama x, kapije formalno prošle), ali valuacija (PEG 19,08) ne
+kompenzuje slabljenje trenda — ROIC opada 4 od 5 godina, Operating Ratio se
+pogoršava, prihod praktično stagnira (CAGR 1,1%), a EPS rast dolazi skoro
+isključivo od buyback-a. Watchlist do korekcije cene ili preokreta ciklusa.
 
 ---
 
