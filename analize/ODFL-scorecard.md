@@ -5,7 +5,7 @@ Sektor: Industrija - LTL teretni transport | Valuta: USD (miliони) | Podaci: 
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 31.3%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 31.3%, WACC 10.0%, spread 21.2% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA -0.05x, kamate 4598.1x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.73 | **PROŠAO** |
@@ -13,11 +13,10 @@ Sektor: Industrija - LTL teretni transport | Valuta: USD (miliони) | Podaci: 
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **31.3%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 10.0% | Spread: **21.2%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -64,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 1.1%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 2.2% → **PEG_trailing = N/A**
+- P/E: 41.04
+- EPS CAGR (istorijski 4g): 2.2% → **PEG_trailing = 19.08**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **2.3%** (nakon SBC: 2.2%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 1.1% | EPS CAGR: 2.2% | FCF/akcija CAGR: 12.2%
