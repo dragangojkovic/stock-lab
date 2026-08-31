@@ -48,11 +48,23 @@ Item 1, Item 1A, Note 19 (Segment Information).*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Troškovi prelaska kroz regulatornu validaciju — farma klijenti moraju ponovo
+validirati (FDA) svakog novog dobavljača komponenti za isporuku leka kod već
+odobrenog leka, što je skupo i sporo, pa jednom kvalifikovanog dobavljača
+retko menjaju. Rastuća koncentracija kod jednog kupca (10,9%→15,8%) je
+dosledna sa ovim — verovatno odražava ukorenjenost kroz validiran GLP-1
+program, ne samo rizik koncentracije.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: troškovi prelaska (regulatorna validacija)
+- **Šta bi ubilo ovaj moat u 5 godina:** veliki proizvođač GLP-1 leka (ili
+  medicinskog uređaja) uspešno kvalifikuje i pređe na jeftinijeg dobavljača
+  (Datwyler/Aptar) u velikom obimu, ili se GLP-1 isporuka strukturno pomeri
+  ka oralnim formulacijama smanjujući potražnju za injekcionim komponentama.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  FDA revalidacija promene primarnog pakovanja/komponenti u kontaktu sa
+  lekom kod već odobrenog leka je višegodišnji, skup poduhvat za farma
+  kompaniju — promena dobavljača nije komercijalna odluka sama po sebi, već
+  regulatorna, što zaključava postojeće dobavljače jednom kvalifikovane.
 
 ---
 
@@ -143,11 +155,20 @@ kvartala, ne samo brojeve.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operativna marža nastavi da pada ispod 17% dva kvartala zaredom (potvrda
+   strukturnog, ne cikličnog pada).
+2. ROIC padne ispod 15% dva kvartala zaredom (gubi i opšti minimum, ne samo
+   sektorski prag).
+3. Koncentracija kod najvećeg kupca pređe 20% prihoda (rizik gubitka tog
+   kupca postaje egzistencijalan).
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Pet uzastopnih
+godina pada marže i ROIC-a nije dokazano da je gotovo — override na G4
+rešava artefakt CapEx tajminga, ali ne rešava da li se osnovno pogoršanje
+nastavlja. Ako marža nastavi da pada ka nivou Contract-Manufactured segmenta
+(~11%), teza o "odličnom poslu" propada bez obzira na tehnički prolazak
+kapija. Plaćanje P/E ~50 za posao čija profitabilnost stalno opada je
+rizično.
 
 ---
 
@@ -155,32 +176,37 @@ kvartala, ne samo brojeve.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža se stabilizuje | ≥ 19% | 70% |
+| 2 | ROIC (godišnji) ne nastavlja pad | ≥ 17% | 70% |
+| 3 | FCF konverzija (godišnja) se normalizuje | ≥ 0,80 | 70% |
+| 4 | Koncentracija najvećeg kupca ostaje pod kontrolom | ≤ 20% | 70% |
+| 5 | Zaduženost ostaje neto-negativna | Neto dug/EBITDA < 0 | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio (zahteva PISANO OBRAZLOŽENJE OVERRIDE-a za G4 — vidi CLAUDE.md §3)
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam da se operativna marža stabilizuje ≥19% dva kvartala
+      zaredom (potvrda da je pad bio CapEx-ciklus, ne strukturan) ILI
+      korekcija cene poboljša FCF yield
 - [ ] Odbijeno — razlog: {…}
 
-**Override obrazloženje (OBAVEZNO ako se bira "Ulazi u portfolio" ili čak
-Watchlist sa namerom kasnijeg ulaska):** {…}
+**Override obrazloženje za G4 (FCF konverzija 0,69 vs prag 0,70):** Promašaj
+je trivijalan (1,4% ispod praga) i mehanički vezan za privremeno povišen
+CapEx period (FY2023-2024, verovatno proširenje kapaciteta za GLP-1
+self-injection tražnju), ne za pogoršanje kvaliteta zarade. Dokaz: OCF/NI je
+bio iznad 1,0 svake godine (0,88 do 1,53) — cash generacija je uvek
+premašivala računovodstvenu zaradu. FY2025 samostalno već pokazuje oporavak
+(FCF konverzija 0,95) posle vrhunca CapEx-a. **Override se odobrava**, uz
+napomenu da ovo NE otklanja odvojen, ozbiljniji nalaz — ROIC i operativna
+marža opadaju 5 uzastopnih godina — koji ostaje aktivan rizik praćen kroz
+§6/§7, ne briše se ovim override-om.
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog za Watchlist (ne odmah ulazak):** Uprkos odobrenom override-u za
+G4, trend pada marže/ROIC-a je stvaran i nerešen, a valuacija (P/E 49,7) ne
+ostavlja marginu za grešku. Čekamo potvrdu da je pad bio ciklčan (CapEx), ne
+strukturan.
 
 ---
 
