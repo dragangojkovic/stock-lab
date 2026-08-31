@@ -50,11 +50,26 @@ Item 1.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Fastenal-ov FASTVend/FASTBin/Onsite model fizički ugrađuje opremu za
+upravljanje zalihama i dedicirano osoblje unutar pogona klijenta, integrisano
+u njegov nabavni workflow — što čini promenu dobavljača skupom i ometajućom.
+Uprkos manjoj veličini od Grainger-a, FAST ima uporediv ROIC (33,2% vs 32,9%)
+uz znatno više marže (20,2% vs 13,9% operativna), i jedini je zadržao maržu
+stabilnom dok su i Grainger i MSC pali u istom periodu — dosledno sa stvarnom
+prednošću u izvršenju/gustini, ne samo jahanjem istog ciklusa.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: troškovi prelaska (ugrađena vendor-managed inventory oprema) +
+  ekonomija gustine distribucije (branch/DC mreža)
+- **Šta bi ubilo ovaj moat u 5 godina:** veliki klijent standardizuje nabavku
+  na Grainger-ovu ili Amazon Business platformu (širi e-commerce doseg) sa
+  ekvivalentnim VMI kapacitetom po nižoj ukupnoj ceni, ili produžen makro pad
+  u industrijskoj proizvodnji koji na kraju probije i FAST-ovu maržu kao što
+  je već probio GWW/MSM.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  fizičko postavljanje hiljada vending uređaja i on-site osoblja unutar
+  pogona klijenata, plus višegodišnje poverenje izgrađeno branch po branch,
+  ne kupuje se kapitalom — Amazon Business/Grainger mogu upariti širinu
+  kataloga, ali ne i ugrađeno fizičko prisustvo preko noći.
 
 ---
 
@@ -178,11 +193,19 @@ naplaćuje visokim multiplom.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operativna marža padne ispod 18% dva kvartala zaredom (konvergencija ka
+   GWW nivou bi značila da je diferencijacija bila privremena).
+2. FCF konverzija padne ispod 0,70 dva kvartala zaredom (već na donjoj
+   granici, prosek 0,82).
+3. Rast prihoda padne ispod 3% god/god dva kvartala zaredom UZ istovremeni
+   pad marže (znak slabljenja cenovne moći, ne samo ciklusa).
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Valuacija je glavni
+rizik, ne kvalitet posla. P/E 45,67, PEG korigovan ~5,71, FCF yield samo
+1,8% — najniži od svih kompanija analiziranih u ovom projektu. Cena već
+pretpostavlja nastavak diferencijacije od konkurencije. Bilo kakvo
+usporavanje ili povratak marže ka GWW/MSM nivou (koji su peers već doživeli)
+bi udario u multipl bez ikakve margine sigurnosti u ceni.
 
 ---
 
@@ -190,29 +213,29 @@ naplaćuje visokim multiplom.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 19% | 70% |
+| 2 | Prihod nastavlja da raste | ≥ 6% god/god | 70% |
+| 3 | FCF konverzija ostaje solidna | ≥ 0,75 | 70% |
+| 4 | Zaduženost ostaje minimalna | Neto dug/EBITDA ≤ 0,5x | 70% |
+| 5 | Broj akcija ostaje stabilan | rast ≤ 1% (dividend-only nastavak) | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam FCF yield na EV >2,5% ILI PEG (korigovan za split)
+      padne ispod 3,0 kroz ubrzanje rasta ili korekciju cene
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
+**Razlog:** Sve kapije prošle čisto, kvalitet posla je odličan (najviše marže
+od GWW/MSM, jedini nije izgubio maržu god/god dok su peers pali, minimalna
+zaduženost, FCF/akcija raste brže od EPS-a) — ali valuacija je previsoka (P/E
+45,67, PEG korigovan ~5,71, FCF yield 1,8% — najniži u projektu). Isti obrazac
+kao IDXX: odličan posao, precenjena akcija. Watchlist do korekcije cene ili
+ubrzanja rasta.
 
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+---
 
 ---
 
