@@ -72,11 +72,20 @@ accession 0001403161-25-000089, Item 1, Item 1A, Note 20.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Isti mehanizam kao MA — dvostrani mrežni efekat (banke izdavaoci ↔
+merchant/acquirer mreža) + regulatorna barijera po jurisdikciji. Visa je
+veći partner u duopolu po svim merenim dimenzijama (Payments Volume $13,4T
+vs MA $8,0T, CY2024) i ima bolju zaduženost/pokrivenost kamata/FCF konverziju
+od MA, iako niži ROIC (40,2% vs 80,8%) — verovatno delom zbog većeg
+goodwill-a/nematerijalne imovine u imeniocu.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: mrežni efekat (dvostran) + regulatorna/licencna barijera
+- **Šta bi ubilo ovaj moat u 5 godina:** isto kao MA — državno-podržani
+  real-time payment sistemi (FedNow, PIX, UPI) postignu dovoljno usvajanje da
+  zaobiđu kartične mreže.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  identično MA — decenije izgradnje bankarskih odnosa + regulatorno
+  odobrenje u svakoj jurisdikciji istovremeno.
 
 ---
 
@@ -183,11 +192,20 @@ kvalitet, ali ovo je otvoreno pitanje za Faza 6 (moat/odluka).
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. DOJ tužba rezultira strukturnom merom (npr. prisilne promene pristupa
+   debit mreži) koja merljivo smanji US debit prihod.
+2. Operativna marža padne ispod 55% dva kvartala zaredom (dalja eskalacija
+   litigation provision-a iznad FY2025 nivoa).
+3. Rast switched/processed transakcija padne ispod 5% god/god dva kvartala
+   zaredom.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** DOJ tužba je već
+preživela zahtev za odbacivanje (jun 2025) — aktivnija i rizičnija faza od
+MA-inog CID-a. Uz to, MA je već u portfoliu iz istog sektora ("Infrastruktura
+tržišta", `docs/05` §6 preporučuje max 1 poziciju) — Visa i Mastercard su
+gotovo savršeno korelisana opklada (isti duopol, ista makro/regulatorna
+izloženost), pa dodavanje V ne diverzifikuje nego udvostručuje istu opkladu,
+uz PEG (2,34) iznad praga.
 
 ---
 
@@ -195,35 +213,27 @@ kvalitet, ali ovo je otvoreno pitanje za Faza 6 (moat/odluka).
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 58% | 70% |
+| 2 | FCF konverzija ostaje solidna | ≥ 1,0 | 70% |
+| 3 | Zaduženost ostaje niska | Neto dug/EBITDA ≤ 1,0x | 70% |
+| 4 | Rast switched transakcija se nastavlja | ≥ 6% god/god | 70% |
+| 5 | DOJ tužba ne rezultira presudom/nagodbom koja materijalno menja poslovni model | u narednih 12 meseci | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam da MA teza pukne (izlazak iz portfolia) ILI da se
+      DOJ tužba razreši povoljno/razjasni rizik ILI da PEG padne ispod 2,0
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
-
-**Napomena — sektorska diversifikacija (`docs/05` §6):** MA je već u paper
-portfoliu iz istog sektora ("Infrastruktura tržišta"). Preporučena alokacija
-je max 1 pozicija iz ovog sektora. Ako V ulazi u portfolio, ovo bi bilo
-odstupanje od preporuke — razmisli da li V ulazi kao ZAMENA za MA, dodatna
-pozicija (prekoračenje preporuke), ili ostaje na watchlist-i.
+**Razlog:** Kvalitet je vrhunski, čak bolji od MA po zaduženosti/pokrivenosti
+kamata/FCF konverziji, ali sektorski cap (`docs/05` §6, max 1 pozicija
+"Infrastruktura tržišta") je već popunjen sa MA, i V/MA su gotovo savršeno
+korelisana opklada (isti duopol). Regulatorni rizik je u naprednijoj fazi
+(aktivna DOJ tužba, izgubljen motion to dismiss) nego kod MA (samo CID).
+Watchlist umesto dodatne pozicije u istom sektoru.
 
 ---
 
