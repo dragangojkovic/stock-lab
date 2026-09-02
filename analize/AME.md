@@ -54,11 +54,26 @@ Item 1, Napomena 6 (Acquisitions).*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Portfolio niša sa liderskom pozicijom i visokim troškovima prelaska
+(instrumenti ugrađeni u kritične industrijske/aerospace/medicinske procese)
++ disciplinovan M&A playbook ("AMETEK Growth Model" — operativno unapređenje
+posle akvizicije, ne samo kupovina). ROIC ex-goodwill konzistentno 28-30%
+kroz ceo period pokazuje da svaki integrisan posao, jednom kad se
+konsoliduje, generiše premijski povrat — "razblaženje" standardnog ROIC-a je
+računovodstveno (goodwill), ne nužno dokaz preplaćivanja.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: troškovi prelaska (ugrađeni instrumenti u kritične procese) +
+  disciplinovana akvizicijska mašina
+- **Šta bi ubilo ovaj moat u 5 godina:** produžena industrijska recesija koja
+  isuši organski rast I natera AMETEK da preplaćuje za sve manje kvalitetne
+  mete (bidding rat), razvodnjavajući kapitalnu efikasnost bez operativnog
+  poboljšanja koje bi to kompenzovalo; ili velika (ne bolt-on) akvizicija
+  koja loše integriše i trajno ošteti maržu/goodwill.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  decenijska reputacija kod vlasnika niša-lidera (porodični biznisi biraju
+  AMETEK nad PE fondovima zbog operativne autonomije/kulturnog uklapanja) +
+  interni operativni playbook izgrađen kroz stotine integracija — ovo se ne
+  kupuje kapitalom, gradi se poverenje i proces godinama.
 
 ---
 
@@ -149,11 +164,21 @@ period u delu koji sam pregledao.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. ROIC ex-goodwill padne ispod 20% dva kvartala zaredom (znak da ni osnovni
+   posao više nije premijski profitabilan).
+2. Neto dug/EBITDA pređe 2,0x (potrošnja na akvizicije prevazišla
+   disciplinu).
+3. Velika akvizicija (>$1 mlrd) rezultira goodwill impairment-om u narednih
+   8 kvartala.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Standardni ROIC
+(12,6%) formalno prolazi kapiju ali sa minimalnom marginom (spread 3,6pp,
+ispod čak i `docs/05` sopstvenog sektorskog praga od 15%). Ovo je
+matematički "kupljeni rast" — $5,68 mlrd potrošenih na akvizicije 2021-2025
+nije generisalo proporcionalan povrat na CELOKUPAN uloženi kapital, samo na
+ex-goodwill deo. Ako se M&A tempo nastavi bez usporavanja, goodwill će
+nastaviti da raste brže od NOPAT-a i standardni ROIC će ostati strukturno
+ispod sektorskog praga trajno, ne privremeno.
 
 ---
 
@@ -161,29 +186,27 @@ period u delu koji sam pregledao.
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 25% | 70% |
+| 2 | ROIC ex-goodwill ostaje solidan | ≥ 25% | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA ≤ 1,5x | 70% |
+| 4 | FCF konverzija ostaje solidna | ≥ 1,0 | 70% |
+| 5 | Nema materijalnog goodwill impairment-a | ≤ $100M | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam da standardni ROIC pređe 15% ILI da M&A tempo uspori
+      i goodwill prestane da raste brže od NOPAT-a
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog:** Kvalitet osnovnog posla je odličan (ROIC ex-goodwill 28-30%,
+marže stabilne, dug produktivan, FCF konverzija 1,10), ali standardni ROIC
+(12,6%) strukturno ne dostiže sektorski prag (15%) zbog tempa akvizicija —
+goodwill raste brže od NOPAT-a. Uz PEG od 3,35, watchlist umesto odbijanja
+jer je osnovni posao dokazano kvalitetan, ali kapija zvanično ne prolazi
+sektorski kalibrisan prag.
 
 ---
 
