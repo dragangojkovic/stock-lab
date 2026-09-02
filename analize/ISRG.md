@@ -64,11 +64,27 @@ Item 1, Note 8 (Commitments and Contingencies).*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Razor/blade model (instalirana baza generiše sve veći udeo prihoda kroz
+potrošne instrumente/usluge, 75%→84% za 5 godina) + hirurška obuka/
+sertifikacija specifična za platformu — bolnica koja je investirala u obuku
+stotina hirurga i instaliranu robotiku ne menja platformu lako. SIS
+antitrust tužba (servis instrumenata) je otvoren pravni rizik direktno vezan
+za deo te teze.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: troškovi prelaska (obuka hirurga + instalirani kapital) +
+  delimičan mrežni efekat (obučena baza hirurga)
+- **Šta bi ubilo ovaj moat u 5 godina:** dobro finansiran konkurent
+  (Medtronic Hugo, J&J Ottava) postigne uporedive ishode i ponudi
+  agresivne popuste/lizing da istisne instaliranu bazu u ciklusu zamene;
+  ili SIS antitrust žalba uspe i rezultira sudskom merom koja otvori servis
+  instrumenata trećim stranama, erodirajući deo recurring prihoda koji je
+  jezgro teze.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  obuka cele hirurške radne snage na novoj platformi traje godinama, a
+  bolnice se opiru dupliranju kapitalne investicije dok su hirurzi obučeni
+  na postojećoj — decenije odnosa sa hirurzima i FDA odobrenja za mnoge
+  tipove procedura su pokretna meta koju konkurenti jure proceduru po
+  proceduru.
 
 ---
 
@@ -160,11 +176,16 @@ praktično stabilan (CAGR -0,2%).
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Rast instalirane baze padne ispod 8% god/god dva kvartala zaredom.
+2. Recurring revenue udeo padne ispod 82% dva kvartala zaredom.
+3. SIS antitrust žalba uspe i rezultira merom koja otvori servis
+   instrumenata trećim stranama.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** ROIC (15,5%) je
+ispod sektorskog praga, FCF konverzija je na samoj granici, i akcija je
+skupa (PEG ~3,35, P/E 47) — plaćaš premiju za rast koji već usporava
+(procedure rast 22%→17%→18%, ne ubrzava) dok je pravni rizik oko
+servisiranja instrumenata (osnova recurring-revenue teze) nerešen.
 
 ---
 
@@ -172,29 +193,26 @@ praktično stabilan (CAGR -0,2%).
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Recurring revenue udeo ostaje visok | ≥ 83% | 70% |
+| 2 | Rast broja procedura se nastavlja | ≥ 15% god/god | 70% |
+| 3 | FCF konverzija (godišnja) se normalizuje | ≥ 0,80 | 70% |
+| 4 | Operativna marža ostaje visoka | ≥ 27% | 70% |
+| 5 | SIS apelacija ne rezultira materijalnom promenom servisnog modela | u narednih 12 meseci | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
 - [ ] Ulazi u paper portfolio
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Watchlist — čekam da ROIC pređe 20% ILI da PEG padne ispod 2,5 ILI da
+      se SIS litigacija povoljno reši
 - [ ] Odbijeno — razlog: {…}
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog:** Kvalitet posla je dobar (razor/blade model potvrđen, recurring
+revenue raste, marže stabilne), ali skupo (PEG ~3,35, P/E 47) i ispod
+sektorskog praga (ROIC 15,5% vs 20%+), uz nerešen pravni rizik oko servisa
+instrumenata koji je direktno vezan za moat tezu. Watchlist do jasnijeg
+signala.
 
 ---
 
