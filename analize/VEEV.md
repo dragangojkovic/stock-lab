@@ -57,11 +57,24 @@ accession 0001393052-26-000014, Item 1, Note o segmentima.*
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-*(popunjava Dragan)*
+Veeva Vault je duboko ugrađen u regulisane farma workflow-e (klinička
+ispitivanja, kvalitet, regulatorne prijave) — promena platforme nosi trošak
+revalidacije i poslovni rizik sličan WST-ovoj regulatornoj logici, samo za
+softver umesto fizičke komponente. R&D and Quality Solutions (54,7%
+prihoda, raste brže) je direktno vezan za ove regulisane procese.
 
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+- Kategorija: troškovi prelaska (regulatorna/GxP integracija) + domenska
+  specijalizacija
+- **Šta bi ubilo ovaj moat u 5 godina:** velika farma kompanija uspešno
+  migrira sa Vault-a na generičku platformu (Salesforce + custom, ili
+  AI-native konkurent), dokazujući da migracija nije toliko skupa koliko se
+  pretpostavlja; ili rast drastično uspori jer je jezgro tržišta (velika
+  farma) već zasićeno bez uspešne ekspanzije u susedne vertikale.
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:**
+  izgradnja validiranih GxP-usklađenih workflow-a i poverenja
+  regulatorno-osetljivih farma klijenata traži godine domenski-specifičnog
+  rada koji horizontalna platforma (Salesforce) ne može lako replicirati
+  bez duboke vertikalne investicije.
 
 ---
 
@@ -166,11 +179,20 @@ zaslužuje napomenu — deo istorijskog EPS CAGR-a nije ponovljiv.**
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
 
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
+1. Operativna marža padne ispod 25% dva kvartala zaredom (gubitak momentuma
+   iz FY2024 dna).
+2. Prihod raste ispod 10% god/god dva kvartala zaredom (znak zasićenja
+   tržišta).
+3. Veliki imenovani kupac javno napusti Vault platformu za konkurentsko
+   rešenje.
 
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+**Šta je najjači argument protiv kupovine ove akcije?** Standardni ROIC ne
+dostiže ni polovinu softverskog praga (12,0% vs 25%+), a valuacija (PEG
+2,58, P/E 51,33) ne ostavlja marginu za grešku ako rast uspori. Override na
+G1 objašnjava ZAŠTO je ROIC nizak (gomilanje gotovine), ali ne čini akciju
+jeftinom — plaćaš premijski multipl za softversku firmu čiji zvanični
+povrat na kapital ne opravdava taj multipl po sopstvenim pravilima
+projekta.
 
 ---
 
@@ -178,32 +200,34 @@ zaslužuje napomenu — deo istorijskog EPS CAGR-a nije ponovljiv.**
 
 | # | Predviđanje | Merljiv prag | Uverenost |
 |---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Operativna marža ostaje visoka | ≥ 26% | 70% |
+| 2 | Prihod nastavlja da raste | ≥ 12% god/god | 70% |
+| 3 | FCF konverzija (godišnja) ostaje jaka | ≥ 1,3 | 70% |
+| 4 | SBC/prihod ostaje pod kontrolom | ≤ 16% | 70% |
+| 5 | Kompanija nastavlja buyback | bar 1 kvartal otkupa | 70% |
 
 ---
 
 ## 8. Odluka (popunjava Dragan)
 
-- [ ] Ulazi u paper portfolio (zahteva PISANO OBRAZLOŽENJE OVERRIDE-a za G1 — vidi CLAUDE.md §3)
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam da standardni ROIC pređe 20% (kroz nastavak
+      buyback-a ili usporavanje gomilanja gotovine) ILI da PEG padne ispod 2,0
 - [ ] Odbijeno — razlog: {…}
 
-**Override obrazloženje (OBAVEZNO ako se bira "Ulazi u portfolio" ili čak
-Watchlist sa namerom kasnijeg ulaska):** {…}
+**Override obrazloženje za G1 (spread 2,9pp < 3pp, medijana 12,0% vs
+sektorski prag 25%+):** Formula ROIC-a kažnjava Veeva-u zbog gomilanja
+neupotrebljene gotovine/investicija (equity porastao sa $2,9 mlrd na $7,2
+mlrd, bez dividendi, prvi buyback tek FY2026), ne zbog pada profitabilnosti.
+Dokaz: operativna marža je rasla kroz ceo period (18,2%→28,7% od FY2024
+dna), prihod CAGR 14,6%, FCF konverzija odlična (1,61 prosek). Ovo je
+konzervativna alokacija kapitala, ne slabljenje moat-a koji G1 treba da
+detektuje. **Override se DELIMIČNO odobrava** — objašnjava ZAŠTO je ROIC
+nizak, ali ne zatvara jaz do sektorskog praga (25%+) niti čini valuaciju
+jeftinom. Formalni pad kapije ostaje relevantan signal za oprez.
 
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog za Watchlist (ne odmah ulazak):** Uprkos delimično odobrenom
+override-u, ni sektorski prag ni valuacija ne opravdavaju ulazak sada.
 
 ---
 
