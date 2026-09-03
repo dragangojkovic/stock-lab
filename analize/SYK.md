@@ -1,7 +1,7 @@
 # Analiza: Stryker Corporation (SYK)
 
 **Datum:** 2026-09-02 | **Analitičar:** Dragan | **Cena na dan analize:** 317,40 USD (zaključna cena 2026-09-01, IBKR)
-**Status:** Hard kapija G1 (ROIC/spread) PALA.
+**Status:** **ODBIJENO** — hard kapija G1 (ROIC) pala na oba praga, bez override-a.
 **U krugu kompetencije:** NE — medicinski uređaji/ortopedija nisu u
 Draganovom IT/.NET fokusu.
 
@@ -60,13 +60,7 @@ Item 1, R3/R5/R8.htm.*
 
 ---
 
-## 2. Moat — dve rečenice (obavezna kapija)
-
-*(popunjava Dragan)*
-
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+## 2. Moat — NE POPUNJAVA SE (akcija odbijena pre ove faze)
 
 ---
 
@@ -157,46 +151,25 @@ precenjuje ga).
 
 ---
 
-## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
-
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
-
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+## 6-7. Opovrgavajuće tačke / predviđanja — NE POPUNJAVA SE
 
 ---
 
-## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA (popunjava Dragan)
+## 8. Odluka
 
-| # | Predviđanje | Merljiv prag | Uverenost |
-|---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+- [ ] Ulazi u paper portfolio
+- [ ] Watchlist
+- [x] **Odbijeno**
 
----
-
-## 8. Odluka (popunjava Dragan)
-
-- [ ] Ulazi u paper portfolio (zahteva PISANO OBRAZLOŽENJE OVERRIDE-a za G1 — vidi CLAUDE.md §3)
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
-- [ ] Odbijeno — razlog: {…}
-
-**Override obrazloženje (OBAVEZNO ako se bira "Ulazi u portfolio" ili čak
-Watchlist sa namerom kasnijeg ulaska):** {…}
-
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+**Razlog:** Hard kapija G1 (ROIC) pada na oba praga — medijana 10,3% je
+ispod i opšteg minimuma (12%) i sektorskog praga za medicinske aparate
+(20%+). ROIC ex-goodwill (20-23%) pokazuje da je osnovni posao solidan, ali
+za razliku od AME (gde je override odobren jer je ex-goodwill ROIC
+konzistentno visok 28-30% kroz ceo period), Stryker-ov ex-goodwill ROIC
+je bio ispod sektorskog praga i u FY2021 (19,7%) — slabija margina
+sigurnosti za override argument. Bez pisanog obrazloženja override-a, po
+CLAUDE.md §3 pravilu akcija je odbijena.
+- Nema upisa u `positions.csv`, `watchlist.csv` ni `predvidjanja.csv`.
 
 ---
 
