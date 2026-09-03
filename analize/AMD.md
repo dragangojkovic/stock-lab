@@ -71,13 +71,12 @@ Item 1, Item 1A, Note o akvizicijama.*
 
 ---
 
-## 2. Moat — dve rečenice (obavezna kapija)
+## 2. Moat — ODLOŽENO (poseban slučaj, vidi §8)
 
-*(popunjava Dragan)*
-
-- Kategorija: *(popuni)*
-- **Šta bi ubilo ovaj moat u 5 godina:** *(popuni)*
-- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** *(popuni)*
+AMD ide direktno na watchlist bez punog moat/predviđanja ciklusa — kombinacija
+duboke cikličnosti i mega-akvizicije čini standardnu G5 formulaciju
+preuranjenom pre nego što se ROIC ex-goodwill trend stabilizuje kroz još
+bar 1-2 kvartala AI ciklusa.
 
 ---
 
@@ -171,46 +170,32 @@ rast proporcionalno.
 
 ---
 
-## 6. Tri stvari koje bi opovrgle tezu (obavezno — popunjava Dragan)
-
-1. *(popuni)*
-2. *(popuni)*
-3. *(popuni)*
-
-**Šta je najjači argument protiv kupovine ove akcije?** *(popuni)*
+## 6-7. Opovrgavajuće tačke / predviđanja — ODLOŽENO (vidi §8)
 
 ---
 
-## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA (popunjava Dragan)
+## 8. Odluka
 
-| # | Predviđanje | Merljiv prag | Uverenost |
-|---|---|---|---|
-| 1 | | | 50/70/90% |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+- [ ] Ulazi u paper portfolio
+- [x] **Watchlist** — poseban slučaj (dubok ciklus + Xilinx mega-akvizicija
+      istovremeno), praćenje dok se ROIC ex-goodwill trend ne stabilizuje
+- [ ] Odbijeno
 
----
+**Razlog:** G1 pada drastično (spread -13,2pp, ROIC ispod cene kapitala) i,
+za razliku od AME/SYK, čak ni ROIC ex-goodwill ne daje čist override
+argument — bio je slab i u dnu ciklusa (7,7% FY2023), znači problem nije
+samo goodwill distorzija već i stvarna ciklična slabost osnovnog posla.
+Istovremeno, FY2025 ex-goodwill ROIC (20,1%) i AI/data center momentum
+zaslužuju praćenje pre konačne odluke (odbijanje ili override). Nema
+formalnog override obrazloženja u ovom prolazu — vraćamo se kad ciklus i
+integracija ZT Systems/Xilinx daju čistiji signal.
 
-## 8. Odluka (popunjava Dragan)
+**Trigger za ponovni pogled:** standardni (ne ex-goodwill) ROIC pređe 12%
+kroz 2 uzastopna kvartala, ILI ROIC ex-goodwill ostane ≥20% kroz pun
+sledeći ciklus (ne samo jednu AI-bum godinu).
 
-- [ ] Ulazi u paper portfolio (zahteva PISANO OBRAZLOŽENJE OVERRIDE-a za G1 — vidi CLAUDE.md §3; napomena — spread je -13,2pp, ovo bi bio najteži override u projektu do sada)
-- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
-- [ ] Odbijeno — razlog: {…}
-
-**Override obrazloženje (OBAVEZNO ako se bira "Ulazi u portfolio" ili čak
-Watchlist sa namerom kasnijeg ulaska):** {…}
-
-**Datum ulaza:** {datum unosa, NE retroaktivan}
-**Cena ulaza:** {cena zatvaranja tog dana}
-**VUAA cena istog dana:** {…} ← obavezno za benchmark
-**Veličina pozicije:** {1/N satelita}
-
-**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
-1. {…}
-2. {…}
-3. {…}
+- Nema upisa u `positions.csv` ni `predvidjanja.csv` (watchlist bez punog
+  moat/predviđanja seta — vidi napomenu u §2).
 
 ---
 
