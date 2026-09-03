@@ -5,7 +5,7 @@ Sektor: Poluprovodnici | Valuta: USD (miliони) | Podaci: 5 god. | Generisano:
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 2.8%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 2.8%, WACC 16.0%, spread -13.2% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 2.0x i pokrivenost kamata ≥ 4x | ND/EBITDA -0.35x, kamate 28.2x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 1.49 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Poluprovodnici | Valuta: USD (miliони) | Podaci: 5 god. | Generisano:
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **2.8%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 16.0% | Spread: **-13.2%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 41.9% vs Prihod CAGR: 20.5%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 0.8% → **PEG_trailing = N/A**
+- P/E: 173.44
+- EPS CAGR (istorijski 4g): 0.8% → **PEG_trailing = 225.46**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **0.7%** (nakon SBC: 0.5%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 20.5% | EPS CAGR: 0.8% | FCF/akcija CAGR: 6.5%
