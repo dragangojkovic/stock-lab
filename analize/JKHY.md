@@ -20,7 +20,12 @@ Jack Henry je core processing softverska firma za banke i credit unions u SAD-u 
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Core bankarski sistem je operativno srce banke — migracija na drugog dobavljača je višegodišnji, regulatorno i operativno rizičan poduhvat (slično WST-ovoj logici revalidacije), pa banke retko menjaju core provajdera jednom kad su integrisane.
+> Deconversion fees ($42.8M FY2026) i kvalitativno "excellent retention rates" jezik iz 10-K su konzistentni sa ovom tezom, iako tačan numerički retention rate nije objavljen.
+
+- Kategorija: troškovi prelaska (switching costs)
+- **Šta bi ubilo ovaj moat u 5 godina:** cloud-native/API-first novi ulaznik (npr. fintech core-banking startup) koji ubedi banke da je migracija jeftinija nego što istorija sugeriše
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu godine regulatorne sertifikacije + reference kod banaka pre nego što ijedna banka rizikuje migraciju svog core sistema
 
 ## 3. Scorecard
 
@@ -89,15 +94,37 @@ K5 — Valuacija: P/E 24.12. PEG_trailing 2.67, PEG_forward 2.87 (konsenzus rast
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Standardni ROIC padne ispod 18% (trend obrne umesto da se drži 20%+) — signal da je FY2026 skok (23.5%) bio jednokratan, ne novi nivo.
+2. FY2026 buyback tempo ($448M, 10x prethodne godine) se ponovi i dovede equity u negativnu teritoriju — rani OTIS/ORLY signal.
+3. Deconversion fees skoče materijalno (npr. +30%+ god/god) — signal ubrzanog odliva klijenata koji brend lojalnost/switching-cost teza ne bi predvidela.
+
+**Šta je najjači argument protiv kupovine ove akcije?** JKHY je spor, dosadan core-processing biznis na američkom tržištu koje se konsoliduje (manje malih banaka svake godine kroz M&A) — total addressable market strukturno se smanjuje, ne raste, a JKHY-jev prihod CAGR od svega 7.0% to i pokazuje. Plaćaš PEG od 2.7-2.9 za firmu čiji je najveći trenutni "katalizator" jednokratni buyback koji je smanjio equity, ne organsko ubrzanje rasta. Ako se banke-klijenti dalje konsoliduju brže nego što JKHY osvaja nove, i ovih skromnih 7% CAGR-a nestaje.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 20% | 70% |
+| 2 | Operativna marža stabilna | ≥ 24% (±1pp) | 70% |
+| 3 | Zaduženost ostaje minimalna | Neto dug/EBITDA < 1.0x | 70% |
+| 4 | FCF nastavlja da raste | ≥ 8% god/god | 70% |
+| 5 | Odliv klijenata se ne ubrzava dalje | deconversion fees rast ostaje ≤ 30% god/god (trenutno FY2026 +26.3%, $33.9M→$42.8M) | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-03
+**Cena ulaza:** 168.37
+**VUAA cena istog dana:** 149.78 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. Standardni ROIC padne ispod 12% dva kvartala zaredom
+2. Neto dug/EBITDA pređe 2.0x dva kvartala zaredom (signal da je equity-pritisak od buyback-a postao strukturan, OTIS/ORLY obrazac)
+3. Moat teza opovrgnuta konkretno — npr. materijalan skok deconversion fees koji pokazuje da switching costs erodiraju
 
 ## 9. Izvori
 

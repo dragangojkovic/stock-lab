@@ -20,7 +20,12 @@ Zoetis je najveća svetska kompanija posvećena isključivo animalnom zdravlju �
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Brend lojalnost veterinara i vlasnika kućnih ljubimaca oko franšiza kao Simparica/Apoquel preživljava gubitak patentne zaštite bolje nego kod humane farmacije jer veterinar, ne pacijent, bira terapiju i generici u animal health prostoru sporije erodiraju tržišni udeo.
+> Regulatorna barijera (FDA/USDA odobrenje novog veterinarskog leka je skupo i sporo) dodatno štiti postojeći portfolio od 300+ proizvoda.
+
+- Kategorija: brend sa cenovnom moći + regulatorna/licencna barijera
+- **Šta bi ubilo ovaj moat u 5 godina:** masovan ulazak generika u companion-animal segment ILI regulatorna promena koja ubrza odobrenja konkurenata
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu i sopstveni odobren molekul (godine razvoja + kapital) i ugrađeno poverenje veterinara stečeno decenijama
 
 ## 3. Scorecard
 
@@ -89,15 +94,35 @@ K5 — Valuacija: P/E 12.67 (istorijski anomalno nisko vs 25-35x raspon). PEG_tr
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Test produktivnosti duga nastavi da pada (dug raste brže od EBIT/FCF) dva kvartala zaredom — potvrđuje OTIS/ORLY-stil obrazac umesto jednokratnog buyback-a.
+2. P/E anomalija se ne objasni fundamentalno (npr. Librela bezbednosna pitanja se materijalizuju u stvarnom padu prihoda companion-animal segmenta) — ako P/E ostane nisko bez jasnog uzroka, teza o "jeftinoj kvalitetnoj kompaniji" je pogrešna.
+3. Potraživanja/zalihe nastave da rastu brže od prihoda 2+ kvartala — signal agresivnog priznavanja prihoda ili slabijeg naplaćivanja.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Tržište nije glupo — P/E od 12.67x na kompaniji sa istorijskim rasponom 25-35x nije slučajna anomalija koju si ti prvi primetio, to je signal da profesionalni investitori već cenuju drastično usporavanje rasta (konsenzus 3.03% vs istorijskih 9%) i da postoji realan strukturni problem (bezbednosna pitanja oko Librela, usporavanje US companion-animal tržišta) koji nije prolazan. Kupovina "jeftine" akcije čiji P/E pada zbog realnog pogoršanja fundamenata, ne privremenog pesimizma, je klasična value trap.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 25% | 70% |
+| 2 | Operativna marža stabilna | ≥ 36% (±1pp) | 70% |
+| 3 | Zaduženost ne pogoršava | Neto dug/EBITDA < 2.0x | 70% |
+| 4 | Buyback nastavlja da smanjuje broj akcija | broj akcija ne raste | 70% |
+| 5 | Konsenzus rast ostaje nizak (potvrđuje usporavanje) | konsenzus EPS rast (3-5g) < 5% | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: test produktivnosti duga se popravi (dug CAGR < EBIT/FCF CAGR) 2 kvartala zaredom ILI FCF yield na EV > 7%
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 
