@@ -16,7 +16,12 @@ Parker-Hannifin je lider u pokretnoj i kontrolnoj tehnologiji — hidraulika, pn
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Široka distributivna mreža i inženjerski ugrađeni proizvodi (hidraulika/pneumatika) u kritičnim mobilnim/industrijskim/aerospace sistemima gde je zamena skupa i vremenski osetljiva.
+> Aerospace Systems segment (23%+ prihoda) nosi dodatnu regulatornu barijeru — FAA sertifikacija delova otežava brzu zamenu dobavljača.
+
+- Kategorija: troškovi prelaska + regulatorna barijera (aerospace deo)
+- **Šta bi ubilo ovaj moat u 5 godina:** gubitak FAA sertifikacije/kvaliteta ILI veliki OEM insourcing-uje proizvodnju
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** FAA sertifikacija traje godinama; hidraulička/pneumatska instalirana baza kod klijenata stvara zavisnost od kompatibilnih delova
 
 ## 3. Scorecard
 
@@ -86,15 +91,35 @@ K5 Valuacija: P/E 35.49 (NAJSKUPLJE od tri industrijska kandidata). PEG_trailing
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. G1 spread padne ispod 3pp (npr. WACC revizija naviše ili ROIC pad) — kapija formalno pada, trenutno je granična.
+2. Neto dug/EBITDA ponovo pređe 3.0x — signal da se Meggitt-stil zaduženost ponavlja (nova akvizicija?).
+3. FY2025 neuobičajeno niska poreska stopa (14.0%) se pokaže kao jednokratna, i FY2026 efektivna stopa se vrati na ~20%+ — smanjuje neto dobit/EPS bez promene u poslovanju, čineći trenutni P/E lažno nizak.
+
+**Šta je najjači argument protiv kupovine ove akcije?** PH je najskuplja od tri industrijska kandidata (P/E 35.49, PEG_forward 3.57) uprkos najslabijem standardnom ROIC-u (12.9% medijana, granično iznad opšteg praga) — plaćaš premiju za oporavak posle Meggitt integracije, ne za dokazan kvalitet kroz ceo ciklus. G1 spread od svega 3.2% znači da je margin bezbednosti tanak — mala promena WACC pretpostavki (beta je već neusaglašena između izvora) bi formalno oborila kapiju.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC drži FY2025 nivo | ≥ 14% | 70% |
+| 2 | Operativna marža stabilna | ≥ 19% (±1pp) | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA < 2.5x | 70% |
+| 4 | Poreska stopa se normalizuje | vraća se u opseg 18-22% | 70% |
+| 5 | FCF nastavlja da raste | ≥ 8% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: G1 spread pređe 5pp (kvalitetniji ROIC bez zaduženosti) ILI sektorski slot (Industrija, max 2 pozicije) se oslobodi
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 

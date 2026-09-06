@@ -16,7 +16,12 @@ Roper je diversifikovana tehnološka kompanija čija je strategija kapitalna alo
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Portfolio tržišno-vodećih (obično #1/#2) softverskih igrača u fragmentisanim, odbranjivim vertikalama (legal tech, ABA terapija, K-12 administracija, osiguranje) gde je softver duboko integrisan u kritične operativne procese klijenta — migracija je skupa i rizična, slično logici troškova prelaska kod core-bankarskog softvera.
+> Disciplina kapitalne alokacije (retko prodaje, kupuje tržišne lidere, ne konkuriše na cenu) potvrđena je dosledno rastućim ROIC-om ex-goodwill (17.1%→23.5% kroz 5 godina).
+
+- Kategorija: troškovi prelaska (po pojedinačnoj vertikali) + disciplinovana kapitalna alokacija
+- **Šta bi ubilo ovaj moat u 5 godina:** M&A tempo se uspori zbog nedostatka kvalitetnih meta ILI pojedinačna vertikala izgubi tržišnu poziciju novom konkurencijom
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu ista disciplina izbora meta (Roper eksplicitno bira #1/#2 igrače) kroz decenije, ne samo kapital za akvizicije
 
 ## 3. Scorecard
 
@@ -86,15 +91,37 @@ K5 Valuacija: P/E 28.58. PEG_trailing 1.67 (istorijski EPS CAGR 17.1%), PEG_forw
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC ex-goodwill padne ispod 18% (obrne trend rasta) — signal da nove akvizicije (CentralReach, Subsplash) razvodnjavaju kvalitet umesto da ga dodaju.
+2. Neto dug/EBITDA pređe 3.0x dva kvartala zaredom — signal da FY2025 buyback nastavak prelazi u agresivnije finansiranje dugom.
+3. Organski rast prihoda (bez akvizicija) padne ispod 5% — signal da je rast isključivo M&A, ne i osnovni posao.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Standardni ROIC od 5.8% je ono što bi svaki generalista video prvi i odmah odbacio kompaniju — override na "ROIC ex-goodwill" je legitiman po CLAUDE.md metodologiji, ali otvara vrata subjektivnosti: ako se akvizicije nastave istim tempom ($8.96mlrd 2023-2025), goodwill raste brže od equity-ja i ROIC ex-goodwill postaje sve teže održiv metrika za praćenje. Plaćaš PEG_trailing od 1.67 delom vođen istorijskim M&A rastom koji se ne može ekstrapolirati bez pretpostavke da Roper nastavi da nalazi mete slične veličine kao Vertafore ($5.4mlrd) i Frontline ($3.75mlrd) — a broj takvih meta je konačan.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ex-goodwill ostaje visok | ≥ 20% | 70% |
+| 2 | Operativna marža stabilna | ≥ 27% (±1pp) | 70% |
+| 3 | Zaduženost ne pogoršava | Neto dug/EBITDA < 3.0x | 70% |
+| 4 | FCF nastavlja da raste | ≥ 8% god/god | 70% |
+| 5 | Goodwill/ukupna imovina ne prelazi granicu | < 65% | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-04
+**Cena ulaza:** 405.89
+**VUAA cena istog dana:** 149.02 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. ROIC ex-goodwill padne ispod 15% dva kvartala zaredom
+2. Neto dug/EBITDA pređe 3.5x dva kvartala zaredom
+3. Moat teza opovrgnuta — konkretno, veća akvizicija propadne (integracija ne uspe, otpisan goodwill) što bi signaliziralo da disciplina izbora meta erodira
 
 ## 9. Izvori
 

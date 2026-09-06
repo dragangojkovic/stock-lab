@@ -16,7 +16,12 @@ ITW je diversifikovani industrijski proizvođač organizovan u 7 nepovezanih seg
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> "80/20 Front-to-Back" operativni model — decentralizovane poslovne jedinice fokusiraju resurse na najprofitabilniji ~20% proizvoda/kupaca i sistematski eliminišu kompleksnost dugog repa manje profitabilnih SKU-ova, generišući strukturno višu operativnu maržu (26.3%) od diversifikovanih konkurenata (Honeywell 21.7%, Dover/Lincoln Electric 17.0%).
+> Diversifikacija kroz 7 nepovezanih segmenata (welding do food equipment) smanjuje ciklični rizik pojedinačnog tržišta bez žrtvovanja ROIC-a (29.5% medijana kroz 5 godina).
+
+- Kategorija: ekonomija obima / troškovna prednost (operativni proces, ne proizvod)
+- **Šta bi ubilo ovaj moat u 5 godina:** novi menadžment napusti 80/20 disciplinu radi rasta prihoda (kompromitujući maržu) ILI konkurenti kopiraju model
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** 80/20 zahteva decenijsku decentralizovanu korporativnu kulturu, ne samo strategiju — teško se transplantira preko noći
 
 ## 3. Scorecard
 
@@ -79,15 +84,37 @@ K5 Valuacija: P/E 25.75. PEG_trailing 4.80 (istorijski EPS CAGR samo 5.4% - skup
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Operativna marža padne ispod 25% dva kvartala zaredom — signal da 80/20 disciplina slabi.
+2. Prihod CAGR ostane ispod 3% dok konkurenti rastu brže — signal gubitka tržišnog udela, ne samo zrelog tržišta.
+3. Test produktivnosti duga se obrne (dug počne rasti brže od EBIT/FCF) — signal da se buyback finansira agresivnije dugom.
+
+**Šta je najjači argument protiv kupovine ove akcije?** ITW plaća gotovo sav svoj slobodan novčani tok akcionarima (dividende + buyback ~$3.3mlrd/god) umesto da ga reinvestira u rast — prihod CAGR od svega 2.6% pokazuje da je ovo zreo, sporo rastući biznis koji se prodaje po P/E od 25.75x i PEG_forward od 3.43. Plaćaš premiju za kvalitet operativnog modela, ne za rast — ako tržište ikad preceni koliko dugo 80/20 model može održati marže bez rasta prihoda, multiple kompresija bi bila bolna.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 27% | 70% |
+| 2 | Operativna marža stabilna | ≥ 25% (±1pp) | 70% |
+| 3 | Zaduženost ostaje niska | Neto dug/EBITDA < 2.0x | 70% |
+| 4 | Buyback nastavlja da smanjuje broj akcija | broj akcija opada | 70% |
+| 5 | Prihod ne opada | raste ≥ 2% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-04
+**Cena ulaza:** 270.12
+**VUAA cena istog dana:** 149.02 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. Operativna marža padne ispod 24% dva kvartala zaredom
+2. Neto dug/EBITDA pređe 2.5x dva kvartala zaredom
+3. Standardni ROIC padne ispod 20% dva kvartala zaredom
 
 ## 9. Izvori
 
