@@ -16,7 +16,12 @@ Ulta je internacionalni specialty beauty retailer — prodaje ~30,000 SKU-ova od
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Ultamate Rewards loyalty program ima merljiv switching-cost efekat — preko 46 miliona članova generiše ~95% ukupne prodaje, a omnichannel članovi troše preko 3x više od kupaca koji kupuju samo u prodavnici.
+> Kombinacija mass+prestige+salon ponude pod jednim krovom je teško replicirati (Sephora je uglavnom prestige-only, drogerije uglavnom mass-only), što potvrđuje ULTA-ina operativna marža (12.4%) koja drastično nadmašuje jedinog pravog peer-a, Sally Beauty (8.9%).
+
+- Kategorija: troškovi prelaska (loyalty program) + brend/asortiman prednost
+- **Šta bi ubilo ovaj moat u 5 godina:** Amazon ili TikTok Shop preuzmu značajan udeo prodaje kozmetike direktno od proizvođača, zaobilazeći potrebu za fizičkim/loyalty maloprodajnim kanalom
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** 46 miliona loyalty članova i podaci o njihovom ponašanju su izgrađeni godinama; kombinacija mass+prestige asortimana zahteva odnose sa stotinama brend partnera koji se ne uspostavljaju preko noći
 
 ## 3. Scorecard
 
@@ -83,15 +88,37 @@ K5 Valuacija: P/E 22.00 (NAJNIŽE od svih zdravstvenih/industrijskih/potrošacki
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Operativna marža nastavi da pada ispod 11% — signal da loyalty program gubi snagu cenovne moći, ne samo da apsorbuje marketing investicije.
+2. Broj loyalty članova ili % prodaje od loyalty počne da opada — direktan udar na moat tezu.
+3. Prihod padne ispod 5% god/god rasta dva kvartala zaredom — signal da konkurencija (Amazon, TikTok Shop, Sephora) preuzima tržišni udeo brže nego što se misli.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Operativna marža opada dosledno već 3 godine (16.1%→12.4%) i ROIC prati isti trend (39.6%→25.4%) — čak i ako je ULTA i dalje najbolji od loše grupe (Sally Beauty), sama činjenica da pad traje 3 uzastopne godine sugeriše da konkurentski pritisak (online prodaja lepote, TikTok Shop influenceri koji preusmeravaju kupovinu) nije prolazan trend nego strukturna promena industrije koju ni najjača loyalty baza ne može potpuno zaustaviti.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC drži nivo | ≥ 25% | 70% |
+| 2 | Operativna marža stabilna | ≥ 12% (±1pp) | 70% |
+| 3 | Zaduženost ostaje niska | Neto dug/EBITDA < 1.5x | 70% |
+| 4 | Prihod raste | ≥ 6% god/god | 70% |
+| 5 | Broj akcija nastavlja da opada | buyback nastavlja | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-04
+**Cena ulaza:** 564.12
+**VUAA cena istog dana:** 149.02 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. Operativna marža padne ispod 10% dva kvartala zaredom
+2. Neto dug/EBITDA pređe 2.0x dva kvartala zaredom
+3. Moat teza opovrgnuta — konkretno, % prodaje od loyalty članova padne ispod 90% ili broj članova stagnira/opada
 
 ## 9. Izvori
 

@@ -16,7 +16,12 @@ TSCO je najveći ruralni lifestyle retailer u SAD-u, servisira farmere/rančere 
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Gustina prodavnica u ruralnim/malim gradovima gde su alternative ograničene (nema Home Depot/Lowe's u blizini) stvara lokalni kvazi-monopol, a stručnost osoblja i asortiman specifičan za farmere/rančere je teže replicirati generičkim maloprodavcima.
+> Standardni ROIC (13.8% FY2025) ostaje komotno iznad WACC-a (5.5%) uprkos agresivnom CapEx-u za ekspanziju, sugerišući da rast ne uništava vrednost.
+
+- Kategorija: geografska gustina/lokalna dominacija + specijalizovan asortiman
+- **Šta bi ubilo ovaj moat u 5 godina:** online prodaja (Amazon, Chewy za pet segment) nadomesti prednost fizičke blizine za ruralne kupce
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja mreže od 2,600+ prodavnica u ruralnim lokacijama sa niskom gustinom stanovništva zahteva decenije i nije ekonomski atraktivna za velike lance fokusirane na urbane/prigradske lokacije
 
 ## 3. Scorecard
 
@@ -84,15 +89,35 @@ K5 Valuacija: P/E 16.99 (jeftino nominalno). PEG_trailing 3.71, PEG_forward 5.92
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC nastavi da pada ispod 12% — signal da nove prodavnice generišu prinos ispod cene kapitala.
+2. Neto dug/EBITDA nastavi da raste iznad 3.2x — signal da je zaduženost postala strukturan problem, ne privremen tokom faze ekspanzije.
+3. Konsenzus EPS rast od 2.87% se potvrdi nezavisnim izvorom kao tačan (ne split-artefakt) — ako je rast zaista tako spor, PEG_forward od 5.92 je realno skupo, ne jeftino.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Dve nezavisne kapije padaju (G2, G4) iz istog uzroka — TSCO širi mrežu prodavnica brže nego što EBIT raste, a ROIC opada dosledno svake godine (20.2%→13.8%). Override obrazloženje ("ROIC je i dalje iznad WACC-a") pretpostavlja da će ROIC ostati iznad WACC-a — ali ako trend nastavi istim tempom, za 3-4 godine ROIC bi mogao pasti ispod WACC-a, čineći dalju ekspanziju destruktivnom po vrednost umesto akrretivnom.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 12% | 70% |
+| 2 | Zaduženost ne pogoršava dalje | Neto dug/EBITDA < 3.2x | 70% |
+| 3 | FCF konverzija se poboljšava | ≥ 0.65 | 70% |
+| 4 | Operativna marža stabilna | ≥ 9% (±0.5pp) | 70% |
+| 5 | Prihod raste | ≥ 5% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: G2/G4 se poprave 2 kvartala zaredom ILI se konsenzus EPS rast pouzdano potvrdi kao netačan (viši od 2.87%)
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 
