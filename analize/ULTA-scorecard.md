@@ -5,7 +5,7 @@ Sektor: Potrošnja/distribucija - specijalizovana maloprodaja (kozmetika/lepota)
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 33.5%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 33.5%, WACC 7.9%, spread 25.5% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA 0.96x, kamate 857.9x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.88 | **PROŠAO** |
@@ -13,11 +13,10 @@ Sektor: Potrošnja/distribucija - specijalizovana maloprodaja (kozmetika/lepota)
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **33.5%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.9% | Spread: **25.5%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -64,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 9.8% vs Prihod CAGR: 9.5%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 9.3% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 22.00
+- EPS CAGR (istorijski 4g): 9.3% → **PEG_trailing = 2.37**
+- Konsenzus EPS rast (3g): 11.3% → **PEG_forward = 1.95**
+- FCF yield na EV: **3.9%** (nakon SBC: 3.8%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 9.5% | EPS CAGR: 9.3% | FCF/akcija CAGR: 10.1%

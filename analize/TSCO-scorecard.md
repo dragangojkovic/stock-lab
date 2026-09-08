@@ -5,7 +5,7 @@ Sektor: Potrošnja/distribucija - maloprodaja (ruralni lifestyle/farm&ranch) | V
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 16.8%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 16.8%, WACC 5.5%, spread 11.4% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA 2.93x, kamate 21.2x | **PAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.57 | **PAO** |
@@ -13,13 +13,12 @@ Sektor: Potrošnja/distribucija - maloprodaja (ruralni lifestyle/farm&ranch) | V
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **16.8%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 5.5% | Spread: **11.4%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 8.9% vs Prihod CAGR: 5.1%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 4.6% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 16.99
+- EPS CAGR (istorijski 4g): 4.6% → **PEG_trailing = 3.71**
+- Konsenzus EPS rast (3g): 2.9% → **PEG_forward = 5.92**
+- FCF yield na EV: **3.0%** (nakon SBC: 2.8%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 5.1% | EPS CAGR: 4.6% | FCF/akcija CAGR: 12.1%
