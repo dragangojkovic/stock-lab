@@ -5,7 +5,7 @@ Sektor: Zdravstvo - medicinski uredjaji (strukturne bolesti srca) | Valuta: USD 
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 19.0%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 19.0%, WACC 8.5%, spread 10.5% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA -1.65x, kamate 62.0x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.67 | **PAO** |
@@ -13,13 +13,12 @@ Sektor: Zdravstvo - medicinski uredjaji (strukturne bolesti srca) | Valuta: USD 
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **19.0%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 8.5% | Spread: **10.5%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 11.6% vs Prihod CAGR: 3.8%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): -6.4% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 49.13
+- EPS CAGR (istorijski 4g): -6.4% → **PEG_trailing = -7.73**
+- Konsenzus EPS rast (3g): 14.0% → **PEG_forward = 3.50**
+- FCF yield na EV: **2.7%** (nakon SBC: 2.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 3.8% | EPS CAGR: -6.4% | FCF/akcija CAGR: 0.6%

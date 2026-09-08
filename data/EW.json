@@ -23,15 +23,15 @@
     "no_financial_debt": false
   },
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
-    "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "WACC NIJE JOS IZRACUNAT - ceka cenu iz IBKR-a. Beta (5g, stockanalysis.com, treca strana, pristupljeno 2026-09-06): 0.85.",
+    "price": 89.9,
+    "market_cap": 52663.4,
+    "enterprise_value": 50323.7,
+    "pe_ratio": 49.13,
+    "consensus_eps_growth_3y": 0.1403,
+    "wacc": 0.0854,
+    "_wacc_napomena": "WACC bottom-up, izracunato 2026-09-08. Cost of equity = rf(10Y UST, treasury.gov, 04.09.2026, 4.78%) + beta(0.85, 5g, stockanalysis.com, treca strana) x ERP(4.5%) = 8.61%. Cost of debt = kamate FY2025 (20.4) / prosecan ukupan dug (FY2024 597.7 + FY2025 598.3)/2 = 598.0 -> 3.41% pretax; posle poreza (efektivna stopa FY2025 17.04%) = 2.83%. Tezine: E/V=98.8% (market cap 52,663), D/V=1.2% (dug FY2025 598.3; EV=50,324). WACC = 0.988x8.61% + 0.012x2.83% = 8.54%.",
     "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
-    "_shares_used": null
+    "_shares_used": 585.8
   },
   "years": [
     {
@@ -90,7 +90,7 @@
       "cash_and_equivalents": 1132.3,
       "total_equity": 6650.0,
       "diluted_shares": 609.4,
-      "diluted_eps": 2.30,
+      "diluted_eps": 2.3,
       "receivables": 771.5,
       "inventory": 903.5
     },

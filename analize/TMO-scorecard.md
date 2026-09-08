@@ -5,7 +5,7 @@ Sektor: Zdravstvo - life sciences alati/instrumenti/dijagnostika (kontraktna ist
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 8.9%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 8.9%, WACC 7.9%, spread 1.0% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA 2.81x, kamate 5.5x | **PAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 1.02 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Zdravstvo - life sciences alati/instrumenti/dijagnostika (kontraktna ist
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **8.9%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.9% | Spread: **1.0%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 1.8% vs Prihod CAGR: 3.2%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): -2.3% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 34.60
+- EPS CAGR (istorijski 4g): -2.3% → **PEG_trailing = -15.13**
+- Konsenzus EPS rast (3g): 9.8% → **PEG_forward = 3.55**
+- FCF yield na EV: **2.4%** (nakon SBC: 2.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 3.2% | EPS CAGR: -2.3% | FCF/akcija CAGR: -0.7%
