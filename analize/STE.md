@@ -18,7 +18,12 @@ STERIS je dobavljač sterilizacije i infekcione kontrole za bolnice i farmaceuts
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Bolnice i farmaceutski proizvođači su regulatorno obavezni na sterilizaciju/infekcionu kontrolu (FDA/EPA zahtevi), a STE-ova AST mreža postrojenja i servisni ugovori stvaraju visoke troškove prelaska — promena dobavljača sterilizacionih usluga zahteva regulatornu revalidaciju procesa.
+> ROIC ex-goodwill dosledno raste (7.73%→15.10%), pokazujući poboljšanje osnovnog poslovanja nakon Dental problema.
+
+- Kategorija: regulatorna/licencna barijera + troškovi prelaska
+- **Šta bi ubilo ovaj moat u 5 godina:** novi tehnologija sterilizacije koja zaobiđe potrebu za AST kontraktnim uslugama ILI bolnice insourcing-uju sterilizaciju
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** regulatorna revalidacija procesa sterilizacije traje godinama; AST mreža postrojenja zahteva kapitalno-intenzivnu izgradnju infrastrukture
 
 ## 3. Scorecard
 
@@ -89,15 +94,35 @@ K5 Valuacija: P/E 37.37. PEG_trailing 1.52 (istorijski EPS CAGR 24.6% - VEROVATN
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC ex-goodwill se zaustavi ispod 15% — signal da poboljšanje nije nastavljeno.
+2. Neto dug/EBITDA prestane da opada — signal da je poboljšanje bilo jednokratno (Dental proceeds), ne strukturno.
+3. FY2026 podaci (kad postanu dostupni sa punijim istorijskim kontekstom) pokažu da je FY2022 (7.73% ex-goodwill) bio tipičan nivo, ne anomalno dno — obarajući "poboljšanje" tezu.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Ceo pozitivan trend (ROIC ex-goodwill raste, ND/EBITDA pada) počiva na samo 4 godine podataka koje počinju odmah posle Dental problema (FY2022 goodwill impairment) — nemamo dovoljno istorijskog konteksta da znamo da li je STE strukturno poboljšao poslovanje ili se jednostavno oporavlja od jednokratnog udarca ka svom normalnom nivou. Plaćaš PEG_forward od 3.81 (najskuplje od tri zdravstvena kandidata) za trend koji možda nije ni pravi trend, samo povratak na srednju vrednost.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ex-goodwill nastavlja da raste | ≥ 15% | 70% |
+| 2 | Operativna marža stabilna | ≥ 15% (±1pp) | 70% |
+| 3 | Zaduženost ostaje niska | Neto dug/EBITDA < 1.5x | 70% |
+| 4 | FCF konverzija ostaje jaka | ≥ 1.0 | 70% |
+| 5 | Prihod raste | ≥ 6% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: ROIC ex-goodwill medijana pređe 18% ILI se dobije FY2021 restatovan podatak za potvrdu pravog 5-godišnjeg trenda
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 

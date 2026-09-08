@@ -14,9 +14,7 @@ TMO je najveći svetski dobavljač life sciences alata — reagensi, instrumenti
 - Kako se naplaćuje: prodaja instrumenata (jednokratno) + ponavljajuća prodaja reagensa/potrošnog materijala + kontraktne usluge (PPD/Patheon, višegodišnji ugovori).
 - Koncentracija: nema obelodanjivanja koncentracije kupaca u 10-K — N/A, nije obelodanjeno.
 
-## 2. Moat — dve rečenice (obavezna kapija)
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+## 2. Moat — ODLOŽENO (direktno odbijanje, vidi §8)
 
 ## 3. Scorecard
 
@@ -80,17 +78,21 @@ K5 Valuacija: P/E 34.60. PEG_trailing NEGATIVAN (-15.13, EPS CAGR -2.3%) - PEG f
 
 **Razlika između PEG_trailing i PEG_forward:** Per CLAUDE.md K5, PEG_trailing je BESKORISTAN ovde (negativan istorijski rast — jedan od eksplicitno navedenih slučajeva gde PEG ne radi). PEG_forward od 3.55 pretpostavlja da konsenzus rast od 9.8% predstavlja PREOKRET trenda (EPS CAGR poslednje 4 godine je bio -2.3%). Ovo je snažna pretpostavka koju treba eksplicitno opravdati — trenutno nema jasnog kataliza u podacima (marže i dalje padaju u FY2025) koji bi potkrepio ovako oštar preokret. FCF yield na EV (2.4%, ne zavisi od projekcija) je najniži signal opreza — kompanija generiše relativno mali slobodan novčani tok naspram svoje enterprise vrednosti.
 
-## 6. Tri stvari koje bi opovrgle tezu (obavezno)
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
-
-## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+## 6-7. Opovrgavajuće tačke / predviđanja — ODLOŽENO (vidi §8)
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Odbijeno — razlog: Dve nezavisne kapije padaju (G1 standardni ROIC, G2 zaduženost) bez uverljivog override obrazloženja. Za razliku od ROP-a (gde je standardni ROIC pao samo zbog goodwill dilucije uz snažan i poboljšavajući ex-goodwill trend), TMO ima ROIC ex-goodwill koji TAKOĐE opada (30.0%→21.3%), operativnu maržu koja pada strmo (25.6%→17.4%), test produktivnosti duga koji pada, i PEG_trailing koji se raspao (negativan istorijski rast). Ovo izgleda kao realno slabljenje osnovnog posla (verovatno PPD integracija razvodnjava marže), ne računovodstveni artefakt kao kod ROP-a.
+
+**Datum ulaza:** N/A — odbijeno
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — odbijeno, nema pozicije za izlaz
 
 ## 9. Izvori
 

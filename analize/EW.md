@@ -16,7 +16,12 @@ Edwards je lider u lečenju strukturnih bolesti srca — TAVR (transkateterska z
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> FDA odobrenje implantabilnih srčanih uređaja je dugotrajan i skup proces, a klinička iskustva/obuka hirurga sa specifičnom platformom (SAPIEN) stvaraju inerciju — promena dobavljača zahteva ponovnu obuku tima i novu kliničku validaciju.
+> Tržište je koncentrisano (Edwards/Medtronic/Abbott), a EW i dalje nadmašuje oba diversifikovana konkurenta po operativnoj marži (20.8% vs 17.8%/18.2%) uprkos sopstvenom padu marže.
+
+- Kategorija: regulatorna/licencna barijera + troškovi prelaska (klinička validacija)
+- **Šta bi ubilo ovaj moat u 5 godina:** Abbott-ov TMTT portfolio dobije značajniju regulatornu odobrenu ekspanziju i preuzme tržišni udeo ILI cenovni pritisak od bolničkih sistema koji konsoliduju nabavku
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** FDA klinička ispitivanja za nove strukturne srčane platforme traju godinama; hirurška obuka i institucionalno poverenje se grade postepeno, ne kupuju
 
 ## 3. Scorecard
 
@@ -85,15 +90,35 @@ K5 Valuacija: P/E 49.13 (NAJSKUPLJE od tri zdravstvena kandidata ovog kruga). PE
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Operativna marža nastavi da pada ispod 18% — potvrđuje da je pad strukturan (konkurentski pritisak), ne privremen.
+2. ROIC padne ispod 10% dva kvartala zaredom — signal da moat erodira brže nego što cena implicira.
+3. Tačan sastav FY2024 jednokratnog dobitka se pokaže kao maskiranje operativne slabosti (npr. poreski trik, ne stvarna dobit od prodaje) — narušava override obrazloženje za G4.
+
+**Šta je najjači argument protiv kupovine ove akcije?** ROIC i operativna marža opadaju dosledno svake godine bez ijednog izuzetka od 2021 (26.8%→13.1% i 32.3%→20.8%) — ovo nije jedna loša godina, ovo je petogodišnji trend. Plaćaš P/E od 49.13 (najskuplje od svih zdravstvenih kandidata u projektu) za kompaniju čiji fundamenti se pogoršavaju iz godine u godinu, oslanjajući se na to da će konsenzus rast od 14.0% preokrenuti taj trend — ali ništa u trenutnim podacima ne potvrđuje da je preokret već počeo.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC drži nivo | ≥ 12% | 70% |
+| 2 | Operativna marža stabilna | ≥ 19% (±1pp) | 70% |
+| 3 | FCF konverzija (bez jednokratnih stavki) | ≥ 0.85 | 70% |
+| 4 | Prihod raste | ≥ 8% god/god | 70% |
+| 5 | Broj akcija nastavlja da opada | buyback nastavlja | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: operativna marža se stabilizuje ≥ 22% dva kvartala zaredom ILI PEG_forward padne ispod 2.5
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 
