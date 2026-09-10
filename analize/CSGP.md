@@ -14,9 +14,7 @@ CoStar je online real estate marketplaces, informacije, analitika i 3D digital-t
 - Kako se naplaćuje: pretežno subscription/recurring model za CRE podatke, marketplace naknade za Apartments.com/Homes.com/LoopNet.
 - Koncentracija: nema obelodanjivanja koncentracije kupaca u dostupnim izvorima — N/A.
 
-## 2. Moat — dve rečenice (obavezna kapija)
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+## 2. Moat — ODLOŽENO (direktno odbijanje, vidi §8)
 
 ## 3. Scorecard
 
@@ -71,17 +69,21 @@ K5 Valuacija: P/E 1545.50 i PEG_forward 42.95 - OBA BESMISLENA (skoro-nula zarad
 
 **Razlika između PEG_trailing i PEG_forward:** Oba su BESMISLENA i ne treba ih koristiti — per CLAUDE.md K5, ovo je klasičan slučaj "gde PEG uopšte ne radi" (zarada blizu nule/negativna). FCF yield (koji ne zavisi od projekcija) je jedini pouzdan signal ovde, i on je najslabiji od svih nedavno analiziranih kandidata — nakon SBC, negativan.
 
-## 6. Tri stvari koje bi opovrgle tezu (obavezno)
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
-
-## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
-
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+## 6-7. Opovrgavajuće tačke / predviđanja — ODLOŽENO (vidi §8)
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [x] Odbijeno — razlog: Dve kapije formalno padaju (G1, G2), i za razliku od ROP/TYL nema uverljivog override obrazloženja — EBIT je realno negativan (-$72M FY2025), ne samo goodwill-om potisnut. FCF konverzija od 3.92 je računovodstveni artefakt skoro-nulte neto dobiti, ne stvarna snaga; FCF yield nakon SBC je negativan. Homes.com marketinški rat protiv Zillow-a je samoizazvana strateška odluka koja je eliminisala profitabilnost na godinama, bez jasnog signala preokreta u podacima.
+
+**Datum ulaza:** N/A — odbijeno
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — odbijeno, nema pozicije za izlaz
 
 ## 9. Izvori
 

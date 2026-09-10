@@ -16,7 +16,12 @@ Tyler je vodeći dobavljač integrisanog softvera za javni sektor u SAD-u (lokal
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Core sistemi zapisa za javnu upravu (pravosuđe, oporezivanje, public safety) su operativno srce agencije — migracija je višegodišnji, regulatorno i politički rizičan poduhvat (izabrani zvaničnici retko rizikuju veliki IT projekat), slično JKHY core-bankarskoj logici.
+> Subscription prihod dominira (68%) i operativna marža dosledno raste (11.4%→15.3%) svake godine bez izuzetka, potvrđujući ponavljajuću, lepljivu prirodu odnosa sa agencijama.
+
+- Kategorija: troškovi prelaska (switching costs) + regulatorna/politička inercija
+- **Šta bi ubilo ovaj moat u 5 godina:** federalni ili državni mandat za standardizovanu, jeftiniju open-source alternativu ILI veliki cloud provider (Microsoft/Oracle) agresivno subvencioniše ulazak u gov-tech prostor
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu dedicated state-level prisustvo (Tyler ima u 30 država) izgrađeno godinama odnosa sa agencijama, plus toleranciju za spor prodajni ciklus vezan za budžetske/izborne cikluse javnog sektora
 
 ## 3. Scorecard
 
@@ -84,15 +89,37 @@ K5 Valuacija: P/E 50.56 (NAJSKUPLJE od tri softverska kandidata ovog kruga). PEG
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC ex-goodwill padne ispod 25% (obrne dvogodišnji trend rasta) — signal da integracija NIC akvizicije prestaje da sazreva pozitivno.
+2. Operativna marža stagnira ili padne ispod 14% dva kvartala zaredom — prekid dosledno rastućeg trenda.
+3. R&D skok u FY2025 (+73%) se pokaže kao neefikasna AI investicija bez merljivog povratka (npr. rast prihoda ne ubrza) — signal lošeg kapitalnog alociranja.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Plaćaš P/E od 50.56 (najskuplje od tri softverska kandidata ovog kruga) za override tezu koja se oslanja na samo dve godine pozitivnog ex-goodwill trenda (FY2024-2025) posle tri prethodne godine slabijeg/volatilnog rezultata (FY2021-2023, 19.8-45.5% raspon) — ako se FY2024-2025 poboljšanje pokaže kao privremeni skok (npr. jednokratni veliki ugovori), a ne strukturna promena, standardni ROIC bi mogao ostati trajno ispod WACC-a.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ex-goodwill ostaje visok | ≥ 30% | 70% |
+| 2 | Operativna marža stabilna/raste | ≥ 14% (±1pp) | 70% |
+| 3 | Zaduženost ostaje niska | Neto dug/EBITDA negativan (neto gotovina) | 70% |
+| 4 | FCF konverzija ostaje jaka | ≥ 1.5 | 70% |
+| 5 | Prihod raste | ≥ 8% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-04
+**Cena ulaza:** 364.03
+**VUAA cena istog dana:** 149.02 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. ROIC ex-goodwill padne ispod 20% dva kvartala zaredom
+2. Operativna marža padne ispod 12% dva kvartala zaredom
+3. Neto dug/EBITDA ponovo postane pozitivan i pređe 1.5x (signal nove velike zaduženo-finansirane akvizicije)
 
 ## 9. Izvori
 

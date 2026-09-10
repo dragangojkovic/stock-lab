@@ -16,7 +16,12 @@ SPSC je cloud-bazirana mreža za upravljanje lancem snabdevanja koja povezuje re
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Mrežni efekat — novi učesnik (retailer/dobavljač) se poveže jednom i odmah dobija pristup hiljadama već povezanih trgovinskih partnera, što stvara sve veću vrednost mreže sa svakim novim članom.
+> 100 uzastopnih kvartala rasta prihoda i 96% recurring prihod potvrđuju lepljivost mreže, iako tačan numerički broj povezanih partnera nije objavljen.
+
+- Kategorija: mrežni efekat (two-sided network)
+- **Šta bi ubilo ovaj moat u 5 godina:** veliki ERP provider (SAP/Oracle) ugradi ekvivalentnu B2B integraciju direktno u svoju platformu, eliminišući potrebu za posrednikom
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** vrednost mreže dolazi iz broja već povezanih trgovinskih partnera — novi ulazak mora ubediti i retailere i dobavljače da se prebace istovremeno (classic cold-start problem za mrežne efekte)
 
 ## 3. Scorecard
 
@@ -79,15 +84,35 @@ K5 Valuacija: P/E 33.74. PEG_trailing 1.74, PEG_forward 2.76 (konsenzus rast 12.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC standardni nastavi da pada ispod 10% — potvrđuje da goodwill iz akvizicija (Carbon6) razvodnjava kvalitet brže nego što raste.
+2. SBC/prihod nastavi da raste iznad 8% — dilucija postaje sve veći teret na FCF nakon SBC.
+3. Recurring prihod % padne ispod 92% — signal da mrežni efekat slabi, kupci odlaze na alternativna rešenja.
+
+**Šta je najjači argument protiv kupovine ove akcije?** ROIC opada dosledno (21.5%→10.8%) uprkos tome što kompanija nastavlja da raste prihodom — ovo je signal da rastuća akvizicija (Carbon6, 2025) razvodnjava kvalitet povrata na kapital brže nego što organski posao kompenzuje, slično ranoj fazi problema koji je TMO/CSGP kasnije eskalirao u ozbiljniji pad. Sektorski cap je već iskorišćen za TYL, koji ima jači i konzistentniji override profil.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 15% | 70% |
+| 2 | Recurring prihod ostaje visok | ≥ 94% | 70% |
+| 3 | Operativna marža stabilna | ≥ 14% (±1pp) | 70% |
+| 4 | Prihod nastavlja da raste | ≥ 15% god/god | 70% |
+| 5 | Zaduženost ostaje niska | Neto dug/EBITDA negativan (bez duga) | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: ROIC standardni se stabilizuje ≥15% dva kvartala zaredom ILI se sektorski slot (Softver, max 3) oslobodi
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 
