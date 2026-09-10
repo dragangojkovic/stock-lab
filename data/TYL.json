@@ -23,15 +23,15 @@
     "no_financial_debt": false
   },
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
-    "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "WACC NIJE JOS IZRACUNAT - ceka cenu iz IBKR-a. Beta (5g, treca strana - raspon 0.81-0.92 izmedju izvora, koristice se ~0.85 kao procena, eksplicitno oznaceno) pristupljeno 2026-09-10.",
+    "price": 364.03,
+    "market_cap": 15948.9,
+    "enterprise_value": 15533.1,
+    "pe_ratio": 50.56,
+    "consensus_eps_growth_3y": 0.1583,
+    "wacc": 0.0830,
+    "_wacc_napomena": "WACC bottom-up, izracunato 2026-09-10. Cost of equity = rf(10Y UST, treasury.gov, 04.09.2026, 4.78%) + beta(0.85, procena - raspon 0.81-0.92 izmedju izvora, treca strana) x ERP(4.5%) = 8.61%. Cost of debt = kamate FY2025 (4.995) / prosecan ukupan dug (FY2024 597.934 + FY2025 599.663)/2 = 598.8 -> 0.83% pretax; posle poreza (efektivna stopa FY2025 19.14%) = 0.67%. Tezine: E/V=96.1% (market cap 15,949), D/V=3.9% (dug FY2025 599.7; EV=15,533). WACC = 0.961x8.61% + 0.039x0.67% = 8.30%.",
     "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
-    "_shares_used": null
+    "_shares_used": 43.812
   },
   "years": [
     {
@@ -59,7 +59,7 @@
       "revenue": 1850.204,
       "cogs": 1066.341,
       "ebit": 214.249,
-      "net_income": 164.240,
+      "net_income": 164.24,
       "effective_tax_rate": 0.1245,
       "interest_expense": 28.379,
       "depreciation_amortization": 159.072,
@@ -80,11 +80,11 @@
       "cogs": 1090.652,
       "ebit": 218.537,
       "net_income": 165.919,
-      "effective_tax_rate": 0.1630,
+      "effective_tax_rate": 0.163,
       "interest_expense": 23.629,
       "depreciation_amortization": 154.079,
       "stock_based_comp": 108.338,
-      "operating_cash_flow": 380.440,
+      "operating_cash_flow": 380.44,
       "capex": 53.009,
       "total_debt": 646.007,
       "cash_and_equivalents": 165.493,
@@ -116,8 +116,8 @@
     },
     {
       "fy": "FY2025",
-      "revenue": 2332.340,
-      "cogs": 1248.640,
+      "revenue": 2332.34,
+      "cogs": 1248.64,
       "ebit": 357.676,
       "net_income": 315.603,
       "effective_tax_rate": 0.1914,
@@ -127,10 +127,10 @@
       "operating_cash_flow": 653.543,
       "capex": 32.793,
       "total_debt": 599.663,
-      "cash_and_equivalents": 1015.400,
+      "cash_and_equivalents": 1015.4,
       "total_equity": 3702.789,
       "diluted_shares": 43.812,
-      "diluted_eps": 7.20,
+      "diluted_eps": 7.2,
       "receivables": 638.798,
       "inventory": null
     }

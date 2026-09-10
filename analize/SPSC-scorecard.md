@@ -1,11 +1,11 @@
 # SCORECARD — SPS Commerce, Inc. (SPSC)
-Sektor: Softver - cloud mreza za upravljanje lancem snabdevanja (EDI/B2B integracija) | Valuta: USD (miliони) | Podaci: 5 god. | Generisano: 2026-09-09
+Sektor: Softver - cloud mreza za upravljanje lancem snabdevanja (EDI/B2B integracija) | Valuta: USD (miliони) | Podaci: 5 god. | Generisano: 2026-09-10
 
 ## HARD KAPIJE
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 17.1%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 17.1%, WACC 7.1%, spread 10.0% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.0x i pokrivenost kamata ≥ 4x | ND/EBITDA -0.86x, kamate 1183.0x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 1.73 | **PROŠAO** |
@@ -13,11 +13,10 @@ Sektor: Softver - cloud mreza za upravljanje lancem snabdevanja (EDI/B2B integra
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **17.1%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.1% | Spread: **10.0%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -64,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 18.2%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 19.4% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 33.74
+- EPS CAGR (istorijski 4g): 19.4% → **PEG_trailing = 1.74**
+- Konsenzus EPS rast (3g): 12.2% → **PEG_forward = 2.76**
+- FCF yield na EV: **5.1%** (nakon SBC: 3.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 18.2% | EPS CAGR: 19.4% | FCF/akcija CAGR: 12.3%

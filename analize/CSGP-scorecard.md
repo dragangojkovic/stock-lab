@@ -5,7 +5,7 @@ Sektor: Softver - komercijalne nekretnine podaci/analitika/marketplace | Valuta:
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 6.7%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 6.7%, WACC 7.7%, spread -0.9% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 2.0x i pokrivenost kamata ≥ 4x | ND/EBITDA -3.35x, kamate -2.6x | **PAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 4 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 3.92 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Softver - komercijalne nekretnine podaci/analitika/marketplace | Valuta:
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **6.7%** | Trend: **PADA**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.7% | Spread: **-0.9%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 4 | Palo: 2 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 13.7%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): -59.5% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 1545.50
+- EPS CAGR (istorijski 4g): -59.5% → **PEG_trailing = -25.99**
+- Konsenzus EPS rast (3g): 36.0% → **PEG_forward = 42.95**
+- FCF yield na EV: **1.0%** (nakon SBC: -0.6%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 13.7% | EPS CAGR: -59.5% | FCF/akcija CAGR: -24.0%

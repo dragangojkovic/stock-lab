@@ -5,7 +5,7 @@ Sektor: Softver - javna uprava/lokalna samouprava (ERP za gradove/okruge/drzave)
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 6.6%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 6.6%, WACC 8.3%, spread -1.7% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 2.0x i pokrivenost kamata ≥ 4x | ND/EBITDA -0.84x, kamate 71.6x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 2.02 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Softver - javna uprava/lokalna samouprava (ERP za gradove/okruge/drzave)
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **6.6%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 8.3% | Spread: **-1.7%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: N/A vs Prihod CAGR: 10.0%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 17.2% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 50.56
+- EPS CAGR (istorijski 4g): 17.2% → **PEG_trailing = 2.94**
+- Konsenzus EPS rast (3g): 15.8% → **PEG_forward = 3.19**
+- FCF yield na EV: **4.0%** (nakon SBC: 3.0%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 10.0% | EPS CAGR: 17.2% | FCF/akcija CAGR: 17.3%
