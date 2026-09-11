@@ -5,7 +5,7 @@ Sektor: Materijali - industrijski gasovi | Valuta: USD (miliони) | Podaci: 5 
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 11.4%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 11.4%, WACC 7.4%, spread 4.0% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 3.0x i pokrivenost kamata ≥ 4x | ND/EBITDA 1.73x, kamate 15.5x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 1.10 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Materijali - industrijski gasovi | Valuta: USD (miliони) | Podaci: 5 
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **11.4%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.4% | Spread: **4.0%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 4.4% vs Prihod CAGR: 2.5%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 18.8% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 32.69
+- EPS CAGR (istorijski 4g): 18.8% → **PEG_trailing = 1.74**
+- Konsenzus EPS rast (3g): 9.4% → **PEG_forward = 3.46**
+- FCF yield na EV: **2.1%** (nakon SBC: 2.0%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 2.5% | EPS CAGR: 18.8% | FCF/akcija CAGR: -4.1%

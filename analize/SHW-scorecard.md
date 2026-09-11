@@ -5,7 +5,7 @@ Sektor: Materijali - boje i premazi | Valuta: USD (miliони) | Podaci: 5 god. 
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 16.9%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 16.9%, WACC 8.8%, spread 8.1% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 3.0x i pokrivenost kamata ≥ 4x | ND/EBITDA 2.84x, kamate 8.2x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.91 | **PROŠAO** |
@@ -13,11 +13,10 @@ Sektor: Materijali - boje i premazi | Valuta: USD (miliони) | Podaci: 5 god. 
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **16.9%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 8.8% | Spread: **8.1%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -64,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 4.7% vs Prihod CAGR: 4.3%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 10.1% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 32.53
+- EPS CAGR (istorijski 4g): 10.1% → **PEG_trailing = 3.22**
+- Konsenzus EPS rast (3g): 9.7% → **PEG_forward = 3.35**
+- FCF yield na EV: **2.8%** (nakon SBC: 2.6%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 4.3% | EPS CAGR: 10.1% | FCF/akcija CAGR: 10.9%
