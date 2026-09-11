@@ -16,7 +16,12 @@ DexCom razvija i komercijalizuje sisteme za kontinuirani monitoring glukoze (CGM
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Razor/blade model (potrošni senzori se menjaju svakih 10-15 dana) generiše ponavljajuću prodaju, a FDA odobrenje + integracija sa insulin pump/automated-dosing sistemima stvara troškove prelaska za pacijenta i lekara.
+> Operativna marža (19.6%) je najviša od DXCM/Abbott/Medtronic uprkos padu bruto marže, sugerišući operativnu disciplinu koja kompenzuje cenovni pritisak.
+
+- Kategorija: troškovi prelaska (switching costs) + regulatorna barijera (FDA)
+- **Šta bi ubilo ovaj moat u 5 godina:** Abbott-ov FreeStyle Libre nastavi da preuzima tržišni udeo cenovnom konkurencijom ILI se pojavi neinvazivna alternativa monitoringu glukoze koja eliminiše potrebu za senzorom
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** FDA odobrenje za nove CGM platforme traje godinama kliničkih ispitivanja; integracija sa insulin pump ekosistemima (Tandem, Insulet) zahteva partnerske ugovore izgrađene tokom vremena
 
 ## 3. Scorecard
 
@@ -81,15 +86,35 @@ K5 Valuacija: P/E 42.06 (skupo nominalno). PEG_trailing 1.03 (odlicno), PEG_forw
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Bruto marža nastavi da pada ispod 58% — potvrđuje da je cenovni pritisak od Abbott Libre strukturan, ne privremen.
+2. ROIC padne ispod 15% dva kvartala zaredom nakon FY2025 skoka na 22.8% — signal da je taj skok bio jednokratan, ne novi nivo.
+3. Identitet i priroda "Customer A" (>50% prihoda) se otkrije kao rizičniji nego pretpostavljeno (npr. gubitak tog kanala bi bio katastrofalan) — materijalizacija koncentracionog rizika.
+
+**Šta je najjači argument protiv kupovine ove akcije?** Preko 50% prihoda DXCM-a zavisi od jednog neimenovanog distributerskog/PBM kanala ("Customer A") čiji identitet nije utvrđen iz izveštaja — ovo je materijalan, nekvantifikovan rizik koji nijedan drugi kandidat u ovom krugu healthcare screeninga nema (GEHC eksplicitno nema koncentraciju kupaca). Ako taj kanal promeni uslove, izgubi ugovor, ili bude zamenjen konkurentskim rešenjem, uticaj na prihod bi bio nesrazmerno veliki.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 15% | 70% |
+| 2 | Operativna marža stabilna | ≥ 18% (±1pp) | 70% |
+| 3 | Bruto marža ne pada dalje | ≥ 58% | 70% |
+| 4 | Prihod raste | ≥ 15% god/god | 70% |
+| 5 | Zaduženost ostaje niska | Neto dug/EBITDA < 1.0x | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: identitet/priroda Customer A se razjasni kao manje rizičan ILI standardni ROIC pređe 15% dva kvartala zaredom
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 

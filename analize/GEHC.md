@@ -18,7 +18,12 @@ GE HealthCare je proizvođač medicinske imidžing/dijagnostičke opreme, spinov
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Velika instalirana baza skupe imidžing opreme (MRI/CT) generiše dugoročne servisne ugovore i recurring prihod od potrošnog materijala (PDx kontrastna sredstva, PCS senzori) — bolnice retko menjaju dobavljača imidžing opreme zbog troškova obuke osoblja i integracije sa postojećim IT sistemima.
+> Duopol/oligopol sa Siemens Healthineers i Philips u većini segmenata, uz GEHC koji značajno nadmašuje oba SEC-uporediva konkurenta (Medtronic, Philips) po ROIC-u.
+
+- Kategorija: troškovi prelaska (switching costs) + ekonomija obima/servisna mreža
+- **Šta bi ubilo ovaj moat u 5 godina:** disruptivna, jeftinija imidžing tehnologija (npr. AI-pojačan portable ultrazvuk zamenjuje deo MRI/CT upotrebe) ILI bolnice počnu insourcing servis umesto proizvođačkih ugovora
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** FDA/regulatorna odobrenja za medicinsku imidžing opremu traju godinama; servisna mreža i obučeno osoblje na terenu se grade decenijama poverenja sa bolnicama
 
 ## 3. Scorecard
 
@@ -89,15 +94,37 @@ K5 Valuacija: P/E 15.13 (NAJJEFTINIJE od svih zdravstvenih kandidata u projektu)
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Test produktivnosti duga se ne popravi (dug nastavi da raste brže od EBIT-a) — signal da spinoff-dug postaje strukturan teret, ne prolazna faza.
+2. FCF nastavi da opada (CapEx raste brže od OCF-a) dva kvartala zaredom — signal da kompanija troši više nego što generiše, bez jasnog povratka na investiciju.
+3. PEG_forward premisa (9.5% EPS rast) se ne materijalizuje — ako EPS rast ostane na trailing nivou (2.5%), akcija nije jeftina kao što izgleda.
+
+**Šta je najjači argument protiv kupovine ove akcije?** GEHC ima samo 2.7 godine samostalne trgovinske istorije i istorija je opterećena post-spinoff šumom (penziona obaveza skok, jednokratna poreska stopa, kamate na novi dug) — teško je razlikovati "normalizaciju" od "strukturnog problema" sa tako kratkom čistom istorijom. Test produktivnosti duga formalno pada i FCF opada uprkos rastu prihoda — ako se ovi trendovi nastave, niska P/E (15.13) neće ostati jeftina, postaće opravdano niska.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 12% | 70% |
+| 2 | Operativna marža stabilna | ≥ 13% (±1pp) | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA < 2.0x | 70% |
+| 4 | FCF prestane da opada | ≥ 0% god/god | 70% |
+| 5 | Prihod raste | ≥ 4% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [x] Ulazi u paper portfolio
+- [ ] Watchlist — čekam {konkretan trigger, ne "bolju cenu"}
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** 2026-09-04
+**Cena ulaza:** 68.86
+**VUAA cena istog dana:** 149.02 ← obavezno za benchmark
+**Veličina pozicije:** 1/10 satelita
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. Neto dug/EBITDA pređe 2.5x dva kvartala zaredom
+2. FCF nastavi da opada 3 uzastopna kvartala
+3. Standardni ROIC padne ispod 10% dva kvartala zaredom
 
 ## 9. Izvori
 
