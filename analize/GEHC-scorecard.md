@@ -8,7 +8,7 @@ Sektor: Zdravstvo - medicinska imidzing/dijagnosticka oprema | Valuta: USD (mili
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 12.8%, WACC N/A, spread N/A | **PROŠAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 12.8%, WACC 7.2%, spread 5.7% | **PROŠAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA 1.65x, kamate 6.3x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 4 od 4 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.89 | **PROŠAO** |
@@ -16,11 +16,10 @@ Sektor: Zdravstvo - medicinska imidzing/dijagnosticka oprema | Valuta: USD (mili
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 ## K1 — ROIC
 - Medijana (5g): **12.8%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 7.2% | Spread: **5.7%**
 
 | Godina | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|
@@ -67,13 +66,14 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 1.2% vs Prihod CAGR: 4.0%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 3g): 2.5% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 15.13
+- EPS CAGR (istorijski 3g): 2.5% → **PEG_trailing = 5.95**
+- Konsenzus EPS rast (3g): 9.5% → **PEG_forward = 1.59**
+- FCF yield na EV: **4.1%** (nakon SBC: 3.7%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 4.0% | EPS CAGR: 2.5% | FCF/akcija CAGR: -6.5%
+- ⚠ PEG_forward je znatno niži od PEG_trailing → konsenzus očekuje ubrzanje koje se još nije dogodilo. **Opravdaj tu pretpostavku eksplicitno.**
 
 ---
 *Ovaj scorecard nije preporuka. Kapije i signali su ulaz u analizu, ne zamena za nju. Popuni `templates/analiza.md` pre bilo kakve odluke.*

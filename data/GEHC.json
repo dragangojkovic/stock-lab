@@ -25,15 +25,15 @@
     "no_financial_debt": false
   },
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
-    "consensus_eps_growth_3y": null,
-    "wacc": null,
-    "_wacc_napomena": "WACC NIJE JOS IZRACUNAT - ceka cenu iz IBKR-a. Beta (stockanalysis.com, treca strana, pristupljeno 2026-09-11): 0.82 - OZNACENO KAO 5g labela ali GEHC trguje samostalno tek od januara 2023 (~2.7 godine istorije) - broj treba tretirati sa oprezom, moguce da ukljucuje pre-spinoff sintetiku cenu.",
+    "price": 68.86,
+    "market_cap": 31537.9,
+    "enterprise_value": 37048.9,
+    "pe_ratio": 15.13,
+    "consensus_eps_growth_3y": 0.0954,
+    "wacc": 0.0716,
+    "_wacc_napomena": "WACC bottom-up, izracunato 2026-09-11. Beta (0.82, stockanalysis.com, treca strana) OZNACENA KAO 5g labela ali GEHC trguje samostalno tek od januara 2023 (~2.7 godine istorije) - broj treba tretirati sa oprezom, moguce ukljucuje pre-spinoff sintetiku cenu. Cost of equity = rf(10Y UST, treasury.gov, 04.09.2026, 4.78%) + beta(0.82) x ERP(4.5%) = 8.47%. Cost of debt = neto kamate FY2025 (440) / prosecan ukupan dug (FY2024 8951 + FY2025 10003)/2 = 9477 -> 4.64% pretax; posle poreza (efektivna stopa FY2025 22.2%) = 3.61%. Tezine: E/V=73.0% (market cap 31,538), D/V=27.0% (dug FY2025 10,003; EV=37,049). WACC = 0.730x8.47% + 0.270x3.61% = 7.16%.",
     "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Uzeti cenu zatvaranja iz IBKR-a na dan unosa i pokrenuti scripts/fill_price.py.",
-    "_shares_used": null
+    "_shares_used": 458
   },
   "years": [
     {

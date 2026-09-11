@@ -5,7 +5,7 @@ Sektor: Zdravstvo - medicinski uredjaji (kontinuirani monitoring glukoze/dijabet
 
 | # | Kapija | Vrednost | Ishod |
 |---|---|---|---|
-| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 11.6%, WACC N/A, spread N/A | **PAO** |
+| G1 | ROIC ≥ 12% (5g medijana) i spread nad WACC ≥ 3pp | medijana 11.6%, WACC 10.8%, spread 0.8% | **PAO** |
 | G2 | Neto dug/EBITDA ≤ 2.5x i pokrivenost kamata ≥ 4x | ND/EBITDA 0.28x, kamate 49.8x | **PROŠAO** |
 | G3 | FCF pozitivan u ≥ 4 od 5 godina | 5 od 5 poznatih | **PROŠAO** |
 | G4 | FCF konverzija (FCF/NI, 5g prosek) ≥ 0.7 | 0.89 | **PROŠAO** |
@@ -13,13 +13,12 @@ Sektor: Zdravstvo - medicinski uredjaji (kontinuirani monitoring glukoze/dijabet
 | G6 | Nije u isključenom sektoru | u redu | **PROŠAO** |
 
 Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
-- ⚠ G1: WACC nije unet — spread nije proveren!
 
 > **Kapija je pala.** Akcija ispada iz razmatranja, osim ako se napiše eksplicitno obrazloženje override-a u analizi.
 
 ## K1 — ROIC
 - Medijana (5g): **11.6%** | Trend: **RASTE**
-- WACC: N/A | Spread: **N/A**
+- WACC: 10.8% | Spread: **0.8%**
 
 | Godina | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
@@ -66,10 +65,10 @@ Prošlo: 5 | Palo: 1 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 15.2% vs Prihod CAGR: 17.5%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 40.9% → **PEG_trailing = N/A**
-- Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- P/E: 42.06
+- EPS CAGR (istorijski 4g): 40.9% → **PEG_trailing = 1.03**
+- Konsenzus EPS rast (3g): 21.2% → **PEG_forward = 1.99**
+- FCF yield na EV: **3.0%** (nakon SBC: 2.6%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 17.5% | EPS CAGR: 40.9% | FCF/akcija CAGR: 115.0%
