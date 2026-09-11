@@ -52,7 +52,8 @@ def report_positions():
         L.append("Nema pozicija u data/positions.csv.")
         return "\n".join(L), None
 
-    open_rows = [r for r in rows if (r.get("status", "open").strip().lower() == "open")]
+    OPEN_STATUSES = {"open", "active"}
+    open_rows = [r for r in rows if (r.get("status", "open").strip().lower() in OPEN_STATUSES)]
     L.append("")
     L.append(f"{'Tiker':<8}{'Ulaz':<12}{'Cena ul.':>10}{'Cena sad':>10}"
              f"{'Prinos':>10}{'VUAA':>10}{'Alfa':>10}")
@@ -66,7 +67,7 @@ def report_positions():
         ret = (cp / ep - 1) if (ep and cp) else None
         bret = (bcp / bep - 1) if (bep and bcp) else None
         alfa = (ret - bret) if (ret is not None and bret is not None) else None
-        st = "" if r.get("status", "open").strip().lower() == "open" else " [zatvoreno]"
+        st = "" if r.get("status", "open").strip().lower() in OPEN_STATUSES else " [zatvoreno]"
         L.append(f"{r['ticker']:<8}{r.get('entry_date', ''):<12}"
                  f"{('N/A' if ep is None else f'{ep:.2f}'):>10}"
                  f"{('N/A' if cp is None else f'{cp:.2f}'):>10}"
