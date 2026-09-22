@@ -16,7 +16,12 @@ Ecolab je globalni lider u rešenjima za vodu, higijenu i infekcionu prevenciju,
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Instalirana dosing/dispensing oprema kod klijenta (hoteli, restorani, fabrike hrane) stvara troškove prelaska — klijent bi morao da zameni fizičku opremu i re-obuči osoblje da promeni dobavljača.
+> "Circle the customer" model (hemikalije + servisne posete) generiše recurring prihod (21.5% servisi FY2025) uz visoku ugrađenost u operativni proces klijenta.
+
+- Kategorija: troškovi prelaska (switching costs)
+- **Šta bi ubilo ovaj moat u 5 godina:** jeftinija generička hemijska rešenja bez servisne komponente preuzmu tržište kod cenovno-osetljivih klijenata
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu servisna mreža (tehničari koji redovno posećuju klijente) izgrađena decenijama, ne samo proizvodni kapacitet za hemikalije
 
 ## 3. Scorecard
 
@@ -68,15 +73,35 @@ K5 Valuacija: P/E 38.36 (NAJSKUPLJE od tri materijala kandidata). PEG_forward 3.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. ROIC nastavi da pada ispod 12% dva kvartala zaredom (obrne trend nakon FY2025 pada sa 15.4% na 13.0%) — signal da je poboljšanje bilo privremeno.
+2. Neto dug/EBITDA ponovo pređe 3.0x — signal nove velike akvizicije finansirane dugom bez dokazanog povrata (kao Purolite).
+3. Operativna marža stagnira ispod 17% — prekid dosledno rastućeg trenda.
+
+**Šta je najjači argument protiv kupovine ove akcije?** ROIC poboljšanje se dogodilo u samo 2 poslednje godine (FY2024-2025) nakon 3 godine slabijeg rezultata — uzorak je kratak da bi se sa sigurnošću reklo da je ovo nova, trajna baza kvaliteta poslovanja, a ne privremeni ciklični odskok koji će se vratiti ka istorijskom proseku.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 12% | 70% |
+| 2 | Operativna marža stabilna | ≥ 17% (±1pp) | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA < 2.5x | 70% |
+| 4 | FCF konverzija ostaje jaka | ≥ 0.9 | 70% |
+| 5 | Prihod raste | ≥ 5% god/god | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: ROIC medijana pređe 12% ILI se sektorski slot oslobodi
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 

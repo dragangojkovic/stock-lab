@@ -16,7 +16,12 @@ Sherwin-Williams proizvodi i distribuira boje i premaze kroz 3 segmenta: Paint S
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> Mreža od preko 5,000 sopstvenih prodavnica direktno opslužuje profesionalne majstore/kontraktore sa savetodavnom prodajom i lokalnom zalihom, stvarajući lojalnost baziranu na pouzdanosti/dostupnosti koju DIY-fokusirani konkurenti (Home Depot/Lowe's private-label) teško repliciraju za profesionalni segment.
+> Brend ima cenovnu moć u premium segmentu, potvrđenu najboljom bruto maržom (48.8%) od sva tri poređena materijala kandidata.
+
+- Kategorija: distribuciona gustina/kontrola kanala + brend
+- **Šta bi ubilo ovaj moat u 5 godina:** online B2B distribucija farbe direktno kontraktorima (zaobilazeći fizičke prodavnice) postane dovoljno pouzdana i brza
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** izgradnja mreže od 5,000+ prodavnica sa lokalnom zalihom i odnosima sa lokalnim kontraktorima je decenijski poduhvat, ne kapitalni izdatak koji se brzo duplira
 
 ## 3. Scorecard
 
@@ -80,15 +85,35 @@ K5 Valuacija: P/E 32.53. PEG_forward 3.35 (konsenzus rast 9.72%, blizu trailing 
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Broj prodavnica prestane da raste ili počne da opada — signal gubitka tržišnog udela profesionalnom segmentu.
+2. Operativna marža padne ispod 15% dva kvartala zaredom — prekid dosledno rastućeg trenda.
+3. D/E nastavi da raste dok equity/imovina odnos ostane ispod 15% — signal da "tanak equity" postaje strukturan rizik, ne samo posledica buyback-a.
+
+**Šta je najjači argument protiv kupovine ove akcije?** D/E od preko 2.8x i equity koji je bio ispod 12% ukupne imovine u FY2021 pokazuju da je kompanija strukturno agresivna sa finansijskim inženjeringom (buyback) — ako se ikad pojavi recesija u građevinskom/renovacionom ciklusu istovremeno sa potrebom refinansiranja duga po višim stopama, tanka equity baza daje mnogo manje prostora za apsorpciju šoka nego kod kompanija sa konzervativnijim bilansom.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ostaje visok | ≥ 15% | 70% |
+| 2 | Operativna marža stabilna | ≥ 15% (±1pp) | 70% |
+| 3 | Zaduženost ostaje umerena | Neto dug/EBITDA < 3.0x | 70% |
+| 4 | FCF konverzija ostaje jaka | ≥ 0.85 | 70% |
+| 5 | Broj prodavnica nastavlja da raste | god/god pozitivan | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: bilo koja postojeća pozicija ispadne (izlazno pravilo aktivirano) ILI se odluči povećanje broja pozicija van 8-12 raspona
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 

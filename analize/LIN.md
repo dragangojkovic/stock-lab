@@ -16,7 +16,12 @@ Linde je najveći svetski proizvođač industrijskih gasova (kiseonik, azot, vod
 
 ## 2. Moat — dve rečenice (obavezna kapija)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+> On-site/pipeline infrastruktura izgrađena direktno kod klijenta (kriogena postrojenja, cevovodi za kiseonik/azot/vodonik) integrisana je u proizvodni proces klijenta — premeštanje na drugog dobavljača zahteva novu kapitalnu investiciju i godine izgradnje, stvarajući ekstremno visoke troškove prelaska.
+> Take-or-pay ugovori od 10-20 godina obezbeđuju predvidljiv, ugovorno zaštićen prihod.
+
+- Kategorija: troškovi prelaska (switching costs) + regulatorna/infrastrukturna barijera
+- **Šta bi ubilo ovaj moat u 5 godina:** industrijski vodonik CapEx ekspanzija se pokaže neisplativom (Air Products stil impairment) i troši kapital bez povrata
+- **Zašto konkurent sa dovoljno kapitala to ne može odmah da replicira:** treba mu godine izgradnje sopstvene on-site infrastrukture kod svakog klijenta pojedinačno; postojeća pipeline mreža Linde-a je decenijska prednost koju nije moguće brzo duplirati
 
 ## 3. Scorecard
 
@@ -83,15 +88,35 @@ K5 Valuacija: P/E 32.69. PEG_trailing N/A (nije racunat u ovom prolazu), PEG_for
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+1. Test produktivnosti duga se ne popravi (dug nastavi da raste brže od EBIT-a) — signal da CapEx ekspanzija (vodonik/dekarbonizacija) ne generiše adekvatan povrat.
+2. Air Products stil operativni gubitak (impairment na vodonik projekte) se ponovi kod LIN-a — direktna potvrda da je industrijski vodonik CapEx trenutno loše investiran kapital.
+3. ROIC ex-goodwill padne ispod 18% (obrne rastući trend) — signal da čak i osnovni posao slabi, ne samo goodwill dilucija.
+
+**Šta je najjači argument protiv kupovine ove akcije?** LIN je usred velike CapEx ekspanzije u vodonik/clean energy prostoru gde je najbliži konkurent (Air Products) upravo prijavio operativni gubitak zbog istog tipa investicije — postoji realan rizik da LIN prati isti put, samo sa vremenskim pomakom, i da ćemo za 1-2 godine gledati sličan impairment.
 
 ## 7. Merljiva predviđanja za 4 kvartala — SRCE SISTEMA
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+| # | Predviđanje | Merljiv prag | Uverenost |
+|---|---|---|---|
+| 1 | ROIC ex-goodwill ostaje visok | ≥ 18% | 70% |
+| 2 | Operativna marža stabilna | ≥ 25% (±1pp) | 70% |
+| 3 | FCF prestane da opada | ≥ 0% god/god | 70% |
+| 4 | Zaduženost ostaje umerena | Neto dug/EBITDA < 2.0x | 70% |
+| 5 | CapEx tempo se stabilizuje | ne pređe $5.5mlrd | 70% |
 
 ## 8. Odluka
 
-**PREDLOG (nije odluka vlasnika) — vidi poruku u chatu za finalizaciju.**
+- [ ] Ulazi u paper portfolio
+- [x] Watchlist — čekam: FCF trend se obrne naviše 2 kvartala zaredom ILI standardni ROIC pređe 12%
+- [ ] Odbijeno — razlog: {…}
+
+**Datum ulaza:** N/A — nije ulazak, watchlist
+**Cena ulaza:** N/A
+**VUAA cena istog dana:** N/A
+**Veličina pozicije:** N/A
+
+**Izlazna pravila (definisana SADA, vezana za tezu ne za cenu):**
+1. N/A — watchlist, nema pozicije za izlaz
 
 ## 9. Izvori
 
