@@ -148,6 +148,8 @@ def report_predictions():
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     only_pred = "--predvidjanja" in sys.argv
     if not only_pred:
         txt, _ = report_positions()
