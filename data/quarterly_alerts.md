@@ -1,5 +1,9 @@
 # Kvartalni alerti
 
+## 2026-10-30
+
+- **MA** (Mastercard Incorporated) — 10-Q, podneto 2026-10-29, accession `0001141391-26-000124` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141391&type=10-Q&dateb=&owner=include&count=10)
+
 ## 2026-10-29
 
 - **ITW** (Illinois Tool Works Inc) — 10-Q, podneto 2026-10-28, accession `0000049826-26-000060` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000049826&type=10-Q&dateb=&owner=include&count=10)
