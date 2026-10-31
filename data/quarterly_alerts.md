@@ -1,5 +1,9 @@
 # Kvartalni alerti
 
+## 2026-10-31
+
+- **MANH** (Manhattan Associates Inc) — 10-Q, podneto 2026-10-30, accession `0001193125-26-441094` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001056696&type=10-Q&dateb=&owner=include&count=10)
+
 ## 2026-10-30
 
 - **MA** (Mastercard Incorporated) — 10-Q, podneto 2026-10-29, accession `0001141391-26-000124` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141391&type=10-Q&dateb=&owner=include&count=10)
