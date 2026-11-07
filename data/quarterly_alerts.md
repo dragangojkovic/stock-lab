@@ -1,5 +1,9 @@
 # Kvartalni alerti
 
+## 2026-11-07
+
+- **JKHY** (Jack Henry & Associates, Inc.) — 10-Q, podneto 2026-11-06, accession `0000779152-26-000098` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000779152&type=10-Q&dateb=&owner=include&count=10)
+
 ## 2026-11-03
 
 - **ROP** (Roper Technologies, Inc.) — 10-Q, podneto 2026-11-02, accession `0000882835-26-000047` — [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882835&type=10-Q&dateb=&owner=include&count=10)
