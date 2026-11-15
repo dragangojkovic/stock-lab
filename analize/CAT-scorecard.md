@@ -63,10 +63,10 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 6.6% vs Prihod CAGR: 7.3%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 12.3% → **PEG_trailing = N/A**
+- P/E: 31.91
+- EPS CAGR (istorijski 4g): 12.3% → **PEG_trailing = 2.60**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **2.4%** (nakon SBC: 2.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 7.3% | EPS CAGR: 12.3% | FCF/akcija CAGR: 16.3%

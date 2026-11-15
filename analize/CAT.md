@@ -1,10 +1,10 @@
 # Analiza: Caterpillar Inc. (CAT)
 
-**Datum:** 2026-11-15 | **Analitičar:** Dragan (pripremio Claude) | **Cena na dan analize:** N/A — čeka IBKR zaključnu cenu
+**Datum:** 2026-11-15 | **Analitičar:** Dragan (pripremio Claude) | **Cena na dan analize:** 600,20 USD (IBKR zaključna, petak 2026-11-13; VUAA 145,70 — prefiks 'C' tumačen kao 'close', potvrditi)
 **U krugu kompetencije:** NE — teška mehanizacija/energija nije u IT/.NET fokusu.
 
 > **STATUS: NEPOTPUNA analiza (nije završena po CLAUDE.md §10).** Popunjeno: §1 (delimično), §3, §9.
-> Čeka: IBKR cena + VUAA (§5, `fill_price.py`), beta za WACC (trenutni WACC 10% je ORIJENTACIONA PROCENA),
+> Čeka: beta za WACC (trenutni WACC 10% je ORIJENTACIONA PROCENA),
 > konkurenti (§4), vlasnikove sekcije §2, §6, §7, §8.
 > **Portfolio je pun (10/10) i sektor industrija je na limitu (docs/05 §6)** — CAT može najviše na Watchlist.
 
@@ -92,17 +92,16 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 - Zalihe CAGR: 6.6% vs Prihod CAGR: 7.3%
 
 ## K5 — Valuacija
-- P/E: N/A
-- EPS CAGR (istorijski 4g): 12.3% → **PEG_trailing = N/A**
+- P/E: 31.91
+- EPS CAGR (istorijski 4g): 12.3% → **PEG_trailing = 2.60**
 - Konsenzus EPS rast (3g): N/A → **PEG_forward = N/A**
-- FCF yield na EV: **N/A** (nakon SBC: N/A) ← ne zavisi od projekcija
+- FCF yield na EV: **2.4%** (nakon SBC: 2.3%) ← ne zavisi od projekcija
 
 **Kontrola: da li je rast EPS-a stvaran ili buyback?**
 - Prihod CAGR: 7.3% | EPS CAGR: 12.3% | FCF/akcija CAGR: 16.3%
 
 ---
 *Ovaj scorecard nije preporuka. Kapije i signali su ulaz u analizu, ne zamena za nju. Popuni `templates/analiza.md` pre bilo kakve odluke.*
-
 
 **Napomene uz scorecard:**
 - **G5 "PROŠAO" nije stvarna provera** — skript samo gleda da li je polje `moat_two_sentences` neprazno; u `data/CAT.json` stoji placeholder "POPUNI SAM". Kapija nije zaista prošla dok vlasnik ne upiše moat.
@@ -121,7 +120,18 @@ Prošlo: 6 | Palo: 0 | Nepoznato: 0 | Nije primenljivo: 0
 
 ## 5. Valuacija — dve nezavisne provere
 
-**N/A — čeka IBKR cenu.** Bez cene nema P/E, PEG, FCF yield. Pokrenuti: `python scripts/fill_price.py data/CAT.json <CENA> --growth <konsenzus>`. Napomena: PEG na vrhu ciklusa nepouzdan — osloniti se na FCF yield + normalizovan EPS.
+Cena 600,20 USD (2026-11-13), akcije 457,594M (30.09.2026), tržišna kapitalizacija $274.648M, EV $307.998M (dug i gotovina iz FY2025).
+
+| Metod | Rezultat | Šta pretpostavlja |
+|---|---|---|
+| PEG_trailing | 2,60 (P/E 31,91 na FY2025 EPS; EPS CAGR 12,3%) | prošli rast se nastavlja — ali P/E je na FY2025 koji je pad od vrha ciklusa |
+| PEG_forward | N/A — konsenzus EPS rast nije dostavljen | konsenzus analitičara je tačan |
+| FCF yield na EV | 2,4% | ništa — samo tekući cash flow |
+| FCF yield nakon SBC | 2,3% | dilacija je realan trošak (SBC/prihod 0,4%) |
+
+- P/E na TTM EPS: 600,20 / 25,48 (18,81 + 20,36 − 13,69) ≈ 23,6 — jer je 9M 2026 ubrzao (profit $9.429M vs $6.482M).
+- EV na dan 30.09.2026: gotovina $7.929M, dug $45.201M (neto dug ~$37.272M vs $33.350M u EV iznad) — FCF yield bi bio nešto niži na TTM EV.
+- PEG > 2,0 zahteva eksplicitno obrazloženje premije (CLAUDE.md K5); na vrhu/oporavku ciklusa PEG je nepouzdan.
 
 ## 6. Tri stvari koje bi opovrgle tezu (obavezno)
 

@@ -24,14 +24,15 @@
     "no_financial_debt": false
   },
   "market": {
-    "price": null,
-    "market_cap": null,
-    "enterprise_value": null,
-    "pe_ratio": null,
+    "price": 600.2,
+    "market_cap": 274647.9,
+    "enterprise_value": 307997.9,
+    "pe_ratio": 31.91,
     "consensus_eps_growth_3y": null,
-    "wacc": 0.10,
-    "_wacc_napomena": "ORIJENTACIONA PROCENA - NIJE IZRACUNATO bottom-up (cena i beta jos nisu dostupni). Pretpostavke: rf = 5,15% (10Y UST, treasury.gov, 2026-11-13, jedini verifikovan ulaz); ERP 4,5% (CLAUDE.md/skill); beta N/A - treba proveriti (stockanalysis.com je vratio 403, nije mogla da se procita); uz pretpostavljenu betu ~1,1-1,3 CoE je 10,1-11,0%; trosak duga ~4,5% pre poreza (kamate 1.861 / prosecan dug ~40.870); kapitalna struktura zavisi od trzisne kapitalizacije (nema cene). Zameniti kad stigne IBKR cena i beta.",
-    "_cena_napomena": "PRICE/PE/EV OSTAVLJENI PRAZNI NAMERNO. Cena zatvaranja iz IBKR-a (uz VUAA istog dana) pa python scripts/fill_price.py data/CAT.json <CENA> --growth <rast>."
+    "wacc": 0.1,
+    "_wacc_napomena": "ORIJENTACIONA PROCENA - NIJE IZRACUNATO bottom-up (cena i beta jos nisu dostupni). Pretpostavke: rf = 5,15% (10Y UST, treasury.gov, 2026-11-13, jedini verifikovan ulaz); ERP 4,5% (CLAUDE.md/skill); beta N/A - treba proveriti (stockanalysis.com je vratio 403, nije mogla da se procita); uz pretpostavljenu betu ~1,1-1,3 CoE je 10,1-11,0%; trosak duga ~4,5% pre poreza (kamate 1.861 / prosecan dug ~40.870); kapitalna struktura zavisi od trzisne kapitalizacije (nema cene). Zameniti kad stigne IBKR cena i beta. Sa cenom: trzisna kapitalizacija 274.648, dug 43.330 -> udeo kapitala ~86%; uz beta 1.2 CoE 10.55%, WACC ~9.6% - procena 10% ostaje konzervativna ali beta i dalje N/A.",
+    "_cena_napomena": "Cena 600.20 USD - IBKR zaključna cena petak 2026-11-13 (prosledio Dragan; prefiks 'C' u poruci tumačen kao 'close' - potvrditi). VUAA istog dana 145.70. Akcije: 457.594M izdato minus trezorske na 30.09.2026 (814.895M - 357.300M, 10-Q Q3 2026 R4), ne diluted FY2025. EV/FCF yield koriste dug i gotovinu iz FY2025 (fill_price.py); na 30.09.2026 gotovina je 7.929, ukupan dug 45.201 (FP 34.551 + MP&E 10.650), pa je neto dug ~37.272 vs 33.350 u EV. P/E 31.91 je na FY2025 EPS 18.81; TTM diluted EPS = 18.81 + 20.36 - 13.69 = 25.48 -> P/E TTM ~23.6.",
+    "_shares_used": 457.594
   },
   "years": [
     {
@@ -120,7 +121,7 @@
       "cogs": 44752,
       "ebit": 11151,
       "net_income": 8884,
-      "effective_tax_rate": 0.240,
+      "effective_tax_rate": 0.24,
       "interest_expense": 1861,
       "depreciation_amortization": 2262,
       "stock_based_comp": 242,
