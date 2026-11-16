@@ -1,9 +1,9 @@
 ticker,datum_unosa,kvartal_provere,predvidjanje,merljiv_prag,uverenost,ishod,realizovana_vrednost,napomena
-MANH,2026-08-13,Q3 2026,Cloud subscriptions rast ostaje >=15% god/god,>=15% (trenutno 21%),70%,,,
-MANH,2026-08-13,Q3 2026,Operativna marza ostaje u opsegu,>=24% (+-1pp; trenutno 25.9%),70%,,,
-MANH,2026-08-13,Q3 2026,FCF marza nakon SBC ostaje,>=20% (trenutno 24.3%),70%,,,
-MANH,2026-08-13,Q3 2026,SBC/Prihod ne prelazi prag,<=12% (trenutno 10.3%),70%,,,
-MANH,2026-08-13,Q3 2026,Ukupan prihod raste,>=5% god/god (trenutno 3.7%),70%,,,
+MANH,2026-08-13,Q3 2026,Cloud subscriptions rast ostaje >=15% god/god,>=15% (trenutno 21%),70%,ISTINITO,Q3 +28.2%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+MANH,2026-08-13,Q3 2026,Operativna marza ostaje u opsegu,>=24% (+-1pp; trenutno 25.9%),70%,ISTINITO,Q3 26.5%; 9M 23.9%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); 9M uklj. restrukturiranje $8.3M
+MANH,2026-08-13,Q3 2026,FCF marza nakon SBC ostaje,>=20% (trenutno 24.3%),70%,NETACNO,9M 16.6%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); ocenjeno na 9M (odluka vlasnika); ulaz 24.3% je FY2025
+MANH,2026-08-13,Q3 2026,SBC/Prihod ne prelazi prag,<=12% (trenutno 10.3%),70%,ISTINITO,9M 10.2%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+MANH,2026-08-13,Q3 2026,Ukupan prihod raste,>=5% god/god (trenutno 3.7%),70%,ISTINITO,Q3 +11.0%; 9M +9.3%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
 CPRT,2026-08-14,Q1 FY2027 (do 31.10.2026),Operativna marza ostaje u opsegu,>=35% (trenutno 36.5%),70%,,,
 CPRT,2026-08-14,Q1 FY2027 (do 31.10.2026),FCF konverzija ostaje,>=0.70 (trenutno tacno 0.70),70%,,,
 CPRT,2026-08-14,Q1 FY2027 (do 31.10.2026),ROIC medijana ostaje,>=20% (trenutno 23.5%),70%,,,
@@ -14,36 +14,36 @@ MEDP,2026-08-14,Q1 2027,Operativna marza ostaje u opsegu,>=18% (trenutno 21.1%),
 MEDP,2026-08-14,Q1 2027,FCF konverzija ostaje,>=1.0 (trenutno prosek 1.41),70%,,,
 MEDP,2026-08-14,Q1 2027,Prihod raste,>=15% god/god (trenutno CAGR 22.0%),70%,,,
 MEDP,2026-08-14,Q1 2027,Top 10 koncentracija ne prelazi prag,<=40% (trenutno 35.1%),70%,,,
-MA,2026-08-22,Q3 2026,Operativna marza ostaje visoka,>=55% (trenutno 57.6%),70%,,,
-MA,2026-08-22,Q3 2026,Rast switched transactions se nastavlja,>=8% god/god (trenutno +10%),70%,,,
-MA,2026-08-22,Q3 2026,FCF konverzija ostaje solidna,>=1.0 (trenutno prosek 1.03),70%,,,
-MA,2026-08-22,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA <=1.0x (trenutno 0.42x),70%,,,
-MA,2026-08-22,Q3 2026,Litigation accrual (US MDL) ne eskalira naglo,rast <=20% god/god (trenutno +14% $559M->$637M),70%,,,
-JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),ROIC ostaje visok,>=20% (trenutno 23.5%),70%,,,
-JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Operativna marza ostaje u opsegu,>=24% (+-1pp; trenutno 25.0%),70%,,,
-JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Zaduzenost ostaje minimalna,Neto dug/EBITDA <1.0x (trenutno 0.03x),70%,,,
-JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),FCF nastavlja da raste,>=8% god/god (trenutno CAGR 12.2%),70%,,,
-JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Odliv klijenata se ne ubrzava dalje,deconversion fees rast ostaje <=30% god/god (trenutno FY2026 +26.3% god/god, $33.9M->$42.8M),70%,,,
-ITW,2026-09-04,Q3 2026,ROIC ostaje visok,>=27% (trenutno 28.7%),70%,,,
-ITW,2026-09-04,Q3 2026,Operativna marza ostaje u opsegu,>=25% (+-1pp; trenutno 26.3%),70%,,,
-ITW,2026-09-04,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA <2.0x (trenutno 1.76x),70%,,,
-ITW,2026-09-04,Q3 2026,Broj akcija nastavlja da opada,CAGR ostaje negativan (trenutno -2.0%),70%,,,
-ITW,2026-09-04,Q3 2026,Prihod ne opada,>=2% god/god (trenutno CAGR 2.6%),70%,,,
-ROP,2026-09-04,Q3 2026,ROIC ex-goodwill ostaje visok,>=20% (trenutno 23.5%),70%,,,
-ROP,2026-09-04,Q3 2026,Operativna marza ostaje u opsegu,>=27% (+-1pp; trenutno 28.3%),70%,,,
-ROP,2026-09-04,Q3 2026,Zaduzenost ne pogorsava,Neto dug/EBITDA <3.0x (trenutno 2.87x),70%,,,
-ROP,2026-09-04,Q3 2026,FCF nastavlja da raste,>=8% god/god (trenutno CAGR 11.1%),70%,,,
-ROP,2026-09-04,Q3 2026,Goodwill ne prelazi granicu,Goodwill/ukupna imovina <65% (trenutno 61.7%),70%,,,
+MA,2026-08-22,Q3 2026,Operativna marza ostaje visoka,>=55% (trenutno 57.6%),70%,ISTINITO,Q3 59.8%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+MA,2026-08-22,Q3 2026,Rast switched transactions se nastavlja,>=8% god/god (trenutno +10%),70%,ISTINITO,Q3 +9%; 9M +9%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+MA,2026-08-22,Q3 2026,FCF konverzija ostaje solidna,>=1.0 (trenutno prosek 1.03),70%,NETACNO,9M 0.83,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); ocenjeno na 9M (odluka vlasnika); ulaz 1.03 je 5g prosek
+MA,2026-08-22,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA <=1.0x (trenutno 0.42x),70%,ISTINITO,~0.60x,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija iz 10-Q
+MA,2026-08-22,Q3 2026,Litigation accrual (US MDL) ne eskalira naglo,rast <=20% god/god (trenutno +14% $559M->$637M),70%,ISTINITO,accrued litigation 262 (ulaz 637),Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); god/god na 30.09.2025 nije proveren; nije raslo u odnosu na ulaz
+JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),ROIC ostaje visok,>=20% (trenutno 23.5%),70%,ISTINITO,~29%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija (Q1 x4)
+JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Operativna marza ostaje u opsegu,>=24% (+-1pp; trenutno 25.0%),70%,ISTINITO,29.5%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Zaduzenost ostaje minimalna,Neto dug/EBITDA <1.0x (trenutno 0.03x),70%,ISTINITO,~0.06x,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),FCF nastavlja da raste,>=8% god/god (trenutno CAGR 12.2%),70%,ISTINITO,Q1 +33.8% / +20.2%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); iznad pod obe definicije
+JKHY,2026-09-03,Q1 FY2027 (do 30.09.2026),Odliv klijenata se ne ubrzava dalje,deconversion fees rast ostaje <=30% god/god (trenutno FY2026 +26.3% god/god, $33.9M->$42.8M),NETACNO,Q1 deconversion +107.7% ($17.9M vs $8.6M),Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); kvartalno poredjenje; ulaz je FY,
+ITW,2026-09-04,Q3 2026,ROIC ostaje visok,>=27% (trenutno 28.7%),70%,ISTINITO,~29.2%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija (9M anualizovano)
+ITW,2026-09-04,Q3 2026,Operativna marza ostaje u opsegu,>=25% (+-1pp; trenutno 26.3%),70%,ISTINITO,Q3 27.8%; 9M 26.6%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+ITW,2026-09-04,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA <2.0x (trenutno 1.76x),70%,ISTINITO,~1.76x,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija
+ITW,2026-09-04,Q3 2026,Broj akcija nastavlja da opada,CAGR ostaje negativan (trenutno -2.0%),70%,ISTINITO,diluted 285.3M vs 291.7M (-2.2%),Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+ITW,2026-09-04,Q3 2026,Prihod ne opada,>=2% god/god (trenutno CAGR 2.6%),70%,ISTINITO,Q3 +4.4%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+ROP,2026-09-04,Q3 2026,ROIC ex-goodwill ostaje visok,>=20% (trenutno 23.5%),70%,ISTINITO,~25-27%,"Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija, osetljivo na poresku stopu"
+ROP,2026-09-04,Q3 2026,Operativna marza ostaje u opsegu,>=27% (+-1pp; trenutno 28.3%),70%,ISTINITO,Q3 28.7%; 9M 27.9%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+ROP,2026-09-04,Q3 2026,Zaduzenost ne pogorsava,Neto dug/EBITDA <3.0x (trenutno 2.87x),70%,ISTINITO,~2.85x,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija; rezerva 0.15x
+ROP,2026-09-04,Q3 2026,FCF nastavlja da raste,>=8% god/god (trenutno CAGR 11.1%),70%,NETACNO,9M +4.5%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); FCF = OCF - capex - kapitalizovan softver
+ROP,2026-09-04,Q3 2026,Goodwill ne prelazi granicu,Goodwill/ukupna imovina <65% (trenutno 61.7%),70%,ISTINITO,62.8%,"Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); raste sa 61.7%, rezerva 2.2pp"
 ULTA,2026-09-04,Q4 FY2025 (do 31.01.2026 ili Q1 FY2026),ROIC drzi nivo,>=25% (trenutno 25.4%),70%,,,
 ULTA,2026-09-04,Q4 FY2025 (do 31.01.2026 ili Q1 FY2026),Operativna marza stabilna,>=12% (+-1pp; trenutno 12.4%),70%,,,
 ULTA,2026-09-04,Q4 FY2025 (do 31.01.2026 ili Q1 FY2026),Zaduzenost ostaje niska,Neto dug/EBITDA <1.5x (trenutno 0.96x),70%,,,
 ULTA,2026-09-04,Q4 FY2025 (do 31.01.2026 ili Q1 FY2026),Prihod raste,>=6% god/god (trenutno CAGR 9.5%),70%,,,
 ULTA,2026-09-04,Q4 FY2025 (do 31.01.2026 ili Q1 FY2026),Broj akcija nastavlja da opada,CAGR ostaje negativan (trenutno -4.8%),70%,,,
-TYL,2026-09-04,Q3 2026,ROIC ex-goodwill ostaje visok,>=30% (trenutno 41.5%),70%,,,
-TYL,2026-09-04,Q3 2026,Operativna marza stabilna/raste,>=14% (+-1pp; trenutno 15.3%),70%,,,
-TYL,2026-09-04,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA negativan (trenutno -0.84x),70%,,,
-TYL,2026-09-04,Q3 2026,FCF konverzija ostaje jaka,>=1.5 (trenutno prosek 2.02),70%,,,
-TYL,2026-09-04,Q3 2026,Prihod raste,>=8% god/god (trenutno CAGR 10.0%),70%,,,
+TYL,2026-09-04,Q3 2026,ROIC ex-goodwill ostaje visok,>=30% (trenutno 41.5%),70%,ISTINITO,~50%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); aproksimacija
+TYL,2026-09-04,Q3 2026,Operativna marza stabilna/raste,>=14% (+-1pp; trenutno 15.3%),70%,ISTINITO,Q3 18.1%; 9M 16.4%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+TYL,2026-09-04,Q3 2026,Zaduzenost ostaje niska,Neto dug/EBITDA negativan (trenutno -0.84x),70%,NETACNO,~+1.1x (neto dug $622M),"Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); konvertibilne note 2031 $1410M, gotovina $788M; neto gotovina -> neto dug"
+TYL,2026-09-04,Q3 2026,FCF konverzija ostaje jaka,>=1.5 (trenutno prosek 2.02),70%,ISTINITO,9M 1.85,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16)
+TYL,2026-09-04,Q3 2026,Prihod raste,>=8% god/god (trenutno CAGR 10.0%),70%,ISTINITO,Q3 +8.7%,Q3 2026 10-Q (9M ocena po Draganovoj odluci 2026-11-16); tesno iznad praga
 GEHC,2026-09-04,Q1/Q2 2027,ROIC ostaje visok,>=12% (trenutno 13.5%),70%,,,
 GEHC,2026-09-04,Q1/Q2 2027,Operativna marza stabilna,>=13% (+-1pp; trenutno 13.4%),70%,,,
 GEHC,2026-09-04,Q1/Q2 2027,Zaduzenost ostaje umerena,Neto dug/EBITDA <2.0x (trenutno 1.65x),70%,,,
